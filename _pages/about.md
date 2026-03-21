@@ -29,13 +29,15 @@ image: 01.webp
 ---
 
 #### WY MACHINERY SDN BHD 市场行销 (marketing)
-<small>2026 - 2027</small>
+<small>2026 - 2026</small>
 
 <!-- 从数据收集开始学习,希望有机会学习建模并且评估数据 -->
 
 从 `private sql` 捉取数据并做数据分析   
 
 市场行销走`tiktok`, `ig`, `facebook` ,`email` 等广告投入并且优化seo
+
+短短的工作5天经验
 
 ---
 
