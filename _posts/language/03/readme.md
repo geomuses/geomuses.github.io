@@ -49,7 +49,8 @@ carbon footprint | 碳足迹
 produce | 产生
 diligent | 勤奋
 easy-going | 随和
-diversity | 多样性Voluntold | 自愿
+diversity | 多样性
+Voluntold | 自愿
 sincere | 真诚
 chopping board | 砧板
 whisk | 打蛋机
@@ -65,3 +66,6 @@ Voluntold | 自愿
 cadence | 语调
 Unsurprisingly | 毫不意外
 My pets didn't like each other at first, but they've learned to live in harmony with one another.| 我的宠物起初不喜欢彼此，但它们已经学会了和谐共处
+went | 去了
+brief | 简短
+preserve | 保存
