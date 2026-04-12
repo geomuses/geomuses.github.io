@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/README.md",
-                "mode": "source",
+                "file": "python/2025-07-31-py.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-07-31-py"
             }
           }
         ]
@@ -198,6 +198,22 @@
   },
   "active": "5bdafc3861cf6f5f",
   "lastOpenFiles": [
+    "python/2025-08-01-py.md",
+    "python/2025-08-02-py.md",
+    "python/2025-08-03-py.md",
+    "python/2025-08-04-py.md",
+    "python/2025-08-05-py.md",
+    "python/2025-08-09-py.md",
+    "python/2025-08-16-py.md",
+    "python/2025-08-17-py.md",
+    "python/2025-07-31-py.md",
+    "web/2025-08-02-web.md",
+    "web/2025-08-01-web.md",
+    "web/2025-07-29-web.md",
+    "web/2025-07-28-web.md",
+    "web/2025-07-27-web.md",
+    "web/2025-07-26-web.md",
+    "web/README.md",
     "web/2025-12-11-web.md",
     "web/2025-12-10-web.md",
     "web/2025-12-09-web.md",
@@ -208,23 +224,7 @@
     "web/2025-08-08-web.md",
     "web/2025-08-07-web.md",
     "web/2025-08-06-web.md",
-    "web/2025-08-05-web.md",
-    "web/2025-08-04-web.md",
-    "web/2025-08-03-web.md",
-    "web/2025-08-02-web.md",
-    "web/2025-08-01-web.md",
-    "web/2025-07-29-web.md",
-    "web/2025-07-28-web.md",
-    "web/2025-07-27-web.md",
-    "web/2025-07-26-web.md",
     "site/cv/demo.jpg",
-    "security/2025-11-26-course-note-hacker.md",
-    "life/2026-03-03-life.md",
-    "life/2026-03-21-life.md",
-    "language/04/april.md",
-    "life/2026-03-22-life.md",
-    "mining/README.md",
-    "language/04/2026-04-12-language.md",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 7.base",
