@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f93069be147dc840",
+        "id": "24bc2f8f80c6d4c3",
         "type": "tabs",
         "children": [
           {
-            "id": "5bdafc3861cf6f5f",
+            "id": "dda8a47477027853",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/2025-07-31-py.md",
-                "mode": "preview",
+                "file": "life/2026-03-03-life.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-31-py"
+              "title": "2026-03-03-life"
+            }
+          },
+          {
+            "id": "3f805822b64a92a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language/04/2026-04-12-language.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-12-language"
             }
           }
         ]
@@ -196,8 +210,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bdafc3861cf6f5f",
+  "active": "dda8a47477027853",
   "lastOpenFiles": [
+    "language/04/2026-04-12-language.md",
+    "tiktok/2026-04-13-tiktok.md",
+    "visualization/2026-01-31-visualization.md",
+    "tiktok",
+    "visualization/2026-02-01-visualization.md",
+    "visualization/2026-01-30-visualization.md",
+    "django/2025-09-21-django.md",
+    "django/2025-09-20-django.md",
+    "django/2025-09-19-django.md",
+    "django/2025-09-17-django.md",
+    "django/2025-09-16-django.md",
+    "django/2025-09-18-django.md",
+    "Untitled.base",
+    "python/2025-07-31-py.md",
     "python/2025-08-01-py.md",
     "python/2025-08-02-py.md",
     "python/2025-08-03-py.md",
@@ -206,27 +234,14 @@
     "python/2025-08-09-py.md",
     "python/2025-08-16-py.md",
     "python/2025-08-17-py.md",
-    "python/2025-07-31-py.md",
     "web/2025-08-02-web.md",
     "web/2025-08-01-web.md",
     "web/2025-07-29-web.md",
     "web/2025-07-28-web.md",
     "web/2025-07-27-web.md",
     "web/2025-07-26-web.md",
-    "web/README.md",
-    "web/2025-12-11-web.md",
-    "web/2025-12-10-web.md",
-    "web/2025-12-09-web.md",
-    "web/2025-09-17-web.md",
-    "web/2025-09-16-web.md",
-    "web/2025-08-10-web.md",
-    "web/2025-08-09-web.md",
-    "web/2025-08-08-web.md",
-    "web/2025-08-07-web.md",
-    "web/2025-08-06-web.md",
     "site/cv/demo.jpg",
     "Untitled.canvas",
-    "Untitled.base",
     "Untitled 7.base",
     "Untitled 6.base",
     "Untitled 5.base",

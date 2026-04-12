@@ -20,7 +20,7 @@ tags:
 
 # 散点图 Scatter Plot
 
-```py
+```python
 sns.scatterplot(
     data=df,
     x="total_bill",
@@ -29,7 +29,7 @@ sns.scatterplot(
 )
 ```
 
-```py
+```python
 sns.scatterplot(
     data=df,
     x="total_bill",
@@ -41,7 +41,7 @@ sns.scatterplot(
 
 # 回归图 Regression Plot
 
-```py
+```python
 sns.regplot(
     data=df,
     x="total_bill",
@@ -51,7 +51,7 @@ sns.regplot(
 
 # 按类别分回归
 
-```py
+```python
 sns.lmplot(
     data=df,
     x="total_bill",
@@ -62,6 +62,6 @@ sns.lmplot(
 
 # 多变量快速扫描：pairplot
 
-```
+```python
 sns.pairplot(df, hue="sex")
 ```

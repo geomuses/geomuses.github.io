@@ -18,6 +18,7 @@ chip | 芯片
 slightly | 稍微
 announced | 宣布
 silent | 沉默
+<!--SR:!2026-04-15,3,252-->
 venue | 场所
 abstract | 抽象
 experiment | 实验
@@ -70,6 +71,7 @@ rhythmic | 节奏感
 Voluntold | 自愿
 cadence | 语调
 Unsurprisingly | 毫不意外
+<!--SR:!2026-04-15,3,252-->
 My pets didn't like each other at first, but they've learned to live in harmony with one another.| 我的宠物起初不喜欢彼此，但它们已经学会了和谐共处
 went | 去了
 brief | 简短
