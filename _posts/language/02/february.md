@@ -1,5 +1,9 @@
-english | chinse
--- | --
+---
+tags:
+  - flashcards
+  - language
+---
+
 league | 联盟
 utility | 公用事业
 along with the | 以及

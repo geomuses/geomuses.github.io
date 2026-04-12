@@ -1,5 +1,9 @@
-english | chinse
--- | --
+---
+tags:
+  - flashcards
+  - language
+---
+
 trait | 特征
 outgoing | 外向
 unconsciously | 不知不觉

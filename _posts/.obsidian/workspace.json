@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "dab98223f7d2bb51",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ab96aad6295e63f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcba1d6d45a696c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life/2026-03-03-life.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-03-life"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a92050f74cca21a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a479018fa84f4330",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f0c4533addb6c86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5748e1a964dd738e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "073f5c8aa82200c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f11d7d3900d8ee9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7da4c3eb261dfba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1119d5a350a2c5a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "language/04/2026-04-11-language.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-04-11-language"
+            }
+          },
+          {
+            "id": "05abccf547757497",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "language/04/2026-04-11-language.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-04-11-language"
+            }
+          },
+          {
+            "id": "0059f8ee2753d2c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9bd3b4c2d33a358b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9bf3076f691e37c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "language/04/2026-04-11-language.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-04-11-language"
+            }
+          },
+          {
+            "id": "2ce37697f7a5a101",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "dcba1d6d45a696c6",
+  "lastOpenFiles": [
+    "life/2026-03-21-life.md",
+    "life/2026-03-03-life.md",
+    "language/04/april.md",
+    "life/2026-03-22-life.md",
+    "mining/README.md",
+    "language/04/2026-04-12-language.md",
+    "language/04/2026-04-09-language.md",
+    "language/02/february.md",
+    "language/03/march.md",
+    "language/04/README.md",
+    "language/01/2026-01-21-language.md",
+    "language/01/2026-01-19-language.md",
+    "2026-04-12.md",
+    "web/README.md",
+    "web/2025-12-09-web.md",
+    "web/2025-07-26-web.md",
+    "docker/2026-01-09-docker.md",
+    "docker/2026-01-10-docker.md",
+    "docker/2026-01-04-docker.md",
+    "docker/2026-01-02-docker.md",
+    "docker/2026-01-01-docker.md",
+    "docker/2025-12-27-docker.md",
+    "docker/2025-12-26-docker.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 7.base",
+    "Untitled 6.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "game/2025-08-02-pygame.md",
+    "language/04/2026-04-08-language.md",
+    "fin/2025-08-17-fin.md"
+  ]
+}
