@@ -34,6 +34,7 @@ partly | 部分
 historic sights | 历史古迹
 Australia equals the UK in offering the most parental leave in the world | 澳大利亚与英国并列全球育儿假最长的国家
 Pajamas | 睡衣
+<!--SR:!2026-04-16,4,270-->
 sweater | 毛衣
 But neither of these bans is real. | 但这两个禁令都不是真的。
 Working Out | 锻炼

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ab96aad6295e63f",
+        "id": "f93069be147dc840",
         "type": "tabs",
         "children": [
           {
-            "id": "dcba1d6d45a696c6",
+            "id": "5bdafc3861cf6f5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/2026-03-03-life.md",
+                "file": "web/README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-03-03-life"
+              "title": "README"
             }
           }
         ]
@@ -196,31 +196,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dcba1d6d45a696c6",
+  "active": "5bdafc3861cf6f5f",
   "lastOpenFiles": [
-    "life/2026-03-21-life.md",
+    "web/2025-12-11-web.md",
+    "web/2025-12-10-web.md",
+    "web/2025-12-09-web.md",
+    "web/2025-09-17-web.md",
+    "web/2025-09-16-web.md",
+    "web/2025-08-10-web.md",
+    "web/2025-08-09-web.md",
+    "web/2025-08-08-web.md",
+    "web/2025-08-07-web.md",
+    "web/2025-08-06-web.md",
+    "web/2025-08-05-web.md",
+    "web/2025-08-04-web.md",
+    "web/2025-08-03-web.md",
+    "web/2025-08-02-web.md",
+    "web/2025-08-01-web.md",
+    "web/2025-07-29-web.md",
+    "web/2025-07-28-web.md",
+    "web/2025-07-27-web.md",
+    "web/2025-07-26-web.md",
+    "site/cv/demo.jpg",
+    "security/2025-11-26-course-note-hacker.md",
     "life/2026-03-03-life.md",
+    "life/2026-03-21-life.md",
     "language/04/april.md",
     "life/2026-03-22-life.md",
     "mining/README.md",
     "language/04/2026-04-12-language.md",
-    "language/04/2026-04-09-language.md",
-    "language/02/february.md",
-    "language/03/march.md",
-    "language/04/README.md",
-    "language/01/2026-01-21-language.md",
-    "language/01/2026-01-19-language.md",
-    "2026-04-12.md",
-    "web/README.md",
-    "web/2025-12-09-web.md",
-    "web/2025-07-26-web.md",
-    "docker/2026-01-09-docker.md",
-    "docker/2026-01-10-docker.md",
-    "docker/2026-01-04-docker.md",
-    "docker/2026-01-02-docker.md",
-    "docker/2026-01-01-docker.md",
-    "docker/2025-12-27-docker.md",
-    "docker/2025-12-26-docker.md",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 7.base",
@@ -229,9 +233,6 @@
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
-    "Untitled 1.base",
-    "game/2025-08-02-pygame.md",
-    "language/04/2026-04-08-language.md",
-    "fin/2025-08-17-fin.md"
+    "Untitled 1.base"
   ]
 }
