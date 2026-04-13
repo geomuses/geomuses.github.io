@@ -38,3 +38,7 @@ boost | 促进 (to increase or improve something,提升或改善某些东西)
 praise | 赞美
 advocacy | 倡导/宣传/倡导活动
 urge |  催促/敦促
+intake | 摄入量/摄取量
+fluctuate | 波动/起伏
+repetitive | 重复的/反复的
+dietary | 饮食

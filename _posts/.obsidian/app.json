@@ -1,1 +1,7 @@
-{}
+{
+  "strictLineBreaks": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "showLineNumber": false,
+  "vimMode": false
+}

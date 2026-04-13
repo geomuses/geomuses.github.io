@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24bc2f8f80c6d4c3",
+        "id": "2019b72dbfad4f95",
         "type": "tabs",
         "children": [
           {
-            "id": "dda8a47477027853",
+            "id": "5822631efe139469",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "2026-04-13-tiktok"
-            }
-          },
-          {
-            "id": "3f805822b64a92a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "language/04/2026-04-12-language.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-12-language"
             }
           }
         ]
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "language/04/2026-04-11-language.md",
+                "file": "tiktok/2026-04-13-tiktok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-04-11-language"
+              "title": "Backlinks for 2026-04-13-tiktok"
             }
           },
           {
@@ -127,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "language/04/2026-04-11-language.md",
+                "file": "tiktok/2026-04-13-tiktok.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-04-11-language"
+              "title": "Outgoing links from 2026-04-13-tiktok"
             }
           },
           {
@@ -170,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "language/04/2026-04-11-language.md",
+                "file": "tiktok/2026-04-13-tiktok.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-11-language"
+              "title": "Outline of 2026-04-13-tiktok"
             }
           },
           {
@@ -190,12 +176,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +195,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dda8a47477027853",
+  "active": "5822631efe139469",
   "lastOpenFiles": [
+    "language/04/2026-04-13-language.md",
+    "language/04/2026-04-12-language.md",
+    "language/04/april.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "flutter/2026-02-12-flutter.md",
+    "flutter/2026-02-14-flutter.md",
+    "flutter/2026-02-13-flutter.md",
+    "bot/daily_report.md",
+    "database/2026-02-19-mongodb.md",
+    "database/2026-02-17-postgresql.md",
+    "database/2026-02-22-postgresql.md",
+    "tiktok/2026-04-13-tiktok.md",
     "web/2025-08-03-web.md",
     "web/2025-08-01-web.md",
     "web/2025-07-29-web.md",
@@ -221,27 +219,14 @@
     "game/old/2025-08-08-snake.md",
     "game/old/2025-08-09-snake.md",
     "life/2026-03-03-life.md",
-    "language/04/2026-04-12-language.md",
-    "tiktok/2026-04-13-tiktok.md",
     "visualization/2026-01-31-visualization.md",
     "tiktok",
     "visualization/2026-02-01-visualization.md",
     "visualization/2026-01-30-visualization.md",
     "django/2025-09-21-django.md",
     "django/2025-09-20-django.md",
-    "django/2025-09-19-django.md",
-    "django/2025-09-17-django.md",
-    "django/2025-09-16-django.md",
-    "django/2025-09-18-django.md",
     "Untitled.base",
-    "python/2025-07-31-py.md",
-    "python/2025-08-01-py.md",
-    "python/2025-08-02-py.md",
-    "python/2025-08-03-py.md",
-    "python/2025-08-04-py.md",
-    "python/2025-08-05-py.md",
     "site/cv/demo.jpg",
-    "Untitled.canvas",
     "Untitled 7.base",
     "Untitled 6.base",
     "Untitled 5.base",
