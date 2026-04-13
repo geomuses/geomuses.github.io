@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2019b72dbfad4f95",
+        "id": "4e7af62bca1214e0",
         "type": "tabs",
         "children": [
           {
-            "id": "5822631efe139469",
+            "id": "f0a4192fe2fca500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tiktok/2026-04-13-tiktok.md",
+                "file": "language/04/2026-04-09-language.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-13-tiktok"
+              "title": "2026-04-09-language"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tiktok/2026-04-13-tiktok.md",
+                "file": "language/04/2026-04-09-language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-04-13-tiktok"
+              "title": "Backlinks for 2026-04-09-language"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tiktok/2026-04-13-tiktok.md",
+                "file": "language/04/2026-04-09-language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-04-13-tiktok"
+              "title": "Outgoing links from 2026-04-09-language"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tiktok/2026-04-13-tiktok.md",
+                "file": "language/04/2026-04-09-language.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-13-tiktok"
+              "title": "Outline of 2026-04-09-language"
             }
           },
           {
@@ -195,13 +195,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5822631efe139469",
+  "active": "f0a4192fe2fca500",
   "lastOpenFiles": [
+    "tiktok/2026-04-13-tiktok.md",
+    "2026-04-13-stock.md",
+    "nodejs/2026-02-05-nodejs.md",
+    "solidity/2026-02-07-solidity.md",
     "language/04/2026-04-13-language.md",
+    "Untitled.md",
+    "stock",
+    "Untitled.canvas",
+    "enterprise/README.md",
     "language/04/2026-04-12-language.md",
     "language/04/april.md",
-    "Untitled.md",
-    "Untitled.canvas",
     "flutter/2026-02-12-flutter.md",
     "flutter/2026-02-14-flutter.md",
     "flutter/2026-02-13-flutter.md",
@@ -209,7 +215,6 @@
     "database/2026-02-19-mongodb.md",
     "database/2026-02-17-postgresql.md",
     "database/2026-02-22-postgresql.md",
-    "tiktok/2026-04-13-tiktok.md",
     "web/2025-08-03-web.md",
     "web/2025-08-01-web.md",
     "web/2025-07-29-web.md",
@@ -221,10 +226,6 @@
     "life/2026-03-03-life.md",
     "visualization/2026-01-31-visualization.md",
     "tiktok",
-    "visualization/2026-02-01-visualization.md",
-    "visualization/2026-01-30-visualization.md",
-    "django/2025-09-21-django.md",
-    "django/2025-09-20-django.md",
     "Untitled.base",
     "site/cv/demo.jpg",
     "Untitled 7.base",
