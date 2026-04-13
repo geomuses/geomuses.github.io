@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4e7af62bca1214e0",
+        "id": "8ba8043410f99a05",
         "type": "tabs",
         "children": [
           {
-            "id": "f0a4192fe2fca500",
+            "id": "7422bc733cac388f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/04/2026-04-09-language.md",
+                "file": "tiktok/2026-04-13-tiktok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-09-language"
+              "title": "2026-04-13-tiktok"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "language/04/2026-04-09-language.md",
+                "file": "tiktok/2026-04-13-tiktok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-04-09-language"
+              "title": "Backlinks for 2026-04-13-tiktok"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "language/04/2026-04-09-language.md",
+                "file": "tiktok/2026-04-13-tiktok.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-04-09-language"
+              "title": "Outgoing links from 2026-04-13-tiktok"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "language/04/2026-04-09-language.md",
+                "file": "tiktok/2026-04-13-tiktok.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-09-language"
+              "title": "Outline of 2026-04-13-tiktok"
             }
           },
           {
@@ -195,8 +195,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0a4192fe2fca500",
+  "active": "7422bc733cac388f",
   "lastOpenFiles": [
+    "language/04/2026-04-09-language.md",
     "tiktok/2026-04-13-tiktok.md",
     "2026-04-13-stock.md",
     "nodejs/2026-02-05-nodejs.md",
@@ -224,7 +225,6 @@
     "game/old/2025-08-08-snake.md",
     "game/old/2025-08-09-snake.md",
     "life/2026-03-03-life.md",
-    "visualization/2026-01-31-visualization.md",
     "tiktok",
     "Untitled.base",
     "site/cv/demo.jpg",
