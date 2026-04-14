@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security/2026-04-14-security.md",
+                "file": "books/2026-04-14-review.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-04-14-security"
+              "title": "2026-04-14-review"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "security/2026-04-14-security.md",
+                "file": "books/2026-04-14-review.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-14-security"
+              "title": "Outline of 2026-04-14-review"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -197,9 +197,12 @@
   },
   "active": "f15cbb8d51db5611",
   "lastOpenFiles": [
+    "books/2026-04-11-review.md",
+    "books/2026-04-14-review.md",
+    "znbox/Untitled.md",
+    "security/2026-04-14-security.md",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
-    "security/2026-04-14-security.md",
     "zttachment",
     "language/04/2026-04-15-language.md",
     "language/04/2026-04-14-language.md",
@@ -226,8 +229,6 @@
     "database/2026-02-22-postgresql.md",
     "web/2025-08-03-web.md",
     "web/2025-08-01-web.md",
-    "web/2025-07-29-web.md",
-    "web/2025-07-28-web.md",
     "tiktok",
     "Untitled.base",
     "site/cv/demo.jpg",
