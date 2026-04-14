@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7422bc733cac388f",
+            "id": "f15cbb8d51db5611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tiktok/2026-04-13-tiktok.md",
-                "mode": "source",
-                "source": false
+                "file": "security/2026-04-14-security.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-04-13-tiktok"
+              "title": "2026-04-14-security"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tiktok/2026-04-13-tiktok.md",
+                "file": "security/2026-04-14-security.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-13-tiktok"
+              "title": "Outline of 2026-04-14-security"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,15 +195,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7422bc733cac388f",
+  "active": "f15cbb8d51db5611",
   "lastOpenFiles": [
-    "language/04/2026-04-09-language.md",
+    "zttachment/Pasted image 20260414101013.png",
+    "zttachment/Pasted image 20260414100958.png",
+    "security/2026-04-14-security.md",
+    "zttachment",
+    "language/04/2026-04-15-language.md",
+    "language/04/2026-04-14-language.md",
+    "language/04/2026-04-13-language.md",
     "tiktok/2026-04-13-tiktok.md",
+    "security/2025-11-27-security.md",
+    "znbox",
+    "Untitled.md",
+    "language/04/2026-04-09-language.md",
     "2026-04-13-stock.md",
     "nodejs/2026-02-05-nodejs.md",
     "solidity/2026-02-07-solidity.md",
-    "language/04/2026-04-13-language.md",
-    "Untitled.md",
     "stock",
     "Untitled.canvas",
     "enterprise/README.md",
@@ -220,11 +228,6 @@
     "web/2025-08-01-web.md",
     "web/2025-07-29-web.md",
     "web/2025-07-28-web.md",
-    "game/2025-09-11-snake.md",
-    "game/2025-08-07-snake.md",
-    "game/old/2025-08-08-snake.md",
-    "game/old/2025-08-09-snake.md",
-    "life/2026-03-03-life.md",
     "tiktok",
     "Untitled.base",
     "site/cv/demo.jpg",
@@ -232,8 +235,6 @@
     "Untitled 6.base",
     "Untitled 5.base",
     "Untitled 4.base",
-    "Untitled 3.base",
-    "Untitled 2.base",
-    "Untitled 1.base"
+    "Untitled 3.base"
   ]
 }

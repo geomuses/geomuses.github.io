@@ -3,5 +3,8 @@
   "autoPairBrackets": false,
   "autoPairMarkdown": false,
   "showLineNumber": false,
-  "vimMode": false
+  "vimMode": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "znbox",
+  "attachmentFolderPath": "zttachment"
 }
