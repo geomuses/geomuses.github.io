@@ -1,10 +1,17 @@
 {
   "strictLineBreaks": false,
-  "autoPairBrackets": false,
-  "autoPairMarkdown": false,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
   "showLineNumber": false,
   "vimMode": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "znbox",
-  "attachmentFolderPath": "zttachment"
+  "attachmentFolderPath": "zttachment",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

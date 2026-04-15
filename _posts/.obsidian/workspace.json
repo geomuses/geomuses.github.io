@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "e560bcbaeb06e320",
+        "id": "a47f06b0acbc4cbc",
         "type": "tabs",
         "children": [
           {
-            "id": "a33abe6505daeccd",
+            "id": "36e66808874c2c5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "zther/线上课程 + 电子书制作.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "线上课程 + 电子书制作"
+            }
+          },
+          {
+            "id": "175e361debf9da80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language/04/2026-04-15-language.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-15-language"
+            }
+          },
+          {
+            "id": "0da227637fb05ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language/04/2026-04-13-language.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-13-language"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,12 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "books/2026-04-11-review.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-04-11-review"
             }
           },
           {
@@ -186,51 +220,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a33abe6505daeccd",
+  "active": "175e361debf9da80",
   "lastOpenFiles": [
-    "security/2026-04-15-security.md",
-    "language/04/2026-04-16-language.md",
-    "language/04/2026-04-15-language.md",
+    "language/04/2026-04-13-language.md",
     "language/04/2026-04-14-language.md",
-    "znbox/20.md",
-    "zemplates/language.md",
-    "tiktok/2026-04-13-tiktok.md",
-    "books/2026-04-14-review.md",
+    "language/04/2026-04-15-language.md",
+    "language/04/2026-04-16-language.md",
+    "web/2026-04-15-web.md",
+    "web/README.md",
+    "web/2025-12-11-web.md",
+    "web/2025-12-10-web.md",
+    "web/2025-12-09-web.md",
+    "web/2025-09-17-web.md",
+    "web/2025-09-16-web.md",
+    "web/2025-08-10-web.md",
+    "web/2025-08-09-web.md",
+    "web/2025-08-08-web.md",
+    "web/2025-08-07-web.md",
+    "web/2025-08-06-web.md",
+    "web/2025-08-05-web.md",
+    "web/2025-08-04-web.md",
+    "web/2025-08-03-web.md",
+    "web/2025-08-02-web.md",
+    "web/2025-08-01-web.md",
+    "web/2025-07-28-web.md",
+    "zther/线上课程 + 电子书制作.md",
+    "znbox/Untitled.md",
+    "web/2025-07-29-web.md",
+    "web/2025-07-27-web.md",
+    "zther",
     "zemplates",
-    "books/2026-04-11-review.md",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
     "zttachment",
-    "language/04/2026-04-13-language.md",
-    "security/2025-11-27-security.md",
     "znbox",
-    "Untitled.md",
-    "language/04/2026-04-09-language.md",
-    "2026-04-13-stock.md",
-    "nodejs/2026-02-05-nodejs.md",
-    "solidity/2026-02-07-solidity.md",
     "stock",
     "Untitled.canvas",
-    "enterprise/README.md",
-    "language/04/2026-04-12-language.md",
-    "language/04/april.md",
-    "flutter/2026-02-12-flutter.md",
-    "flutter/2026-02-14-flutter.md",
-    "flutter/2026-02-13-flutter.md",
-    "bot/daily_report.md",
-    "database/2026-02-19-mongodb.md",
-    "database/2026-02-17-postgresql.md",
-    "database/2026-02-22-postgresql.md",
     "tiktok",
     "Untitled.base",
     "site/cv/demo.jpg",
     "Untitled 7.base",
     "Untitled 6.base",
-    "Untitled 5.base",
-    "Untitled 4.base"
+    "Untitled 5.base"
   ]
 }
