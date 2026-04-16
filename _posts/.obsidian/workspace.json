@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1c0190fb1bdc3d97",
+        "id": "b84415e5e8ffb1ff",
         "type": "tabs",
         "children": [
           {
-            "id": "07a31a2748ebd499",
+            "id": "b87860121b7c668e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "language/04/2026-04-16-language.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-16-language"
             }
           }
         ]
@@ -190,8 +194,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0059f8ee2753d2c7",
+  "active": "b87860121b7c668e",
   "lastOpenFiles": [
+    "zemplates/language.md",
+    "znbox/2026-04-16.md",
+    "language/04/april.md",
+    "language/03/march.md",
+    "language/04/2026-04-16-language.md",
+    "language/04/2026-04-15-language.md",
+    "zther/线上课程 + 电子书制作.md",
+    "web/2026-04-16-web.md",
     "python/2025-08-17-py.md",
     "books/2026-04-16-review.md",
     "books/2026-04-15-review.md",
@@ -204,21 +216,13 @@
     "books/2026-04-11-review.md",
     "books/2026-04-14-review.md",
     "zther/购物 + 订阅.md",
-    "zther/线上课程 + 电子书制作.md",
-    "web/2026-04-16-web.md",
     "web/2026-04-15-web.md",
     "web/example/playwrightx.py",
     "web/README.md",
     "language/04/2026-04-13-language.md",
-    "language/04/2026-04-15-language.md",
     "language/04/2026-04-14-language.md",
-    "language/04/2026-04-16-language.md",
     "web/2025-12-11-web.md",
     "web/2025-12-10-web.md",
-    "web/2025-12-09-web.md",
-    "web/2025-09-17-web.md",
-    "web/2025-09-16-web.md",
-    "web/2025-08-10-web.md",
     "zther",
     "zemplates",
     "zttachment/Pasted image 20260414101013.png",

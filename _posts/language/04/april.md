@@ -42,3 +42,10 @@ intake | 摄入量/摄取量
 fluctuate | 波动/起伏
 repetitive | 重复的/反复的
 dietary | 饮食
+attraction | 景点
+trap | 陷阱
+liquid | 液体
+ingredients | 食材
+stew | 炖菜
+soak | 吸收
+what was left in the pan was just as salty as before | 但留在锅里的仍然和之前一样咸
