@@ -49,3 +49,8 @@ ingredients | 食材
 stew | 炖菜
 soak | 吸收
 what was left in the pan was just as salty as before | 但留在锅里的仍然和之前一样咸
+toddlers |  幼儿
+ puppet | 木偶
+ cooperate | 合作
+ tone | 语气
+insincere | 不真诚
