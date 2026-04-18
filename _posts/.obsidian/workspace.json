@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "868ef8beddd5b21b",
+        "id": "1fab5f16fbd85fad",
         "type": "tabs",
         "children": [
           {
-            "id": "9db10ec04d90c0d9",
+            "id": "98f749ad7def5115",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solidity/2026-02-07-solidity.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-07-solidity"
-            }
-          },
-          {
-            "id": "446a1dda232b0f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zther/线上课程 + 电子书制作.md",
+                "file": "web/2026-04-17-web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线上课程 + 电子书制作"
+              "title": "2026-04-17-web"
             }
           }
         ]
@@ -189,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,10 +192,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9db10ec04d90c0d9",
+  "active": "98f749ad7def5115",
   "lastOpenFiles": [
-    "linux/2026-04-18-linux.md",
+    "web/2026-04-18-web.md",
+    "web/2026-04-19-web.md",
+    "zther/购物 + 订阅.md",
+    "zther/线上课程 + 电子书制作.md",
     "solidity/2026-02-07-solidity.md",
+    "linux/2026-04-18-linux.md",
     "solidity/2026-02-08-solidity.md",
     "nodejs/2026-02-11-nodejs.md",
     "site/2025-11-29-site.md",
@@ -219,11 +209,8 @@
     "flask/2025-11-21-flask.md",
     "database/2026-02-25-mongodb.md",
     "django/2025-09-20-django.md",
-    "web/2026-04-19-web.md",
     "linux",
-    "zther/线上课程 + 电子书制作.md",
     "web/README.md",
-    "web/2026-04-18-web.md",
     "web/2026-04-17-web.md",
     "web/2026-04-16-web.md",
     "web/2026-04-15-web.md",
@@ -234,7 +221,6 @@
     "novel/README.md",
     "novel/2025-08-09-novel.md",
     "language/04/2026-04-18-language.md",
-    "language/04/april.md",
     "web/example/playwrightx.py",
     "zther",
     "zemplates",
