@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b41a89b344a29ce6",
+        "id": "6733bb3552bf7016",
         "type": "tabs",
         "children": [
           {
-            "id": "a078e3bd83bb40fd",
+            "id": "d23a5f740542b939",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,9 +192,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a078e3bd83bb40fd",
+  "active": "d23a5f740542b939",
   "lastOpenFiles": [
     "finance/2026-02-05-finance.md",
+    "zther/线上课程 + 电子书制作.md",
     "finance/2026-04-19-finance.md",
     "finance/2026-04-20-finance.md",
     "finance/README.md",
@@ -223,7 +224,6 @@
     "game/2025-08-07-snake.md",
     "game/2025-08-06-snake.md",
     "game/2025-08-05-snake.md",
-    "game/2025-08-04-snake.md",
     "linux",
     "web/example/playwrightx.py",
     "zther",
