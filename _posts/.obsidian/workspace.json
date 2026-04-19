@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35b4d1847959b3dd",
+        "id": "f22e9972ef8d6e6d",
         "type": "tabs",
         "children": [
           {
-            "id": "2ff48835eb04b696",
+            "id": "1a4465806db80ad8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zther/线上课程 + 电子书制作.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 线上课程 + 电子书制作"
+              "title": "Outline"
             }
           },
           {
@@ -172,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -189,35 +188,38 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7f0c4533addb6c86",
+  "active": "1a4465806db80ad8",
   "lastOpenFiles": [
+    "game/old/2025-08-08-snake.md",
+    "game/old/2025-08-09-snake.md",
+    "game/2025-08-02-pygame.md",
+    "game/dino/dino_firefox.py",
+    "game/dino",
+    "game/New folder",
+    "game/2025-08-02-snake.md",
+    "game/2025-08-03-snake.md",
+    "game/2026-04-19-dino.md",
+    "game/2025-11-29-pygame.md",
+    "game/2025-11-28-pygame.md",
+    "game/2025-11-27-pygame.md",
+    "game/2025-11-26-pygame.md",
+    "game/2025-11-25-pygame.md",
+    "game/2025-09-12-snake.md",
+    "game/2025-09-11-snake.md",
+    "game/2025-08-07-snake.md",
+    "game/2025-08-06-snake.md",
+    "game/2025-08-05-snake.md",
+    "game/2025-08-04-snake.md",
+    "znbox/flask 前言.md",
+    "znbox/Untitled.md",
+    "zther/线上课程 + 电子书制作.md",
     "zther/ARRA Residences Agents Reference.md",
     "web/2026-04-19-web.md",
     "web/2026-04-18-web.md",
-    "zther/线上课程 + 电子书制作.md",
     "web/2026-04-17-web.md",
     "zther/购物 + 订阅.md",
     "solidity/2026-02-07-solidity.md",
-    "linux/2026-04-18-linux.md",
-    "solidity/2026-02-08-solidity.md",
-    "nodejs/2026-02-11-nodejs.md",
-    "site/2025-11-29-site.md",
-    "mining/2025-11-08-text_mining.md",
-    "nodejs/2026-02-05-nodejs.md",
-    "language/04/2026-04-16-language.md",
-    "flask/2025-11-21-flask.md",
-    "database/2026-02-25-mongodb.md",
-    "django/2025-09-20-django.md",
     "linux",
-    "web/README.md",
-    "web/2026-04-16-web.md",
-    "web/2026-04-15-web.md",
-    "web/2025-12-11-web.md",
-    "web/2025-12-10-web.md",
-    "web/2025-12-09-web.md",
-    "novel/README.md",
-    "novel/2025-08-09-novel.md",
-    "language/04/2026-04-18-language.md",
     "web/example/playwrightx.py",
     "zther",
     "zemplates",
@@ -227,9 +229,6 @@
     "znbox",
     "stock",
     "Untitled.canvas",
-    "tiktok",
-    "Untitled.base",
-    "site/cv/demo.jpg",
-    "Untitled 7.base"
+    "site/cv/demo.jpg"
   ]
 }
