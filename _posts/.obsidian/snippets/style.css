@@ -1,0 +1,10 @@
+/* 修改编辑模式和预览模式的行高 */
+body {
+    --line-height-normal: 1.8; /* 调整此数值，数字越大行距越宽 */
+  }
+  
+  /* 如果只想针对正文文本 */
+  .markdown-source-view.mod-cm6 .cm-content,
+  .markdown-rendered {
+    line-height: 1.8; 
+  }
