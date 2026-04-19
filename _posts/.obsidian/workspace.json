@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/2026-04-19-finance.md",
-                "mode": "preview",
+                "file": "finance/2026-02-05-finance.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-19-finance"
+              "title": "2026-02-05-finance"
             }
           }
         ]
@@ -192,11 +192,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a078e3bd83bb40fd",
+  "active": "7f0c4533addb6c86",
   "lastOpenFiles": [
-    "finance/2026-04-20-finance.md",
     "finance/2026-04-19-finance.md",
     "finance/2026-02-05-finance.md",
+    "finance/2026-04-20-finance.md",
     "finance/README.md",
     "fin/2025-12-20-fin.md",
     "finance",
