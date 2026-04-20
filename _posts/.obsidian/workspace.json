@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "51325f21b9f1de65",
+        "id": "3d4728b2781f44a0",
         "type": "tabs",
         "children": [
           {
-            "id": "d7cc6c3e8d7c3942",
+            "id": "69d7c9e3cc1cdf81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "finance/2026-04-21-finance.md",
                 "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-21-finance"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a273483c7c063bca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "393e5a1ecc753091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "finance/2026-04-22-finance.md",
-                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-22-finance"
+              "title": "2026-04-21-finance"
             }
           }
         ]
@@ -252,14 +232,18 @@
       }
     ]
   },
-  "active": "d7cc6c3e8d7c3942",
+  "active": "69d7c9e3cc1cdf81",
   "lastOpenFiles": [
+    "finance/futu/test.py",
     "finance/2026-04-22-finance.md",
+    "finance/futu/stock_vwap.py",
     "finance/2026-04-21-finance.md",
+    "finance/2026-04-24-finance.md",
+    "finance/2026-04-23-finance.md",
+    "zther/线上课程 + 电子书制作.md",
     "finance/2026-04-20-finance.md",
     "finance/2026-04-19-finance.md",
     "finance/2026-02-05-finance.md",
-    "zther/线上课程 + 电子书制作.md",
     "finance/VWAP.md",
     "finance/stock",
     "web/2025-07-26-web.md",
@@ -278,9 +262,6 @@
     "web/2025-08-10-web.md",
     "web/2025-09-16-web.md",
     "web/2025-09-17-web.md",
-    "web/2025-12-09-web.md",
-    "web/2025-12-10-web.md",
-    "web/2025-12-11-web.md",
     "finance",
     "game/dino/dino_firefox.py",
     "game/dino",
@@ -291,7 +272,6 @@
     "zemplates",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
-    "zttachment",
     "Untitled.canvas",
     "site/cv/demo.jpg"
   ]

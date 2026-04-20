@@ -1,12 +1,3 @@
----
-layout: post
-title: 量化金融 通过futu捉取数据
-date: 2026-04-22 09:01:00 +0800
-image: 21.jpg
-tags:
-  - financial
----
-```python
 import pandas as pd
 import matplotlib.pyplot as plt
 from futu import *
@@ -15,6 +6,7 @@ from futu import *
 # 请确保 Futu OpenD 已打开并登录
 quote_ctx = OpenQuoteContext(host='127.0.0.1', port=11111)
 trd_ctx = OpenUSTradeContext(host='127.0.0.1', port=11111) # 这里以美股交易上下文为例
+pwd_unlock = '670915'
 
 def calculate_vwap_and_plot(stock_code):
     # --- 2. 获取日内 5 分钟数据 ---
@@ -56,21 +48,31 @@ def calculate_vwap_and_plot(stock_code):
     plt.show()
 
 try:
-    # --- 5. 自动提取交易的股票和 ETF ---
-    # 获取当前持仓
-    ret, pos_df = trd_ctx.position_list_query()
-    if ret == RET_OK and not pos_df.empty:
-        # 提取所有持仓的代码 (例如 'US.AAPL', 'US.GLD')
-        my_stocks = pos_df['code'].tolist()
-        print(f"检测到持仓标的: {my_stocks}")
-        
-        for stock in my_stocks:
-            calculate_vwap_and_plot(stock)
+
+    target_acc_id = 4579635
+    target_env = TrdEnv.SIMULATE  # 必须是 SIMULATE
+    
+    ret, pos_df = trd_ctx.position_list_query(acc_id=target_acc_id, trd_env=target_env)
+    
+    if ret == RET_OK:
+        if not pos_df.empty:
+            print(f"--- 模拟账户 {target_acc_id} 持仓清单 ---")
+            # 打印代码、名称、持有数量、成本价
+            print(pos_df[['code', 'stock_name', 'qty', 'cost_price']])
+            
+            # 提取代码列表供后续计算 VWAP
+            my_stocks = pos_df['code'].tolist()
+            print(f"\n准备计算以下标的的 VWAP: {my_stocks}")
+            
+            
+            # for stock in my_stocks:
+            #     calculate_vwap_and_plot(stock)
+                
+        else:
+            print(f"账户 {target_acc_id} 目前是空仓，请先在富途牛牛模拟盘里买入一点股票。")
     else:
-        print("未检测到持仓或获取失败")
+        print(f"查询失败，错误信息: {pos_df}")
 
 finally:
-    # 记得关闭上下文
-    quote_ctx.close()
     trd_ctx.close()
-```
+    quote_ctx.close()
