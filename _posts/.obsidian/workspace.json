@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zther/线上课程 + 电子书制作.md",
-                "mode": "preview",
-                "source": false
+                "file": "finance/2026-04-21-finance.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "线上课程 + 电子书制作"
+              "title": "2026-04-21-finance"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zther/线上课程 + 电子书制作.md",
+                "file": "finance/2026-04-21-finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 线上课程 + 电子书制作"
+              "title": "Outgoing links from 2026-04-21-finance"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zther/线上课程 + 电子书制作.md",
+                "file": "finance/2026-04-21-finance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 线上课程 + 电子书制作"
+              "title": "Outline of 2026-04-21-finance"
             }
           },
           {
@@ -193,8 +193,53 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0059f8ee2753d2c7",
+  "floating": {
+    "id": "45aef8cb62e230ab",
+    "type": "floating",
+    "children": [
+      {
+        "id": "12d5cc45c823142f",
+        "type": "window",
+        "children": [
+          {
+            "id": "593ea2c0dcaee6e9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b371deb9c718a555",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "zther/线上课程 + 电子书制作.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "线上课程 + 电子书制作"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 116,
+        "y": 0,
+        "width": 1272,
+        "height": 955,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d7cc6c3e8d7c3942",
   "lastOpenFiles": [
+    "finance/2026-04-20-finance.md",
+    "finance/2026-04-21-finance.md",
+    "zther/线上课程 + 电子书制作.md",
+    "finance/stock",
+    "finance/2026-04-19-finance.md",
+    "finance/2026-02-05-finance.md",
     "web/2025-07-26-web.md",
     "web/2025-07-27-web.md",
     "web/2025-07-28-web.md",
@@ -216,11 +261,6 @@
     "web/2025-12-11-web.md",
     "web/2026-04-15-web.md",
     "web/2026-04-16-web.md",
-    "web/2026-04-17-web.md",
-    "web/2026-04-18-web.md",
-    "web/2026-04-19-web.md",
-    "web/2026-04-20-web.md",
-    "web/2026-04-21-web.md",
     "finance",
     "game/dino/dino_firefox.py",
     "game/dino",
@@ -232,7 +272,6 @@
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
     "zttachment",
-    "znbox",
     "Untitled.canvas",
     "site/cv/demo.jpg"
   ]
