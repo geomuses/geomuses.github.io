@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6733bb3552bf7016",
+        "id": "51325f21b9f1de65",
         "type": "tabs",
         "children": [
           {
-            "id": "d23a5f740542b939",
+            "id": "671769cd86556322",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,11 +192,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d23a5f740542b939",
+  "active": "671769cd86556322",
   "lastOpenFiles": [
-    "finance/2026-02-05-finance.md",
+    "web/2026-04-19-web.md",
+    "flask/2025-08-03-flask.md",
+    "znbox/flask 前言.md",
     "zther/线上课程 + 电子书制作.md",
+    "language/04/2026-04-20-language.md",
+    "language/04/april.md",
+    "language/04/2026-04-18-language.md",
+    "zther/购物 + 订阅.md",
     "finance/2026-04-19-finance.md",
+    "finance/2026-02-05-finance.md",
     "finance/2026-04-20-finance.md",
     "finance/README.md",
     "fin/2025-12-20-fin.md",
@@ -217,13 +224,6 @@
     "game/2025-11-29-pygame.md",
     "game/2025-11-28-pygame.md",
     "game/2025-11-27-pygame.md",
-    "game/2025-11-26-pygame.md",
-    "game/2025-11-25-pygame.md",
-    "game/2025-09-12-snake.md",
-    "game/2025-09-11-snake.md",
-    "game/2025-08-07-snake.md",
-    "game/2025-08-06-snake.md",
-    "game/2025-08-05-snake.md",
     "linux",
     "web/example/playwrightx.py",
     "zther",

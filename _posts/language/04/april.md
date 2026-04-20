@@ -54,3 +54,9 @@ toddlers |  幼儿
  cooperate | 合作
  tone | 语气
 insincere | 不真诚
+chronotype | 生物钟类型
+ regularly | 经常 
+ regular | 正常 
+ consistency | 一致性 
+ necessarily | 必然性 
+ And over time | 随着时间的推移

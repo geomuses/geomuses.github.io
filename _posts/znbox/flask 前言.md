@@ -8,8 +8,12 @@
 ---
 ### 安装开发环境
 
+`vs code`
+
 ---
 ### 安装 Python
+
+`python`
 
 ---
 ### 安装 flask
