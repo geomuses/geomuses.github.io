@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # 获取数据
 df = yf.download("GLW", period="1d", interval="5m")
-sp500 = yf.download("SPY", period="1d", interval="5m")
+
 # --- 关键修正：处理多级索引 ---
 # 如果列名是多级的 (例如 ('Close', 'GLW'))，只保留第一级
 if isinstance(df.columns, pd.MultiIndex):
@@ -24,7 +24,6 @@ df['VWAP'] = df['Cum_PV'] / df['Cum_Vol']
 # 绘图对比
 plt.figure(figsize=(12,6))
 plt.plot(df.index, df['Close'], label='Price (GLW)', color='blue', alpha=0.6)
-# plt.plot(sp500.index, sp500['Close'], label='Price (SPY)', color='red', alpha=0.6)
 plt.plot(df.index, df['VWAP'], label='VWAP', color='orange', linestyle='--')
 plt.title("Intraday Price vs VWAP - GLW")
 plt.legend()
