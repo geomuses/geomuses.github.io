@@ -15,7 +15,7 @@
               "state": {
                 "file": "finance/2026-04-20-finance.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2026-04-20-finance"
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -236,12 +236,14 @@
   "lastOpenFiles": [
     "finance/2026-04-21-finance.md",
     "finance/2026-04-22-finance.md",
-    "zther/线上课程 + 电子书制作.md",
     "finance/2026-04-23-finance.md",
+    "database/2026-02-22-postgresql.md",
+    "zther/线上课程 + 电子书制作.md",
+    "finance/2026-04-24-finance.md",
+    "finance/2026-04-25-finance.md",
+    "finance/2026-04-20-finance.md",
     "finance/futu/test.py",
     "finance/futu/stock_vwap.py",
-    "finance/2026-04-24-finance.md",
-    "finance/2026-04-20-finance.md",
     "finance/2026-04-19-finance.md",
     "finance/2026-02-05-finance.md",
     "finance/VWAP.md",
@@ -261,7 +263,6 @@
     "web/2025-08-09-web.md",
     "web/2025-08-10-web.md",
     "web/2025-09-16-web.md",
-    "web/2025-09-17-web.md",
     "finance",
     "game/dino/dino_firefox.py",
     "game/dino",

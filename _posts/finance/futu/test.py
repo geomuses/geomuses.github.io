@@ -1,31 +1,46 @@
-import yfinance as yf
 import pandas as pd
-import matplotlib.pyplot as plt
+import requests
+import yfinance as yf
+import os
 
-# 获取数据
-df = yf.download("GLW", period="1d", interval="5m")
+def get_sp500_tickers():
+    """从维基百科安全抓取标普 500 代码"""
+    url = 'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies'
+    headers = {"User-Agent": "Mozilla/5.0"} # 伪装浏览器，破解 403
+    
+    response = requests.get(url, headers=headers)
+    # 明确指定只抓取 id 为 constituents 的那个表格
+    df = pd.read_html(response.text, attrs={'id': 'constituents'})[0]
+    
+    # 格式化代码（将 BRK.B 转为 BRK-B 以兼容 yfinance）
+    tickers = df['Symbol'].str.replace('.', '-', regex=False).tolist()
+    return tickers
 
-# --- 关键修正：处理多级索引 ---
-# 如果列名是多级的 (例如 ('Close', 'GLW'))，只保留第一级
-if isinstance(df.columns, pd.MultiIndex):
-    df.columns = df.columns.get_level_values(0)
+def batch_download_to_csv(tickers, folder="sp500_data"):
+    """批量下载日线数据"""
+    if not os.path.exists(folder):
+        os.makedirs(folder)
 
-# 现在 df['High'], df['Low'], df['Close'] 都是单级索引了，计算将恢复正常
-# 1. 计算每一根 K 线的典型价格 (TP)
-df['TP'] = (df['High'] + df['Low'] + df['Close']) / 3
+    print(f"开始批量下载 {len(tickers)} 只股票的数据...")
+    
+    # threads=True 开启多线程加速
+    data = yf.download(tickers, period="1y", interval="1d", group_by='ticker', threads=True)
 
-# 2. 计算累计成交量权重价格 和 累计成交量
-df['Cum_PV'] = (df['TP'] * df['Volume']).cumsum()
-df['Cum_Vol'] = df['Volume'].cumsum()
+    for ticker in tickers:
+        try:
+            # 解决 MultiIndex 导致的 ValueError
+            stock_df = data[ticker].copy()
+            stock_df.dropna(how='all', inplace=True) # 去除空行
+            
+            if not stock_df.empty:
+                stock_df.to_csv(f"{folder}/{ticker}.csv")
+        except Exception as e:
+            print(f"跳过 {ticker}: {e}")
 
-# 3. 得到 VWAP
-df['VWAP'] = df['Cum_PV'] / df['Cum_Vol']
-
-# 绘图对比
-plt.figure(figsize=(12,6))
-plt.plot(df.index, df['Close'], label='Price (GLW)', color='blue', alpha=0.6)
-plt.plot(df.index, df['VWAP'], label='VWAP', color='orange', linestyle='--')
-plt.title("Intraday Price vs VWAP - GLW")
-plt.legend()
-plt.xticks(rotation=45)
-plt.show()
+if __name__ == "__main__":
+    symbols = get_sp500_tickers()
+    # 先打印前 5 个确认一下
+    print("代码示例:", symbols[:5]) 
+    
+    # 执行下载
+    # batch_download_to_csv(symbols)
