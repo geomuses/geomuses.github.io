@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "strategy/2026-05-25-strategy.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-25-strategy"
+            }
+          },
+          {
+            "id": "7c72e46cb396be9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "finance/2026-04-20-finance.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "2026-04-20-finance"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -193,83 +208,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "floating": {
-    "id": "45aef8cb62e230ab",
-    "type": "floating",
-    "children": [
-      {
-        "id": "12d5cc45c823142f",
-        "type": "window",
-        "children": [
-          {
-            "id": "593ea2c0dcaee6e9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b371deb9c718a555",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "zther/线上课程 + 电子书制作.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "线上课程 + 电子书制作"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 116,
-        "y": 0,
-        "width": 1272,
-        "height": 955,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "69d7c9e3cc1cdf81",
+  "active": "0059f8ee2753d2c7",
   "lastOpenFiles": [
+    "finance/2026-04-19-finance.md",
+    "finance/2026-02-05-finance.md",
+    "finance/2026-04-20-finance.md",
     "finance/2026-04-21-finance.md",
     "finance/2026-04-22-finance.md",
     "finance/2026-04-23-finance.md",
-    "database/2026-02-22-postgresql.md",
-    "zther/线上课程 + 电子书制作.md",
     "finance/2026-04-24-finance.md",
+    "strategy/2026-05-20-strategy.md",
     "finance/2026-04-25-finance.md",
-    "finance/2026-04-20-finance.md",
+    "strategy/2026-05-25-strategy.md",
+    "strategy/2026-05-24-strategy.md",
+    "strategy/2026-05-23-strategy.md",
+    "strategy",
+    "finance/README.md",
+    "zther/线上课程 + 电子书制作.md",
+    "fin/2025-08-17-fin.md",
+    "security/2026-04-20-security.md",
+    "security/2026-04-15-security.md",
+    "security/README.md",
+    "language/04/2026-04-21-language.md",
+    "language/04/april.md",
+    "books/2026-04-19-review.md",
+    "books/2026-04-16-review.md",
+    "language/04/2026-04-20-language.md",
+    "web/2026-04-21-web.md",
+    "web/2026-04-22-web.md",
+    "fin/2025-12-02-fin.md",
     "finance/futu/test.py",
     "finance/futu/stock_vwap.py",
-    "finance/2026-04-19-finance.md",
-    "finance/2026-02-05-finance.md",
-    "finance/VWAP.md",
     "finance/stock",
-    "web/2025-07-26-web.md",
-    "web/2025-07-27-web.md",
-    "web/2025-07-28-web.md",
-    "web/2025-07-29-web.md",
-    "web/2025-08-01-web.md",
-    "web/2025-08-02-web.md",
-    "web/2025-08-03-web.md",
-    "web/2025-08-04-web.md",
-    "web/2025-08-05-web.md",
-    "web/2025-08-06-web.md",
-    "web/2025-08-07-web.md",
-    "web/2025-08-08-web.md",
-    "web/2025-08-09-web.md",
-    "web/2025-08-10-web.md",
-    "web/2025-09-16-web.md",
     "finance",
     "game/dino/dino_firefox.py",
     "game/dino",
     "game/New folder",
     "linux",
     "web/example/playwrightx.py",
-    "zther",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
     "Untitled.canvas",
