@@ -1,20 +1,47 @@
 from edgar import *
-import polars as pl
-# 必须设置身份：姓名 <邮箱>
-set_identity("boonhong56505@gmail.com")
+import google.generativeai as genai
+from google.genai import types
+import asyncio
 
-# 获取公司对象（支持 Ticker 或 CIK）
-company = Company("AAPL")
+# --- 設定 ---
+set_identity("boonhong565059@gmail.com") # SEC 要求必須設定身份
+GEMINI_API_KEY = "AIzaSyD3JcQZb7LfCq-y_4e-o-lHJZQvQyN3f3E"
 
-# 获取最新的财务数据对象
-financials = company.get_financials()
+# model = genai.GenerativeModel('gemini-1.5-pro') # 建議用 Pro 處理長文本財報
 
-# 获取三大报表 (自动返回 Pandas DataFrame)
-income_stmt = financials.income_statement()  # 利润表
-balance_sheet = financials.balance_sheet()   # 资产负债表
-cash_flow = financials.cash_flow_statement() # 现金流量表
+def get_latest_filings(ticker):
+    company = Company(ticker)
+    # 獲取最新的 10-Q (季報)
+    filings = company.get_filings(form="10-Q").latest(1)
+    # 提取 MD&A 部分（管理層討論與分析），這是財報的核心
+    return filings.obj().get_section('mda')
 
-# 先转为 Pandas，再转为 Polars
-df_pl = pl.from_pandas(income_stmt.to_dataframe(), include_index=True)
+async def analyze_report(ticker):
+    mda_text = get_latest_filings(ticker)
+    
+    prompt = f"""
+    你是一位資深的金融工程師。請分析以下 {ticker} 的最新財報 (MD&A 部分)。
+    請為我的 Obsidian 筆記輸出以下結構：
+    1. ## 💰 營收與盈利能力 (Revenue & Profitability)
+    2. ## 🚀 成長動能 (Growth Drivers)
+    3. ## ⚠️ 潛在風險 (Risk Factors)
+    4. ## 📊 給投資者的建議 (適合加倉或減倉？)
+    
+    請保持專業、簡練，並使用繁體中文。
+    財報內容：{mda_text[:10000]} # 截取部分文本避免超出 Token 限制
+    """
+    
+    client = genai.Client(api_key=GEMINI_API_KEY)
+    response = client.models.generate_content(
+            model="gemini-3-flash-preview",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                thinking_config=types.ThinkingConfig(thinking_level="low")
+            ),
+        )
+    content = f"{response.text}"
+    return content
 
-print(df_pl)
+# 執行分析
+# report = asyncio.run(analyze_report("NVDA"))
+# print(report)
