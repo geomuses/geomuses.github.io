@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3d4728b2781f44a0",
+        "id": "0566da808207258a",
         "type": "tabs",
         "children": [
           {
-            "id": "69d7c9e3cc1cdf81",
+            "id": "fa99a0216bd72fcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strategy/2026-05-25-strategy.md",
+                "file": "web/2025-08-10-web.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-25-strategy"
-            }
-          },
-          {
-            "id": "7c72e46cb396be9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "finance/2026-04-20-finance.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-20-finance"
+              "title": "2025-08-10-web"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#linux",
+                "query": "tag:#tiktok",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "finance/2026-04-20-finance.md",
+                "file": "web/2025-08-10-web.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-20-finance"
+              "title": "Outline of 2025-08-10-web"
             }
           },
           {
@@ -208,35 +193,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0059f8ee2753d2c7",
+  "active": "fa99a0216bd72fcb",
   "lastOpenFiles": [
-    "finance/2026-04-19-finance.md",
-    "finance/2026-02-05-finance.md",
-    "finance/2026-04-20-finance.md",
-    "finance/2026-04-21-finance.md",
-    "finance/2026-04-22-finance.md",
-    "finance/2026-04-23-finance.md",
-    "finance/2026-04-24-finance.md",
-    "strategy/2026-05-20-strategy.md",
-    "finance/2026-04-25-finance.md",
-    "strategy/2026-05-25-strategy.md",
-    "strategy/2026-05-24-strategy.md",
-    "strategy/2026-05-23-strategy.md",
-    "strategy",
-    "finance/README.md",
     "zther/线上课程 + 电子书制作.md",
-    "fin/2025-08-17-fin.md",
-    "security/2026-04-20-security.md",
-    "security/2026-04-15-security.md",
-    "security/README.md",
-    "language/04/2026-04-21-language.md",
-    "language/04/april.md",
-    "books/2026-04-19-review.md",
-    "books/2026-04-16-review.md",
-    "language/04/2026-04-20-language.md",
-    "web/2026-04-21-web.md",
+    "web/2026-04-16-web.md",
+    "web/README.md",
     "web/2026-04-22-web.md",
-    "fin/2025-12-02-fin.md",
+    "web/2026-04-21-web.md",
+    "web/2025-12-09-web.md",
+    "web/2025-09-17-web.md",
+    "web/2025-09-16-web.md",
+    "web/2025-08-07-web.md",
+    "web/2025-08-08-web.md",
+    "web/2025-08-09-web.md",
+    "web/2025-12-11-web.md",
+    "web/2025-08-10-web.md",
+    "web/2025-12-23-web.md",
+    "web/2026-04-15-web.md",
+    "web/2025-12-10-web.md",
+    "web/2026-04-17-web.md",
+    "web/2025-08-06-web.md",
+    "web/2025-08-05-web.md",
+    "web/2025-08-04-web.md",
+    "web/2025-08-03-web.md",
+    "web/2025-08-01-web.md",
+    "web/2025-08-02-web.md",
+    "zther/购物 + 订阅.md",
+    "zther/ARRA Residences Agents Reference.md",
+    "life/2026-03-03-life.md",
+    "strategy",
     "finance/futu/test.py",
     "finance/futu/stock_vwap.py",
     "finance/stock",

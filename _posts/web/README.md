@@ -12,13 +12,13 @@
 8 | python 反爬虫技术 | requests | ok 
 9| beautiful soup | 基本操作 | ok
 10| 项目实战 | Requests | ok
-
 11| 数据保存 | txt json csv| ok
+
+
 12| mongodb 保存 | 基本操作 | ok
 13| sqlite3 | .. | ok 
 <!-- 11| selenium | 基本操作 | ok  -->
 <!-- 9 | Python 反爬虫技术 | Selenium | ok  -->
-2025-12-13
 <!-- 11| r  e | 基本入学 | ok -->
 14| playwright | 基本操作 | ok 
 15| 项目实战 | playwright使用项目实战 | ok
