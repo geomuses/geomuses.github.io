@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zther/线上课程 + 电子书制作.md",
-                "mode": "preview",
+                "file": "language/04/2026-04-22-language.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线上课程 + 电子书制作"
+              "title": "2026-04-22-language"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zther/线上课程 + 电子书制作.md",
+                "file": "language/04/2026-04-22-language.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 线上课程 + 电子书制作"
+              "title": "Outline of 2026-04-22-language"
             }
           },
           {
@@ -195,12 +195,16 @@
   },
   "active": "642455fd3d91ebd9",
   "lastOpenFiles": [
-    "web/2026-04-22-web.md",
+    "security/2026-04-20-security.md",
+    "security/2026-04-15-security.md",
+    "web/2026-04-18-web.md",
+    "web/2026-04-17-web.md",
+    "web/2026-04-16-web.md",
+    "web/2026-04-15-web.md",
     "zther/线上课程 + 电子书制作.md",
+    "web/2026-04-22-web.md",
     "security/2025-09-14-security.md",
     "security/2026-04-22-security.md",
-    "security/2026-04-15-security.md",
-    "security/2026-04-20-security.md",
     "flask/2025-08-03-flask.md",
     "znbox/flask 前言.md",
     "books/2026-04-22-review.md",
@@ -217,10 +221,6 @@
     "finance/2026-04-24-finance.md",
     "finance/2026-04-25-finance.md",
     "finance/2026-04-26-finance.md",
-    "finance/2026-04-27-finance.md",
-    "language/04/2026-04-22-language.md",
-    "language/04/2026-04-21-language.md",
-    "finance/stock/NVD.md",
     "finance/futu/test_.py",
     "Untitled.canvas",
     "strategy",
