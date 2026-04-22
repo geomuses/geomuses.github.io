@@ -1,5 +1,10 @@
 
+### Python Web 后端开发实战：从零构建你的自动化应用
+
+geo
+
 ---
+
 ### 什么是flask?
 
 ---
@@ -8,7 +13,7 @@
 ---
 ### 安装开发环境
 
-`vs code`
+`vs code` or `cursor`
 
 ---
 ### 安装 Python
