@@ -5,8 +5,9 @@ import asyncio
 
 # --- 設定 ---
 set_identity("boonhong565059@gmail.com") # SEC 要求必須設定身份
-GEMINI_API_KEY = "AIzaSyD3JcQZb7LfCq-y_4e-o-lHJZQvQyN3f3E"
-
+BOT_TOKEN = "8312172130:AAHVyEpIItPeuiAykeuN9CMCJya_Gz6U7uk"
+CHAT_ID = "-1003370646305"
+GEMINI_API_KEY = "AIzaSyCpxUETaUx7SOWVBxYwC2rnJJULbzOTv6g"
 # model = genai.GenerativeModel('gemini-1.5-pro') # 建議用 Pro 處理長文本財報
 
 def get_latest_filings(ticker):
@@ -43,5 +44,5 @@ async def analyze_report(ticker):
     return content
 
 # 執行分析
-# report = asyncio.run(analyze_report("NVDA"))
-# print(report)
+report = asyncio.run(analyze_report("NVDA"))
+print(report)

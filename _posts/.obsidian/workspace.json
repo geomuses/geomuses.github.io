@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "29bc958a3182184d",
+        "id": "ee7097b52b38484c",
         "type": "tabs",
         "children": [
           {
-            "id": "03eeffb684bf3d3e",
+            "id": "49898d41ab787a9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/2026-04-26-finance.md",
+                "file": "finance/2026-02-05-finance.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-05-finance"
+            }
+          },
+          {
+            "id": "344d9171adb2f732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language/04/april.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-04-26-finance"
+              "title": "april"
             }
           }
         ]
@@ -113,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "finance/VWAP.md",
+                "file": "finance/2026-04-18-finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from VWAP"
+              "title": "Outgoing links from 2026-04-18-finance"
             }
           },
           {
@@ -156,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "security/2026-04-20-security.md",
+                "file": "finance/2026-04-18-finance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-20-security"
+              "title": "Outline of 2026-04-18-finance"
             }
           },
           {
@@ -193,34 +207,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "03eeffb684bf3d3e",
+  "active": "49898d41ab787a9e",
   "lastOpenFiles": [
-    "finance/2026-04-25-finance.md",
-    "finance/2026-04-26-finance.md",
-    "finance/2026-04-24-finance.md",
-    "zther/线上课程 + 电子书制作.md",
-    "zther/购物 + 订阅.md",
-    "zttachment/未来计划.md",
-    "finance/2026-02-05-finance.md",
+    "finance/2026-04-18-finance.md",
     "finance/2026-04-19-finance.md",
     "finance/2026-04-20-finance.md",
     "finance/2026-04-21-finance.md",
     "finance/2026-04-22-finance.md",
     "finance/2026-04-23-finance.md",
+    "finance/2026-04-24-finance.md",
+    "finance/2026-04-25-finance.md",
+    "finance/2026-04-26-finance.md",
+    "finance/2026-04-27-finance.md",
+    "finance/2026-02-05-finance.md",
+    "language/04/april.md",
+    "language/04/2026-04-22-language.md",
+    "language/04/2026-04-21-language.md",
+    "finance/stock/NVD.md",
+    "flask/2025-08-03-flask.md",
+    "web/2025-07-26-web.md",
+    "finance/futu/test_.py",
+    "Untitled.canvas",
+    "znbox/Untitled.md",
+    "books/2026-03-29-review.md",
+    "books/2026-03-22-review.md",
+    "zther/线上课程 + 电子书制作.md",
+    "zther/购物 + 订阅.md",
+    "zttachment/未来计划.md",
     "security/2026-04-20-security.md",
     "znbox/flask 前言.md",
     "security/2026-04-21-security.md",
-    "web/2025-08-10-web.md",
-    "web/2026-04-16-web.md",
-    "web/README.md",
-    "web/2026-04-22-web.md",
-    "web/2026-04-21-web.md",
-    "web/2025-12-09-web.md",
-    "web/2025-09-17-web.md",
-    "web/2025-09-16-web.md",
-    "web/2025-08-07-web.md",
-    "web/2025-08-08-web.md",
-    "web/2025-08-09-web.md",
     "strategy",
     "finance/futu/test.py",
     "finance/futu/stock_vwap.py",
@@ -230,10 +246,8 @@
     "game/dino",
     "game/New folder",
     "linux",
-    "web/example/playwrightx.py",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
-    "Untitled.canvas",
     "site/cv/demo.jpg"
   ]
 }
