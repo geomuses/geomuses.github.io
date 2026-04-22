@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/04/2026-04-22-language.md",
+                "file": "quant/2026-04-23-quant.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-04-22-language"
+              "title": "2026-04-23-quant"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tiktok",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "finance/2026-04-18-finance.md",
+                "file": "language/04/2026-04-13-language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-04-18-finance"
+              "title": "Outgoing links from 2026-04-13-language"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "language/04/2026-04-22-language.md",
+                "file": "language/04/2026-04-13-language.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-22-language"
+              "title": "Outline of 2026-04-13-language"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,23 +195,8 @@
   },
   "active": "642455fd3d91ebd9",
   "lastOpenFiles": [
-    "security/2026-04-20-security.md",
-    "security/2026-04-15-security.md",
-    "web/2026-04-18-web.md",
-    "web/2026-04-17-web.md",
-    "web/2026-04-16-web.md",
-    "web/2026-04-15-web.md",
-    "zther/线上课程 + 电子书制作.md",
-    "web/2026-04-22-web.md",
-    "security/2025-09-14-security.md",
-    "security/2026-04-22-security.md",
-    "flask/2025-08-03-flask.md",
-    "znbox/flask 前言.md",
-    "books/2026-04-22-review.md",
-    "books/2026-04-19-review.md",
-    "flask/2025-08-04-flask.md",
-    "language/04/april.md",
-    "finance/2026-02-05-finance.md",
+    "quant/2026-04-22-quant.md",
+    "quant/2026-04-23-quant.md",
     "finance/2026-04-18-finance.md",
     "finance/2026-04-19-finance.md",
     "finance/2026-04-20-finance.md",
@@ -219,8 +204,24 @@
     "finance/2026-04-22-finance.md",
     "finance/2026-04-23-finance.md",
     "finance/2026-04-24-finance.md",
-    "finance/2026-04-25-finance.md",
     "finance/2026-04-26-finance.md",
+    "finance/2026-04-25-finance.md",
+    "finance/2026-04-27-finance.md",
+    "quant",
+    "language/04/2026-04-13-language.md",
+    "language/04/2026-04-14-language.md",
+    "language/04/2026-04-15-language.md",
+    "language/04/2026-04-16-language.md",
+    "language/04/2026-04-17-language.md",
+    "language/04/2026-04-18-language.md",
+    "language/04/2026-04-20-language.md",
+    "language/04/2026-04-21-language.md",
+    "language/04/2026-04-22-language.md",
+    "security/2026-04-20-security.md",
+    "security/2026-04-15-security.md",
+    "web/2026-04-18-web.md",
+    "web/2026-04-17-web.md",
+    "web/2026-04-16-web.md",
     "finance/futu/test_.py",
     "Untitled.canvas",
     "strategy",
@@ -231,7 +232,6 @@
     "game/dino/dino_firefox.py",
     "game/dino",
     "game/New folder",
-    "linux",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
     "site/cv/demo.jpg"
