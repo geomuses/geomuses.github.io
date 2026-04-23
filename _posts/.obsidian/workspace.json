@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "0a4e5f42de7783e2",
+        "id": "739bb32e815bcad3",
         "type": "tabs",
         "children": [
           {
-            "id": "9571aa38e7ed6051",
+            "id": "6a7368048d9f73ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security/security.md",
+                "file": "novel/5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "security"
+              "title": "5"
+            }
+          },
+          {
+            "id": "91b86c23b8fa4e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "novel/7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7"
+            }
+          },
+          {
+            "id": "5ddc840394695b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "novel/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#《我的精神日记》第一章",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,18 +206,26 @@
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9571aa38e7ed6051",
+  "active": "7f0c4533addb6c86",
   "lastOpenFiles": [
-    "znbox/3.md",
-    "znbox/1.md",
-    "znbox/flask 前言.md",
-    "znbox/2.md",
-    "novel/2026-04-25-novel.md",
-    "novel/2026-04-23-novel.md",
+    "novel/7.md",
+    "novel/6.md",
+    "novel/5.md",
+    "novel/4.md",
+    "novel/3.md",
+    "novel/2.md",
+    "novel/1.md",
     "novel/2026-04-24-novel.md",
+    "novel/2026-04-25-novel.md",
+    "znbox/kanban.md",
+    "znbox/flask 前言.md",
+    "znbox/security.md",
+    "zther/线上课程 + 电子书制作.md",
+    "novel/2026-04-23-novel.md",
     "novel/2025-08-17-novel.md",
     "novel/2025-08-18-novel.md",
     "novel/2025-08-19-novel.md",
@@ -198,18 +235,11 @@
     "books/2026-04-22-review.md",
     "language/04/2026-04-23-language.md",
     "language/04/2026-04-22-language.md",
-    "security/security.md",
     "znbox/Untitled.base",
     "security/2026-04-20-security.md",
     "security/2026-04-15-security.md",
     "novel/README.md",
     "Untitled.canvas",
-    "znbox/Untitled 1.md",
-    "novel/2025-08-09-novel.md",
-    "quant/2026-04-22-quant.md",
-    "quant/2026-04-23-quant.md",
-    "sklearn/2025-12-29-sklearn.md",
-    "sklearn/2025-12-26-sklearn.md",
     "quant",
     "finance/futu/test_.py",
     "strategy",
