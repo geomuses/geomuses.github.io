@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/04/2026-04-23-language.md",
+                "file": "novel/2025-08-17-novel.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-04-23-language"
+              "title": "2025-08-17-novel"
             }
           }
         ]
@@ -182,21 +182,25 @@
   },
   "active": "2a92a08f3e37dc6b",
   "lastOpenFiles": [
-    "language/04/2026-04-22-language.md",
+    "novel/2025-08-18-novel.md",
+    "novel/2025-08-19-novel.md",
+    "novel/2025-08-20-novel.md",
+    "novel/2026-04-23-novel.md",
+    "novel/2026-04-24-novel.md",
+    "novel/2026-04-25-novel.md",
+    "novel/2026-04-22-novel.md",
+    "books/2026-04-23-review.md",
+    "books/2026-04-22-review.md",
     "language/04/2026-04-23-language.md",
+    "language/04/2026-04-22-language.md",
     "security/2026-04-23-security.md",
     "znbox/Untitled.base",
     "security/2026-04-20-security.md",
     "security/2026-04-15-security.md",
-    "novel/2026-05-24-novel.md",
-    "novel/2026-05-23-novel.md",
-    "novel/2026-05-22-novel.md",
     "novel/README.md",
     "Untitled.canvas",
     "znbox/Untitled 1.md",
     "znbox/Untitled.md",
-    "novel/2025-08-20-novel.md",
-    "novel/2025-08-19-novel.md",
     "novel/2025-08-09-novel.md",
     "quant/2026-04-22-quant.md",
     "quant/2026-04-23-quant.md",
@@ -206,10 +210,6 @@
     "sklearn/2025-12-24-sklearn.md",
     "sklearn/2025-12-23-sklearn.md",
     "sklearn/2025-12-22-sklearn.md",
-    "sklearn/2025-12-21-sklearn.md",
-    "sklearn/2025-12-20-sklearn.md",
-    "sklearn/2025-12-19-sklearn.md",
-    "sklearn/2025-12-18-sklearn.md",
     "quant",
     "finance/futu/test_.py",
     "strategy",
