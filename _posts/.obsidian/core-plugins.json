@@ -2,9 +2,9 @@
   "file-explorer": true,
   "global-search": true,
   "switcher": true,
-  "graph": true,
+  "graph": false,
   "backlink": true,
-  "canvas": true,
+  "canvas": false,
   "outgoing-link": true,
   "tag-pane": true,
   "footnotes": false,
@@ -16,7 +16,7 @@
   "command-palette": true,
   "slash-command": false,
   "editor-status": true,
-  "bookmarks": true,
+  "bookmarks": false,
   "markdown-importer": false,
   "zk-prefixer": false,
   "random-note": false,
@@ -28,6 +28,6 @@
   "file-recovery": true,
   "publish": false,
   "sync": true,
-  "bases": true,
+  "bases": false,
   "webviewer": false
 }
