@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4553530b32c6330f",
+        "id": "0a4e5f42de7783e2",
         "type": "tabs",
         "children": [
           {
-            "id": "2a92a08f3e37dc6b",
+            "id": "9571aa38e7ed6051",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "novel/2025-08-17-novel.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-08-17-novel"
+              "title": "New tab"
             }
           }
         ]
@@ -180,14 +176,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2a92a08f3e37dc6b",
+  "active": "9571aa38e7ed6051",
   "lastOpenFiles": [
+    "znbox/3.md",
+    "znbox/1.md",
+    "znbox/flask 前言.md",
+    "znbox/2.md",
+    "novel/2026-04-25-novel.md",
+    "novel/2026-04-23-novel.md",
+    "novel/2026-04-24-novel.md",
+    "novel/2025-08-17-novel.md",
     "novel/2025-08-18-novel.md",
     "novel/2025-08-19-novel.md",
     "novel/2025-08-20-novel.md",
-    "novel/2026-04-23-novel.md",
-    "novel/2026-04-24-novel.md",
-    "novel/2026-04-25-novel.md",
     "novel/2026-04-22-novel.md",
     "books/2026-04-23-review.md",
     "books/2026-04-22-review.md",
@@ -200,16 +201,11 @@
     "novel/README.md",
     "Untitled.canvas",
     "znbox/Untitled 1.md",
-    "znbox/Untitled.md",
     "novel/2025-08-09-novel.md",
     "quant/2026-04-22-quant.md",
     "quant/2026-04-23-quant.md",
     "sklearn/2025-12-29-sklearn.md",
     "sklearn/2025-12-26-sklearn.md",
-    "sklearn/2025-12-25-sklearn.md",
-    "sklearn/2025-12-24-sklearn.md",
-    "sklearn/2025-12-23-sklearn.md",
-    "sklearn/2025-12-22-sklearn.md",
     "quant",
     "finance/futu/test_.py",
     "strategy",
