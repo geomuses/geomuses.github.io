@@ -11,10 +11,14 @@
             "id": "9571aa38e7ed6051",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "security/security.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "security"
             }
           }
         ]
@@ -194,7 +198,7 @@
     "books/2026-04-22-review.md",
     "language/04/2026-04-23-language.md",
     "language/04/2026-04-22-language.md",
-    "security/2026-04-23-security.md",
+    "security/security.md",
     "znbox/Untitled.base",
     "security/2026-04-20-security.md",
     "security/2026-04-15-security.md",
