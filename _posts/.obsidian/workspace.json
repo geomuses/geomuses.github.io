@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/2026-04-27-finance.md",
+                "file": "strategy/2026-05-25-strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-27-finance"
+              "title": "2026-05-25-strategy"
             }
           }
         ]
@@ -183,6 +183,11 @@
   },
   "active": "ab7b8187e636b8f0",
   "lastOpenFiles": [
+    "strategy/2026-05-24-strategy.md",
+    "strategy/2026-05-23-strategy.md",
+    "strategy/2026-05-20-strategy.md",
+    "quant/2026-04-22-quant.md",
+    "finance/2026-04-27-finance.md",
     "language/04/2026-04-24-language.md",
     "language/04/2026-04-23-language.md",
     "novel/12.md",
@@ -204,11 +209,6 @@
     "novel/2026-04-25-novel.md",
     "znbox/kanban.md",
     "znbox/flask 前言.md",
-    "znbox/security.md",
-    "novel/2026-04-23-novel.md",
-    "novel/2025-08-17-novel.md",
-    "novel/2025-08-18-novel.md",
-    "novel/2025-08-19-novel.md",
     "znbox/Untitled.base",
     "Untitled.canvas",
     "quant",
