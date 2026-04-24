@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "novel/2026-04-25-novel.md",
+                "file": "finance/2026-04-23-finance.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-04-25-novel"
+              "title": "2026-04-23-finance"
+            }
+          },
+          {
+            "id": "6c30729bc5efe938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "finance/2026-04-30-finance.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-30-finance"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,16 +196,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ab7b8187e636b8f0",
+  "active": "7f0c4533addb6c86",
   "lastOpenFiles": [
-    "novel/2026-04-24-novel.md",
+    "finance/2026-04-29-finance.md",
+    "finance/2026-04-30-finance.md",
+    "finance/2026-04-28-finance.md",
+    "finance/2026-04-23-finance.md",
+    "finance/2026-04-24-finance.md",
+    "znbox/Untitled.md",
+    "finance/2026-04-25-finance.md",
+    "finance/2026-04-27-finance.md",
+    "quant/2026-04-22-quant.md",
     "novel/2026-04-25-novel.md",
+    "novel/2026-04-24-novel.md",
     "strategy/2026-05-20-strategy.md",
     "strategy/2026-05-23-strategy.md",
     "strategy/2026-05-24-strategy.md",
     "strategy/2026-05-25-strategy.md",
-    "quant/2026-04-22-quant.md",
-    "finance/2026-04-27-finance.md",
     "language/04/2026-04-24-language.md",
     "language/04/2026-04-23-language.md",
     "novel/12.md",
@@ -202,13 +224,6 @@
     "novel/9.md",
     "zther/购物 + 订阅.md",
     "novel/1.md",
-    "novel/5.md",
-    "novel/7.md",
-    "novel/6.md",
-    "novel/4.md",
-    "novel/3.md",
-    "novel/2.md",
-    "znbox/kanban.md",
     "znbox/Untitled.base",
     "Untitled.canvas",
     "quant",
