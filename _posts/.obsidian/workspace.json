@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/2026-04-30-finance.md",
-                "mode": "source",
+                "file": "security/2026-04-23-security.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-04-30-finance"
+              "title": "2026-04-23-security"
             }
           }
         ],
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "novel/2026-05-22-novel.md",
+                "file": "finance/2026-04-30-finance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-22-novel"
+              "title": "Outline of 2026-04-30-finance"
             }
           },
           {
@@ -198,8 +198,8 @@
   },
   "active": "7f0c4533addb6c86",
   "lastOpenFiles": [
-    "finance/2026-04-29-finance.md",
     "finance/2026-04-30-finance.md",
+    "finance/2026-04-29-finance.md",
     "finance/2026-04-28-finance.md",
     "finance/2026-04-23-finance.md",
     "finance/2026-04-24-finance.md",
