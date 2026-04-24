@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "security/2026-04-23-security.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -196,7 +196,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7f0c4533addb6c86",
+  "active": "6c30729bc5efe938",
   "lastOpenFiles": [
     "finance/2026-04-30-finance.md",
     "finance/2026-04-29-finance.md",
