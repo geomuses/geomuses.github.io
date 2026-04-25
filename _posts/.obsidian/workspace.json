@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a2d64db743e76238",
+        "id": "9561b0e8dccac5ec",
         "type": "tabs",
         "children": [
           {
-            "id": "ee9343e7b7f9f521",
+            "id": "92a62b1738a4dd48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "finance/2026-05-03-finance.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-05-03-finance"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#draft",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "finance/2026-05-03-finance.md",
+                "file": "finance/2026-05-04-finance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-03-finance"
+              "title": "Outline of 2026-05-04-finance"
             }
           },
           {
@@ -181,10 +177,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ee9343e7b7f9f521",
+  "active": "7f0c4533addb6c86",
   "lastOpenFiles": [
-    "finance/2026-05-02-finance.md",
+    "fin/2025-08-17-fin.md",
+    "finance/2026-04-23-finance.md",
+    "finance/2026-04-24-finance.md",
+    "finance/2026-04-22-finance.md",
+    "finance/2026-04-20-finance.md",
+    "finance/2026-04-21-finance.md",
+    "finance/2026-04-25-finance.md",
+    "finance/2026-04-26-finance.md",
+    "finance/2026-05-04-finance.md",
     "finance/2026-05-03-finance.md",
+    "finance/2026-05-02-finance.md",
     "finance/2026-05-01-finance.md",
     "finance/2026-04-29-finance.md",
     "novel/2.md",
@@ -200,15 +205,6 @@
     "novel/7.md",
     "novel/6.md",
     "books/2026-04-23-review.md",
-    "finance/2026-04-18-finance.md",
-    "finance/2026-04-19-finance.md",
-    "language/04/2026-04-25-language.md",
-    "language/04/2026-04-04-language.md",
-    "language/04/2026-04-12-language.md",
-    "language/04/2026-04-23-language.md",
-    "language/04/2026-04-24-language.md",
-    "security/2026-04-20-security.md",
-    "novel/14.md",
     "znbox/Untitled.base",
     "Untitled.canvas",
     "quant",
