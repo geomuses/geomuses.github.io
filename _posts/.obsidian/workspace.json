@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8e8534f6fb4c99",
+        "id": "5addca2e1b8f3dc5",
         "type": "tabs",
         "children": [
           {
-            "id": "c3833fb1c5e17b3f",
+            "id": "07e9223264f72b99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "quant/2026-04-26-quant.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-26-quant"
             }
           }
         ]
@@ -177,8 +181,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c3833fb1c5e17b3f",
+  "active": "07e9223264f72b99",
   "lastOpenFiles": [
+    "znbox/Untitled.md",
+    "quant/2026-04-26-quant.md",
+    "quant/2026-04-22-quant.md",
+    "finance/2026-05-05-finance.md",
+    "finance/2026-05-04-finance.md",
+    "finance/2026-05-03-finance.md",
+    "finance/2026-05-02-finance.md",
+    "finance/2026-05-01-finance.md",
+    "finance/2026-04-29-finance.md",
+    "finance/2026-04-28-finance.md",
+    "finance/2026-04-27-finance.md",
+    "finance/2026-04-26-finance.md",
+    "finance/2026-04-23-finance.md",
+    "finance/2026-04-24-finance.md",
+    "finance/2026-04-25-finance.md",
+    "znbox/2026-04-26-language.md",
+    "language/04/2026-04-25-language.md",
     "books/2026-04-26-review.md",
     "novel/1.md",
     "life/2026-04-26-life.md",
@@ -188,23 +209,6 @@
     "books/2026-04-16-review.md",
     "books/2026-04-19-review.md",
     "zther/flask 前言.md",
-    "zther/未来计划.md",
-    "economy/2026-02-15-economy.md",
-    "economy/2026-02-16-economy.md",
-    "finance/2026-05-04-finance.md",
-    "fin/2025-08-17-fin.md",
-    "finance/2026-04-23-finance.md",
-    "finance/2026-04-24-finance.md",
-    "finance/2026-04-22-finance.md",
-    "finance/2026-04-20-finance.md",
-    "finance/2026-04-21-finance.md",
-    "finance/2026-04-25-finance.md",
-    "finance/2026-04-26-finance.md",
-    "finance/2026-05-03-finance.md",
-    "finance/2026-05-02-finance.md",
-    "finance/2026-05-01-finance.md",
-    "finance/2026-04-29-finance.md",
-    "novel/2.md",
     "znbox/Untitled.base",
     "Untitled.canvas",
     "quant",
