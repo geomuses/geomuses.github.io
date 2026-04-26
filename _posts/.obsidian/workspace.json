@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9561b0e8dccac5ec",
+        "id": "21a2843d514fa62b",
         "type": "tabs",
         "children": [
           {
-            "id": "92a62b1738a4dd48",
+            "id": "e217afdee7458115",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "books/2026-04-26-review.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-26-review"
             }
           }
         ]
@@ -142,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "finance/2026-05-04-finance.md",
+                "file": "zther/flask 前言.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-04-finance"
+              "title": "Outline of flask 前言"
             }
           },
           {
@@ -162,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -177,8 +181,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7f0c4533addb6c86",
+  "active": "e217afdee7458115",
   "lastOpenFiles": [
+    "books/2026-04-23-review.md",
+    "books/2026-04-22-review.md",
+    "books/2026-04-26-review.md",
+    "books/2026-04-16-review.md",
+    "books/2026-04-19-review.md",
+    "zther/flask 前言.md",
+    "zther/未来计划.md",
+    "economy/2026-02-15-economy.md",
+    "economy/2026-02-16-economy.md",
+    "finance/2026-05-04-finance.md",
     "fin/2025-08-17-fin.md",
     "finance/2026-04-23-finance.md",
     "finance/2026-04-24-finance.md",
@@ -187,7 +201,6 @@
     "finance/2026-04-21-finance.md",
     "finance/2026-04-25-finance.md",
     "finance/2026-04-26-finance.md",
-    "finance/2026-05-04-finance.md",
     "finance/2026-05-03-finance.md",
     "finance/2026-05-02-finance.md",
     "finance/2026-05-01-finance.md",
@@ -196,15 +209,6 @@
     "novel/1.md",
     "novel/3.md",
     "novel/5.md",
-    "novel/4.md",
-    "novel/16.md",
-    "novel/15.md",
-    "novel/10.md",
-    "novel/9.md",
-    "novel/8.md",
-    "novel/7.md",
-    "novel/6.md",
-    "books/2026-04-23-review.md",
     "znbox/Untitled.base",
     "Untitled.canvas",
     "quant",
