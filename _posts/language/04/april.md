@@ -64,3 +64,13 @@ chronotype | 生物钟类型
 Routines may not work for all of us, and some people like life to be unpredictable. But for others, a "boring" routine is just what they need!  | 例行公事可能并不适用于所有人，有些人喜欢生活充满不确定性。但对另一些人来说，“无聊”的例行公事正是他们所需要的！
 Night Moves | 夜行者
 mystery | 神秘
+distract  |  分心
+retro | 复古
+Sales of MP3 players fell as phones began to be able to play music. | 随着手机开始能够播放音乐，MP3 播放器的销量下降了
+influential | 有影响力
+in honor of  | 为纪念
+ancestor  | 祖先
+obligation | 义务
+distant |  远的
+mild | 温和的
+wondered | 想知道

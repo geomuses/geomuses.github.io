@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5addca2e1b8f3dc5",
+        "id": "b5e957ba8548d302",
         "type": "tabs",
         "children": [
           {
-            "id": "07e9223264f72b99",
+            "id": "08731394925fff7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant/2026-04-26-quant.md",
-                "mode": "preview",
+                "file": "language/04/april.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-04-26-quant"
+              "title": "april"
             }
           }
         ]
@@ -103,12 +103,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "language/04/2026-04-13-language.md",
+                "file": "znbox/2026-05-07-finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-04-13-language"
+              "title": "Outgoing links from 2026-05-07-finance"
             }
           },
           {
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zther/flask 前言.md",
+                "file": "znbox/2026-05-07-finance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of flask 前言"
+              "title": "Outline of 2026-05-07-finance"
             }
           },
           {
@@ -181,34 +181,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "07e9223264f72b99",
+  "active": "08731394925fff7f",
   "lastOpenFiles": [
-    "quant/2026-04-22-quant.md",
-    "quant/2026-04-26-quant.md",
-    "znbox/Untitled.md",
-    "finance/2026-05-05-finance.md",
-    "finance/2026-05-04-finance.md",
-    "finance/2026-05-03-finance.md",
-    "finance/2026-05-02-finance.md",
-    "finance/2026-05-01-finance.md",
-    "finance/2026-04-29-finance.md",
-    "finance/2026-04-28-finance.md",
-    "finance/2026-04-27-finance.md",
-    "finance/2026-04-26-finance.md",
-    "finance/2026-04-23-finance.md",
-    "finance/2026-04-24-finance.md",
-    "finance/2026-04-25-finance.md",
-    "znbox/2026-04-26-language.md",
+    "language/04/2026-04-27-language.md",
+    "language/04/april.md",
+    "language/04/2026-04-22-language.md",
+    "language/04/2026-04-23-language.md",
+    "language/04/2026-04-24-language.md",
     "language/04/2026-04-25-language.md",
-    "books/2026-04-26-review.md",
-    "novel/1.md",
-    "life/2026-04-26-life.md",
-    "life/2026-03-03-life.md",
-    "books/2026-04-23-review.md",
-    "books/2026-04-22-review.md",
-    "books/2026-04-16-review.md",
-    "books/2026-04-19-review.md",
     "zther/flask 前言.md",
+    "znbox/finance.md",
+    "znbox/README_XAUUSD_ML_EA.md",
+    "novel/1.md",
+    "novel/2025-08-09-novel.md",
+    "novel/2026-04-25-novel.md",
+    "novel/2026-04-24-novel.md",
+    "znbox/Untitled.md",
+    "finance/2026-05-06-finance.md",
+    "quant/2026-04-22-quant.md",
+    "fin/2025-12-20-fin.md",
+    "fin/2025-12-19-fin.md",
+    "fin/2025-12-18-fin.md",
+    "fin/2025-12-17-fin.md",
+    "fin/2025-12-16-fin.md",
+    "fin/2025-12-14-fin.md",
+    "fin/2025-12-12-fin.md",
+    "fin/2025-12-11-fin.md",
+    "fin/2025-12-10-fin.md",
+    "fin/2025-12-09-fin.md",
     "znbox/Untitled.base",
     "Untitled.canvas",
     "quant",
