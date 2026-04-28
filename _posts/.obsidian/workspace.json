@@ -11,10 +11,14 @@
             "id": "e40bfc664c782e8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "quant/2026-04-28-quant.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-28-quant"
             }
           }
         ]
@@ -177,10 +181,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "e40bfc664c782e8c",
   "lastOpenFiles": [
+    "quant/example_.py",
+    "quant/example.py",
+    "quant/2026-04-22-quant.md",
+    "quant/2026-04-28-quant.md",
     "Untitled",
-    "znbox/2026-04-28.md",
     "finance/2026-04-30-finance.md",
     "finance/2026-05-08-finance.md",
     "finance/2026-05-07-finance.md",
@@ -203,7 +210,6 @@
     "novel/2025-08-09-novel.md",
     "novel/2026-04-25-novel.md",
     "novel/2026-04-24-novel.md",
-    "quant/2026-04-22-quant.md",
     "fin/2025-12-20-fin.md",
     "znbox/Untitled.base",
     "Untitled.canvas",
@@ -214,8 +220,6 @@
     "finance/futu/stock_vwap.py",
     "finance/stock",
     "finance",
-    "game/dino/dino_firefox.py",
-    "game/dino",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
     "site/cv/demo.jpg"
