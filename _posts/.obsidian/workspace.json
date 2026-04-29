@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/2026-04-30-finance.md",
+                "file": "flask/2025-08-12-flask.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-04-30-finance"
+              "title": "2025-08-12-flask"
+            }
+          },
+          {
+            "id": "4479e45d03f343e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/2026-04-29-review.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-29-review"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,14 +198,24 @@
   },
   "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
-    "finance/2026-05-08-finance.md",
-    "finance/2026-04-30-finance.md",
+    "books/2026-04-26-review.md",
+    "books/2026-04-29-review.md",
+    "zther/线上课程 + 电子书制作.md",
+    "flask/2025-08-12-flask.md",
+    "flask/2025-08-13-flask.md",
+    "flask/2025-08-11-flask.md",
+    "flask/2025-08-10-flask.md",
+    "flask/2025-08-09-flask.md",
+    "flask/2025-08-08-flask.md",
+    "znbox/2026-05-09-finance.md",
     "finance/2026-05-07-finance.md",
+    "finance/2026-05-08-finance.md",
+    "finance/2026-05-05-finance.md",
+    "finance/2026-04-30-finance.md",
     "finance/2026-05-01-finance.md",
     "finance/2026-05-02-finance.md",
     "finance/2026-05-03-finance.md",
     "finance/2026-05-04-finance.md",
-    "finance/2026-05-05-finance.md",
     "language/04/2026-04-28-language.md",
     "security/2025-11-26-course-note-hacker.md",
     "security/2026-04-29-security.md",
@@ -202,15 +227,6 @@
     "Untitled",
     "language/04/2026-04-27-language.md",
     "security/2026-04-23-security.md",
-    "language/04/april.md",
-    "language/04/2026-04-22-language.md",
-    "language/04/2026-04-23-language.md",
-    "language/04/2026-04-24-language.md",
-    "language/04/2026-04-25-language.md",
-    "zther/flask 前言.md",
-    "znbox/README_XAUUSD_ML_EA.md",
-    "novel/1.md",
-    "novel/2025-08-09-novel.md",
     "znbox/Untitled.base",
     "Untitled.canvas",
     "quant",
