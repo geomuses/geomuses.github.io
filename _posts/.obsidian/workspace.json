@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/05/2026-05-01-language.md",
+                "file": "zther/线上课程 + 电子书制作.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-01-language"
+              "title": "线上课程 + 电子书制作"
+            }
+          },
+          {
+            "id": "f4971c51a2cb1381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "finance/2026-04-30-finance.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-30-finance"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,36 +196,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8243c6e12456ef79",
+  "active": "f4971c51a2cb1381",
   "lastOpenFiles": [
-    "language/04/2026-04-30-language.md",
     "finance/2026-05-01-finance.md",
-    "books/2026-05-01-review.md",
+    "finance/2026-05-02-finance.md",
+    "finance/2026-05-03-finance.md",
+    "finance/2026-05-04-finance.md",
+    "finance/2026-05-05-finance.md",
+    "finance/2026-05-07-finance.md",
+    "finance/2026-05-08-finance.md",
+    "finance/2026-05-09-finance.md",
+    "zther/课纲.md",
+    "finance/2026-04-22-finance.md",
     "zther/线上课程 + 电子书制作.md",
-    "zther/未来计划.md",
     "language/05/2026-05-01-language.md",
-    "language/04/april.md",
-    "language/05/2026-05-02-language.md",
-    "language/05/may.md",
+    "finance/2026-04-21-finance.md",
+    "finance/2026-04-23-finance.md",
+    "finance/2026-04-24-finance.md",
+    "finance/2026-04-25-finance.md",
+    "finance/2026-04-26-finance.md",
+    "finance/2026-04-27-finance.md",
+    "finance/2026-04-28-finance.md",
+    "zther/购物 + 订阅.md",
+    "zther/未来计划.md",
+    "zther/kanban.md",
+    "zther/flask 前言.md",
+    "znbox/finance学习.md",
+    "language/04/2026-04-30-language.md",
+    "books/2026-05-01-review.md",
     "Untitled",
     "language/05",
-    "finance/2026-05-09-finance.md",
-    "finance/2026-05-08-finance.md",
-    "books/2026-04-30-review.md",
-    "znbox/finance学习.md",
-    "zther/kanban.md",
-    "language/04/2026-04-29-language.md",
-    "language/04/2026-04-28-language.md",
-    "flask/2025-08-12-flask.md",
-    "books/2026-04-29-review.md",
-    "books/2026-04-26-review.md",
-    "flask/2025-08-13-flask.md",
-    "flask/2025-08-11-flask.md",
-    "flask/2025-08-10-flask.md",
-    "flask/2025-08-09-flask.md",
-    "flask/2025-08-08-flask.md",
-    "finance/2026-05-07-finance.md",
-    "finance/2026-05-05-finance.md",
     "quant/example_.py",
     "quant/example.py",
     "znbox/Untitled.base",
