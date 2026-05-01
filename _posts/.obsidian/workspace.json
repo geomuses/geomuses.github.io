@@ -11,10 +11,14 @@
             "id": "76cdbca4d231ab69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "language/04/2026-05-02-language.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-05-02-language"
             }
           }
         ]
@@ -177,20 +181,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "76cdbca4d231ab69",
+  "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
+    "language/04/2026-05-01-language.md",
+    "language/04/2026-05-02-language.md",
+    "language/04/2026-04-30-language.md",
+    "finance/2026-05-09-finance.md",
+    "finance/2026-05-08-finance.md",
+    "books/2026-05-01-review.md",
+    "books/2026-04-30-review.md",
     "znbox/finance学习.md",
     "zther/线上课程 + 电子书制作.md",
     "zther/未来计划.md",
     "zther/kanban.md",
     "language/04/april.md",
     "language/04/2026-04-29-language.md",
-    "language/04/2026-04-30-language.md",
     "language/04/2026-04-28-language.md",
     "flask/2025-08-12-flask.md",
-    "znbox/2026-05-01-review.md",
-    "znbox/2026-05-09-finance.md",
-    "books/2026-04-30-review.md",
     "books/2026-04-29-review.md",
     "books/2026-04-26-review.md",
     "flask/2025-08-13-flask.md",
@@ -199,12 +206,9 @@
     "flask/2025-08-09-flask.md",
     "flask/2025-08-08-flask.md",
     "finance/2026-05-07-finance.md",
-    "finance/2026-05-08-finance.md",
     "finance/2026-05-05-finance.md",
     "finance/2026-04-30-finance.md",
     "finance/2026-05-01-finance.md",
-    "finance/2026-05-02-finance.md",
-    "finance/2026-05-03-finance.md",
     "quant/example_.py",
     "quant/example.py",
     "Untitled",
