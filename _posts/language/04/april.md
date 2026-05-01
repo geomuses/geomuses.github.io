@@ -73,4 +73,9 @@ ancestor  | 祖先
 obligation | 义务
 distant |  远的
 mild | 温和的
-wondered | 想知道
+wondered | 想知道 
+boomer | 流行词
+ explosion | 爆炸性的成长
+ opinions | 意见
+ illegal | 非法
+Vaping | 电子烟

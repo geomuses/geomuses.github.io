@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4efd44435e253cf7",
+        "id": "69044fdd701a7894",
         "type": "tabs",
         "children": [
           {
-            "id": "1e38b23c7fd15afa",
+            "id": "76cdbca4d231ab69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flask/2025-08-12-flask.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-08-12-flask"
-            }
-          },
-          {
-            "id": "4479e45d03f343e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/2026-04-29-review.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-29-review"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,18 +177,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "76cdbca4d231ab69",
   "lastOpenFiles": [
-    "books/2026-04-26-review.md",
-    "books/2026-04-29-review.md",
+    "znbox/finance学习.md",
     "zther/线上课程 + 电子书制作.md",
+    "zther/未来计划.md",
+    "zther/kanban.md",
+    "language/04/april.md",
+    "language/04/2026-04-29-language.md",
+    "language/04/2026-04-30-language.md",
+    "language/04/2026-04-28-language.md",
     "flask/2025-08-12-flask.md",
+    "znbox/2026-05-01-review.md",
+    "znbox/2026-05-09-finance.md",
+    "books/2026-04-30-review.md",
+    "books/2026-04-29-review.md",
+    "books/2026-04-26-review.md",
     "flask/2025-08-13-flask.md",
     "flask/2025-08-11-flask.md",
     "flask/2025-08-10-flask.md",
     "flask/2025-08-09-flask.md",
     "flask/2025-08-08-flask.md",
-    "znbox/2026-05-09-finance.md",
     "finance/2026-05-07-finance.md",
     "finance/2026-05-08-finance.md",
     "finance/2026-05-05-finance.md",
@@ -215,18 +205,9 @@
     "finance/2026-05-01-finance.md",
     "finance/2026-05-02-finance.md",
     "finance/2026-05-03-finance.md",
-    "finance/2026-05-04-finance.md",
-    "language/04/2026-04-28-language.md",
-    "security/2025-11-26-course-note-hacker.md",
-    "security/2026-04-29-security.md",
-    "quant/2026-04-28-quant.md",
-    "language/04/2026-04-29-language.md",
     "quant/example_.py",
     "quant/example.py",
-    "quant/2026-04-22-quant.md",
     "Untitled",
-    "language/04/2026-04-27-language.md",
-    "security/2026-04-23-security.md",
     "znbox/Untitled.base",
     "Untitled.canvas",
     "quant",
