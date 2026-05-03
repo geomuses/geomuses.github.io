@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c151000b67eca10b",
+        "id": "0fd4df66fbd23df6",
         "type": "tabs",
         "children": [
           {
-            "id": "8243c6e12456ef79",
+            "id": "6ac9ea981c86c5c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zther/线上课程 + 电子书制作.md",
+                "file": "flask/2025-08-03-flask.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "线上课程 + 电子书制作"
-            }
-          },
-          {
-            "id": "f4971c51a2cb1381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flask/2025-08-13-flask.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-13-flask"
+              "title": "2025-08-03-flask"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,13 +191,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f4971c51a2cb1381",
+  "active": "6ac9ea981c86c5c4",
   "lastOpenFiles": [
-    "language/05/2026-05-01-language.md",
+    "zther/flask 前言.md",
     "flask/2025-08-03-flask.md",
+    "python/2025-08-05-py.md",
+    "python/2025-08-04-py.md",
+    "python/2025-08-02-py.md",
+    "python/2025-08-01-py.md",
+    "python/2025-08-03-py.md",
+    "zther/课纲.md",
+    "flask/2025-08-14-flask.md",
+    "zther/未来计划.md",
+    "zther/线上课程 + 电子书制作.md",
+    "flask/2025-08-13-flask.md",
+    "language/05/2026-05-01-language.md",
     "flask/2025-08-04-flask.md",
     "flask/2025-08-05-flask.md",
-    "zther/课纲.md",
     "language/05/2026-05-02-language.md",
     "znbox/Untitled.md",
     "web/2025-08-01-web.md",
@@ -223,18 +218,8 @@
     "web/2025-08-06-web.md",
     "web/2025-08-07-web.md",
     "web/2025-08-08-web.md",
-    "flask/2025-08-14-flask.md",
-    "flask/2025-08-13-flask.md",
     "flask/2025-11-02-flask.md",
     "flask/example/form.html",
-    "finance/2026-04-30-finance.md",
-    "finance/2026-05-01-finance.md",
-    "finance/2026-05-02-finance.md",
-    "finance/2026-05-03-finance.md",
-    "finance/2026-05-04-finance.md",
-    "finance/2026-05-05-finance.md",
-    "finance/2026-05-07-finance.md",
-    "finance/2026-05-08-finance.md",
     "Untitled",
     "language/05",
     "quant/example_.py",
