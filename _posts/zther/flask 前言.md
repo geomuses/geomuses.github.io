@@ -31,11 +31,11 @@ pip install flask --break-system-packages
 ### 虚拟环境
 
 ```bash
-python -m venv env
+python -m venv quant
 ```
 
 ```bash
-.\env\Scripts\activate
+.\quant\Scripts\activate
 ```
 
 ```bash
