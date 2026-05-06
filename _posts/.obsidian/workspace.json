@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40ad279fccd90c40",
+        "id": "705bb53d90ef803d",
         "type": "tabs",
         "children": [
           {
-            "id": "460bde13ae3d6eef",
+            "id": "5fcf8b896169852b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,41 +187,41 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "5fcf8b896169852b",
   "lastOpenFiles": [
-    "flask/2025-11-02-flask.md",
-    "flask/2025-08-14-flask.md",
-    "flask/2025-08-13-flask.md",
-    "flask/2025-08-12-flask.md",
-    "flask/2025-08-11-flask.md",
-    "flask/2025-08-10-flask.md",
-    "flask/2025-08-09-flask.md",
-    "flask/2025-08-08-flask.md",
-    "flask/2025-08-07-flask.md",
     "zther/课纲.md",
+    "finance/2026-05-10-finance.md",
+    "znbox/2026-05-11-finance.md",
+    "finance/2026-05-09-finance.md",
+    "finance/flask/2025-11-02-flask.md",
+    "finance/flask/2025-08-14-flask.md",
+    "finance/flask/2025-08-13-flask.md",
+    "finance/flask/2025-08-12-flask.md",
+    "finance/flask/2025-08-11-flask.md",
+    "finance/flask/2025-08-10-flask.md",
+    "finance/flask/2025-08-09-flask.md",
+    "finance/flask/2025-08-08-flask.md",
+    "finance/flask/2025-08-07-flask.md",
     "zther/线上课程 + 电子书制作.md",
-    "flask/2025-08-06-flask.md",
-    "flask/2025-08-05-flask.md",
+    "finance/flask/2025-08-06-flask.md",
+    "finance/flask/2025-08-05-flask.md",
     "language/05/2026-05-07-language.md",
     "language/05/2026-05-06-language.md",
     "language/05/may.md",
     "language/05/2026-05-05-language.md",
     "language/05/2026-05-01-language.md",
     "language/05/2026-05-04-language.md",
-    "flask/example/app/templates/index.html",
-    "flask/example/app/templates",
-    "flask/example/app/app.py",
-    "flask/example/app",
+    "finance/flask/example/app/templates/index.html",
+    "finance/flask/example/app/templates",
+    "finance/flask/example/app/app.py",
+    "finance/flask/example/app",
     "flask/example/templates",
-    "flask/2025-08-04-flask.md",
+    "finance/flask/2025-08-04-flask.md",
     "novel/2026-05-05-novel.md",
     "novel/2026-05-04-novel.md",
     "novel/2026-05-03-novel.md",
-    "novel/2026-05-02-novel.md",
-    "novel/2026-05-01-novel.md",
-    "novel/2026-05-06-novel.md",
     "flask/example/app.py",
-    "flask/example/form.html",
+    "finance/flask/example/form.html",
     "Untitled",
     "language/05",
     "quant/example_.py",
