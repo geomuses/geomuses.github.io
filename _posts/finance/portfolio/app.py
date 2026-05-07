@@ -1,69 +1,4 @@
----
-layout: post
-title: 量化金融 投资组合实际上怎么获利？
-date: 2026-05-09 09:01:00 +0800
-image: 21.jpg
-tags:
-  - financial
-  - python
----
-
-建立投资组合的核心获利逻辑，并非单纯依靠预测单只股票的涨跌，而是通过资产配置（Asset Allocation）**和**风险溢价（Risk Premium）来获取持续的收益。
-
-实际操作中，获利主要来自以下四个维度：
-
-### 1. 获取不同资产的“长期贝塔”（Beta）收益
-
-这是投资组合最基础的利润来源。不同的资产类别背后代表着不同的获利驱动力：
-
-- **股票/权益类：** 获利本质上是分享企业成长带来的**利润分红**和**净资产增值**。
-    
-- **债券/固定收益类：** 获利来自于借款人支付的**利息（票息）**。
-    
-- **大宗商品：** 获利来自于供需关系失衡导致的**价格波动**或通胀补偿。
-
-> os : **“贝塔”本质上是“市场的平均收益”。** 当你建立一个涵盖大盘的组合时，你获利的逻辑不是因为你选股眼光准，而是因为你成为了资产背后的“债主”或“股东”。
-    
-
-### 2. 利用“再平衡”（Rebalancing）实现高抛低吸
-
-这是投资组合相比单只股票最大的获利“神技”。
-
-- **逻辑：** 假设你设定股票和债券各占 50%。当股市大涨，股票比例变成 60%，债券降至 40% 时，再平衡要求你卖出 10% 的股票（高位套现），买入 10% 的债券（低位增持）。
-    
-- **结果：** 这种纪律化的操作强制你在资产估值偏高时卖出，偏低时买入，从而在长期的震荡行情中创造额外的收益。
-    
-
-### 3. 风险对冲与减少“波动损耗”
-
-获利不仅是赚多少，还包括**少亏多少**。
-
-- **数学事实：** 如果你的账户亏损了 50%，你需要涨 100% 才能回本。
-    
-- **组合机制：** 通过持有相关性较低的资产（例如：当股市下跌时，国债或黄金往往上涨），你可以显著降低组合的波动率（Volatility）。波动越小，资金复利的效率就越高。
-    
-
-### 4. 捕捉特定因子的超额收益（Smart Beta）
-
-在基础配置之上，可以通过偏向某些证明有效的“因子”来增强获利：
-
-- **价值因子：** 买入价格低于内在价值的资产。
-    
-- **动量因子：** 追随近期表现强势的趋势。
-    
-- **低波动因子：** 挑选波动性较小的标的，在熊市中表现更稳健。
-
-### 实际获利的计算公式
-
-在财务工程视角下，你的总收益可以拆解为：
-
-$$Total\ Return = \sum (Weight_i \times Return_i) + Rebalancing\ Alpha - Costs$$
-
-- **权重与收益：** 各资产的表现。
-- **再平衡 Alpha：** 调仓带来的额外盈利。
-- **成本：** 扣除交易佣金、管理费和税收（这是获利的关键：**低成本即高收益**）。
-    
-```python
+#%%
 import yfinance as yf
 import numpy as np
 import pandas as pd
@@ -118,6 +53,21 @@ print(pd.Series(max_sharpe_weights, index=mean_returns.index))
 print("\n=== Min Volatility Weights ===")
 print(pd.Series(min_vol_weights, index=mean_returns.index))
 
+# 1. 定义效用函数
+def utility_func(vol, utility_level, lmbda):
+    # 根据 U = R - 0.5 * lambda * var 变形得出 R
+    return utility_level + 0.5 * lmbda * (vol**2)
+
+# 2. 设置参数
+# lmbda 越大，曲线越陡（越保守）；lmbda 越小，曲线越平缓（越冒险）
+lmbda = 3.0  
+vols_range = np.linspace(min_vol_std * 0.8, max_sharpe_std * 1.5, 100)
+
+# 3. 计算特定点的效用（例如：最大 Sharpe 点或最小波动点的效用）
+# 这里我们以最大 Sharpe 点为切点示例
+utility_at_max_sharpe = max_sharpe_ret - 0.5 * lmbda * (max_sharpe_std**2)
+utility_at_min_vol = min_vol_ret - 0.5 * lmbda * (min_vol_std**2)
+
 # 1. 定义有效边界计算函数
 def efficient_frontier(mean_returns, cov_matrix, returns_range):
     eff_vols = []
@@ -131,6 +81,7 @@ def efficient_frontier(mean_returns, cov_matrix, returns_range):
             {'type': 'eq', 'fun': lambda x: np.sum(x) - 1},
             {'type': 'eq', 'fun': lambda x: np.sum(mean_returns * x) - target_ret}
         )
+        
         result = minimize(min_variance, initial_weights, 
                           args=(mean_returns, cov_matrix),
                           method='SLSQP', bounds=bounds, constraints=constraints)
@@ -154,8 +105,8 @@ delta = 0.08 / market_var
 pi = delta * (sigma @ mkt_weights)
 
 P = np.array([
-    [1, -1, 0, 0],  
-    [0, 0, 1, 0]    
+    [1, -1, 0, 0],  # AAPL vs MSFT
+    [0, 0, 1, 0]    # GOOGL absolute
 ])
 Q = np.array([0.02, 0.10])
 
@@ -200,6 +151,13 @@ plt.scatter(max_sharpe_std, max_sharpe_ret, color='red', marker='*', s=200, labe
 # 标注最小波动率组合
 plt.scatter(min_vol_std, min_vol_ret, color='green', marker='o', s=100, label='Min Volatility')
 
+# 绘制不同效用水平的无异曲线
+plt.plot(vols_range, utility_func(vols_range, utility_at_max_sharpe, lmbda), 
+         'g-', alpha=0.6, label=f'Indifference Curve (Utility Max Sharpe, $\lambda$={lmbda})')
+
+plt.plot(vols_range, utility_func(vols_range, utility_at_min_vol, lmbda), 
+         'g:', alpha=0.4, label=f'Indifference Curve (Utility Min Vol)')
+
 #bl
 plt.scatter(bl_std, bl_ret, color='blue', marker='o', s=100, label='BL')
 plt.title('Portfolio Optimization: Efficient Frontier')
@@ -208,4 +166,3 @@ plt.ylabel('Annualized Returns')
 plt.legend()
 plt.grid(True, linestyle='--', alpha=0.7)
 plt.show()
-```
