@@ -18,3 +18,20 @@ willing | 愿意 We're not sure if your ideas for the website will work, but we'
  assign  | 分配
  discussion | 讨论
  compared with 12% of people who have four-year | 拥有四年制学位的人中只有 12%的人这样认为
+ slaves | 奴隶
+bunch | 一群
+sacrifice | 牺牲
+numb | 麻木
+took test | 测试
+suit | 正装
+I'd 是英语中 I would 或 I had 的缩写 | 我将/会”、“我想要”（表示意愿或假设）或“我曾经”（表示过去）。
+advantages | 优势
+besides | 除了
+squeeze with other people while commuting | 不用逼车
+useless | 没用
+how much longer do you need | 还需要多少时间
+you said that three hours ago | 你已经花3小时了
+teasing | 酸我
+personal charm | 个人魅力
+refuse | reject
+highs-up | 上头
