@@ -34,4 +34,10 @@ you said that three hours ago | 你已经花3小时了
 teasing | 酸我
 personal charm | 个人魅力
 refuse | reject
-highs-up | 上头
+highs-up | 上头 
+critical | 关键
+ blame | 责备
+ Among Babies | 婴儿之间
+ healthy development | 健康发育
+ avoid | 避免
+ 

@@ -158,6 +158,23 @@ plt.plot(vols_range, utility_func(vols_range, utility_at_max_sharpe, lmbda),
 plt.plot(vols_range, utility_func(vols_range, utility_at_min_vol, lmbda), 
          'g:', alpha=0.4, label=f'Indifference Curve (Utility Min Vol)')
 
+         # --- 计算 CAL / CML 线段 ---
+# 这里的 max_sharpe_std 和 max_sharpe_ret 是你代码中已经算出的切点
+# 我们生成一系列波动率，从 0 到 有效边界最大波动的 1.2 倍
+cml_x = np.linspace(0, max(efficient_vols) * 1.2, 100)
+cml_y = risk_free_rate + max_sharpe_ratio * cml_x
+
+# --- 在绘图中添加 CAL ---
+plt.plot(cml_x, cml_y, color='purple', linestyle='-', linewidth=2, 
+         label=f'CML / CAL (Sharpe: {max_sharpe_ratio:.2f})')
+
+# 标注无风险利率点
+plt.scatter(0, risk_free_rate, color='black', marker='o', s=100, label='Risk-free Rate')
+
+# 调整坐标轴范围，确保看到原点 (0, Rf)
+plt.xlim(0, max(efficient_vols) * 1.3)
+plt.ylim(min(target_returns) * 0.8, max(cml_y))
+
 #bl
 plt.scatter(bl_std, bl_ret, color='blue', marker='o', s=100, label='BL')
 plt.title('Portfolio Optimization: Efficient Frontier')
