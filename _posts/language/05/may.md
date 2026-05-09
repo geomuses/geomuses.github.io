@@ -40,4 +40,6 @@ critical | 关键
  Among Babies | 婴儿之间
  healthy development | 健康发育
  avoid | 避免
- 
+ salons | 沙龙
+ bankrupt | 破产
+ lifespan | 寿命
