@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "084ceb3fcb95f18a",
+        "id": "2db946d9f2006940",
         "type": "tabs",
         "children": [
           {
-            "id": "b908421631fed42b",
+            "id": "e09b5f39d5a93939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/2026-05-08-finance.md",
+                "file": "game/2026-04-19-dino.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-08-finance"
+              "title": "2026-04-19-dino"
             }
           }
         ]
@@ -176,11 +176,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,24 +192,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b908421631fed42b",
+  "active": "e09b5f39d5a93939",
   "lastOpenFiles": [
-    "finance/2026-05-09-finance.md",
-    "finance/2026-05-08-finance.md",
-    "finance/2026-05-13-finance.md",
-    "finance/2026-05-12-finance.md",
-    "finance/README.md",
-    "znbox/finance学习.md",
+    "game/README.md",
+    "game/2026-04-19-dino.md",
+    "znbox/2026-05-11-linux.md",
+    "znbox/2026-05-12-linux.md",
+    "flask/2025-08-03-flask.md",
+    "quant/2026-04-28-quant.md",
+    "flutter/2026-02-13-flutter.md",
+    "quant/2026-04-22-quant.md",
+    "python/2025-07-31-py.md",
+    "database/2026-02-22-postgresql.md",
+    "zther/课纲.md",
+    "flask/2025-08-13-flask.md",
+    "linux/README.md",
+    "znbox/2026-05-10-linux.md",
+    "linux",
+    "flask/2025-11-02-flask.md",
     "flask/2025-08-12-flask.md",
     "flask/2025-08-11-flask.md",
     "flask/2025-08-10-flask.md",
-    "fin/README.md",
-    "finance/2026-05-11-finance.md",
-    "zther/课纲.md",
-    "language/05/2026-05-07-vocabulary.md",
-    "language/05/2026-05-09-vocabulary.md",
-    "language/05/2026-05-09-language.md",
-    "flask/2026-05-09-flask.md",
+    "flask/2025-08-09-flask.md",
+    "flask/2025-11-15-flask.md",
+    "flask/2025-11-16-flask.md",
+    "flask/2025-11-21-flask.md",
+    "flask/2025-11-28-flask.md",
+    "flask/2025-11-29-flask.md",
+    "flask/2025-12-01-flask.md",
+    "flask/2025-08-08-flask.md",
     "flask/instance/data.db",
     "flask/instance",
     "flask/example/database/__pycache__/models.cpython-313.pyc",
@@ -218,17 +230,6 @@
     "flask/example/database/templates/users.html",
     "flask/example/database/templates",
     "flask/example/database/models.py",
-    "flask/example/database/app.py",
-    "flask/2025-12-01-flask.md",
-    "flask/2025-08-13-flask.md",
-    "flask/2025-08-14-flask.md",
-    "zther/购物 + 订阅.md",
-    "language/05/may.md",
-    "language/04/april.md",
-    "language/05/2026-05-08-language.md",
-    "python/2025-08-05-py.md",
-    "python/2025-08-04-py.md",
-    "flask/2025-08-09-flask.md",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
