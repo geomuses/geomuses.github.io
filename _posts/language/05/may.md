@@ -42,4 +42,9 @@ critical | 关键
  avoid | 避免
  salons | 沙龙
  bankrupt | 破产
- lifespan | 寿命
+ lifespan | 寿命 
+ as random as | 像随机一样 
+ obvious way | 显而易见的方式 
+ restrict | 限制 
+ regulate | 规范 
+ anticipate | 预料 
