@@ -11,14 +11,10 @@
             "id": "e09b5f39d5a93939",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "game/2026-04-19-dino.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-19-dino"
+              "title": "New tab"
             }
           }
         ]
@@ -192,12 +188,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e09b5f39d5a93939",
+  "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
-    "game/README.md",
-    "game/2026-04-19-dino.md",
-    "znbox/2026-05-11-linux.md",
     "znbox/2026-05-12-linux.md",
+    "znbox/2026-05-11-linux.md",
+    "game/2026-05-09-dino.md",
+    "game/2026-04-19-dino.md",
+    "game/dino/app.py",
+    "game/README.md",
     "flask/2025-08-03-flask.md",
     "quant/2026-04-28-quant.md",
     "flutter/2026-02-13-flutter.md",
@@ -219,8 +217,6 @@
     "flask/2025-11-21-flask.md",
     "flask/2025-11-28-flask.md",
     "flask/2025-11-29-flask.md",
-    "flask/2025-12-01-flask.md",
-    "flask/2025-08-08-flask.md",
     "flask/instance/data.db",
     "flask/instance",
     "flask/example/database/__pycache__/models.cpython-313.pyc",
@@ -229,7 +225,6 @@
     "flask/example/database/templates/index,html",
     "flask/example/database/templates/users.html",
     "flask/example/database/templates",
-    "flask/example/database/models.py",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
