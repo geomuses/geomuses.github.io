@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/flask/2026-05-13-flask.md",
+                "file": "_posts/flask/2026-05-14-flask.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-13-flask"
+              "title": "2026-05-14-flask"
             }
           },
           {
@@ -228,8 +228,11 @@
   },
   "active": "3cb4008da2a4fc38",
   "lastOpenFiles": [
-    "_posts/flask/2026-05-12-flask.md",
     "_posts/flask/2026-05-13-flask.md",
+    "_posts/flask/2026-05-14-flask.md",
+    "_posts/flask/old/2025-11-16-flask.md",
+    "_posts/flask/2025-11-15-flask.md",
+    "_posts/flask/2026-05-12-flask.md",
     "_posts/game/2025-08-04-snake.md",
     "instance/data_.db-journal",
     "instance/data_.db",
@@ -270,9 +273,6 @@
     "_posts/znbox/finance学习.md",
     "_posts/web/README.md",
     "_posts/web/2026-04-22-web.md",
-    "_posts/web/2026-04-21-web.md",
-    "_posts/web/2026-04-20-web.md",
-    "_posts/web/2026-04-19-web.md",
-    "_posts/web/2026-04-18-web.md"
+    "_posts/web/2026-04-21-web.md"
   ]
 }
