@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/zther/线上课程 + 电子书制作.md",
-                "mode": "preview",
+                "file": "_posts/flask/2026-05-13-flask.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "线上课程 + 电子书制作"
+              "title": "2026-05-13-flask"
             }
           },
           {
@@ -228,13 +228,23 @@
   },
   "active": "3cb4008da2a4fc38",
   "lastOpenFiles": [
+    "_posts/flask/2026-05-12-flask.md",
+    "_posts/flask/2026-05-13-flask.md",
     "_posts/game/2025-08-04-snake.md",
+    "instance/data_.db-journal",
+    "instance/data_.db",
+    "_posts/flask/example/database/__pycache__/models.cpython-313.pyc",
+    "_posts/flask/example/database/__pycache__",
+    "_posts/flask/example/database/__pycache__/models.cpython-313.pyc.126099464655264",
+    "instance/data1.db-journal",
+    "instance/data1.db",
+    "instance/data.db-journal",
+    "_posts/zther/线上课程 + 电子书制作.md",
     "_posts/game/2025-08-05-snake.md",
     "_posts/game/2025-08-06-snake.md",
     "_posts/game/2025-08-07-snake.md",
     "_posts/game/2025-09-11-snake.md",
     "_posts/game/2025-09-12-snake.md",
-    "_posts/zther/线上课程 + 电子书制作.md",
     "_posts/game/2025-08-03-snake.md",
     "_posts/game/2026-05-09-dino.md",
     "_posts/game/2026-04-19-dino.md",
@@ -245,14 +255,6 @@
     "_posts/zther/课纲.md",
     "_posts/flask/README.md",
     "search.json",
-    "js/vendors/zoom.min.js",
-    "js/vendors/simple-jekyll-search.min.js",
-    "js/vendors/transition.js",
-    "js/vendors/jquery.fitvids.js",
-    "js/vendors/jquery-3.3.1.min.js",
-    "js/vendors/instafeed.min.js",
-    "js/vendors",
-    "js/common.js",
     "images/7.png",
     "images/6.png",
     "images/5.png",
@@ -271,8 +273,6 @@
     "_posts/web/2026-04-21-web.md",
     "_posts/web/2026-04-20-web.md",
     "_posts/web/2026-04-19-web.md",
-    "_posts/web/2026-04-18-web.md",
-    "_posts/web/2026-04-17-web.md",
-    "_posts/web/2026-04-16-web.md"
+    "_posts/web/2026-04-18-web.md"
   ]
 }

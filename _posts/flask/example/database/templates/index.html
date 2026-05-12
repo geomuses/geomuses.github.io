@@ -1,11 +1,18 @@
+<!DOCTYPE html>
 <html>
-
 <head>
     <title>Flask + SQLAlchemy</title>
 </head>
-
 <body>
     <h1>歡迎使用 Flask-SQLAlchemy！</h1>
+    
+    <tbody>
+    {% for user in users %}
+    <tr>
+        <td>{{ user.id }}</td>
+        <td>{{ user.username }}</td>
+    </tr>
+    {% endfor %}
+</tbody>
 </body>
-
 </html>
