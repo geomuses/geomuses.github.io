@@ -48,3 +48,9 @@ critical | 关键
  restrict | 限制 
  regulate | 规范 
  anticipate | 预料 
+ led | 引领
+compensation | 补偿
+demotion | 降职
+arbitration | 仲裁
+panel | 小组
+dismissal | 解雇

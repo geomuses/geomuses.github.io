@@ -28,10 +28,9 @@ if __name__ == '__main__':
 
         existing_user = User.query.filter_by(username="geo").first() 
         if not existing_user: 
-            user = User( username="geo", password="ge0" ) 
-            db.session.add(user)    
+            db.session.add(User("geo", "geo0"))
             db.session.commit() 
             print("新用户 geo 已创建！") 
         else: print("用户 geo 已存在，跳过创建步骤。")
 
-    app.run(debug=True)
+    app.run(debug=True, port=8000)
