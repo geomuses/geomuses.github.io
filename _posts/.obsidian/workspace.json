@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/old/2026-05-13-linux.md",
+                "file": "finance/2026-05-13-finance.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-13-linux"
+              "title": "2026-05-13-finance"
             }
           }
         ]
@@ -191,11 +191,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "b9f6d04dc27dfcdd",
   "lastOpenFiles": [
+    "linux/old/2026-05-13-linux.md",
     "linux/old",
     "linux/old/2026-05-14-linux.md",
-    "linux/old/2026-05-13-linux.md",
     "flask/2025-08-03-flask.md",
     "mining/2025-11-07-text_mining.md",
     "linux/README.md",
@@ -224,7 +224,6 @@
     "flask/README.md",
     "flask/2025-11-15-flask.md",
     "flask/2025-11-02-flask.md",
-    "flask/old",
     "flask/2025-11-21-flask.md",
     "flask/2025-08-13-flask.md",
     "flask/2025-08-08-flask.md",
