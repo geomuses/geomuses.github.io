@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/05/2026-05-14-language.md",
+                "file": "linux/old/2026-05-13-linux.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-14-language"
+              "title": "2026-05-13-linux"
             }
           }
         ]
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,9 +193,14 @@
   },
   "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
+    "linux/old",
+    "linux/old/2026-05-14-linux.md",
+    "linux/old/2026-05-13-linux.md",
+    "flask/2025-08-03-flask.md",
+    "mining/2025-11-07-text_mining.md",
+    "linux/README.md",
+    "language/05/2026-05-14-language.md",
     "language/05/2026-05-13-language.md",
-    "language/05/2026-05-14-language.md",
-    "language/05/2026-05-14-language.md",
     "language/05/may.md",
     "language/05/2026-05-11-language.md",
     "language/05/2026-05-12-language.md",
@@ -218,7 +222,6 @@
     "flask/old/2025-08-10-flask.md",
     "flask/old/2025-08-12-flask.md",
     "flask/README.md",
-    "linux/README.md",
     "flask/2025-11-15-flask.md",
     "flask/2025-11-02-flask.md",
     "flask/old",
@@ -226,10 +229,6 @@
     "flask/2025-08-13-flask.md",
     "flask/2025-08-08-flask.md",
     "flask/2025-08-09-flask.md",
-    "books/2026-04-10-review.md",
-    "python/2025-08-09-py.md",
-    "python/2025-08-05-py.md",
-    "python/2025-08-04-py.md",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
