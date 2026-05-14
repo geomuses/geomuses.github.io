@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/2026-05-13-finance.md",
-                "mode": "source",
+                "file": "quant/2026-04-28-quant.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-13-finance"
+              "title": "2026-04-28-quant"
+            }
+          },
+          {
+            "id": "a622dfb5b453fd1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "znbox/daily.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "daily"
+            }
+          },
+          {
+            "id": "161416aacedc795a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flask/2026-05-13-flask.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-13-flask"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#历史贝塔的局限性",
+                "query": "flask 13",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flask/2025-08-07-flask.md",
+                "file": "znbox/daily.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-07-flask"
+              "title": "Outline of daily"
             }
           },
           {
@@ -176,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -191,23 +220,29 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b9f6d04dc27dfcdd",
+  "active": "a622dfb5b453fd1d",
   "lastOpenFiles": [
+    "language/05/2026-05-14-language.md",
+    "language/05/2026-05-13-language.md",
+    "flask/2026-05-13-flask.md",
+    "flask/2026-05-14-flask.md",
+    "flask/old/2025-11-16-flask.md",
+    "flask/2025-08-13-flask.md",
+    "znbox/daily.md",
+    "quant/2026-04-28-quant.md",
+    "quant/2026-04-22-quant.md",
+    "finance/2026-05-13-finance.md",
     "linux/old/2026-05-13-linux.md",
     "linux/old",
     "linux/old/2026-05-14-linux.md",
     "flask/2025-08-03-flask.md",
     "mining/2025-11-07-text_mining.md",
     "linux/README.md",
-    "language/05/2026-05-14-language.md",
-    "language/05/2026-05-13-language.md",
     "language/05/may.md",
     "language/05/2026-05-11-language.md",
     "language/05/2026-05-12-language.md",
     "flask/2025-12-01-flask.md",
     "flask/2026-05-12-flask.md",
-    "flask/2026-05-13-flask.md",
-    "flask/2026-05-14-flask.md",
     "flask/instance/data.db",
     "flask/instance",
     "flask/example/datavbase/__pycache__/models.cpython-313.pyc",
@@ -217,17 +252,12 @@
     "flask/example/datavbase/templates",
     "flask/example/datavbase/app.py",
     "flask/example/datavbase",
-    "flask/old/2025-11-16-flask.md",
     "flask/old/2025-08-11-flask.md",
     "flask/old/2025-08-10-flask.md",
     "flask/old/2025-08-12-flask.md",
     "flask/README.md",
     "flask/2025-11-15-flask.md",
     "flask/2025-11-02-flask.md",
-    "flask/2025-11-21-flask.md",
-    "flask/2025-08-13-flask.md",
-    "flask/2025-08-08-flask.md",
-    "flask/2025-08-09-flask.md",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",

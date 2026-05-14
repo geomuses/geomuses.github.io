@@ -8,11 +8,15 @@ raise | 增加
 It estimated that the average annual cost of raising a child in the US is a little over $16,800.   | 它估计在美国抚养一个孩子的平均年成本略高于 16,800 美元。
 overpass  | 桥梁
 metro | 地铁
+<!--SR:!2026-05-16,3,250-->
 an old highway overpass that the city turned into a public park and walkway | 这座城市将一座旧的高速公路高架桥改造成了一个公共公园和步行道。
 cobbled |  鹅卵石铺成的
+<!--SR:!2026-05-17,4,270-->
 prizes | 奖品
 character | 角色
+<!--SR:!2026-05-17,4,270-->
 encounter | 遭遇
+<!--SR:!2026-05-14,1,230-->
 bizarre | 怪异的 
 willing | 愿意 We're not sure if your ideas for the website will work, but we're **willing** to experiment.
  assign  | 分配
@@ -20,37 +24,49 @@ willing | 愿意 We're not sure if your ideas for the website will work, but we'
  compared with 12% of people who have four-year | 拥有四年制学位的人中只有 12%的人这样认为
  slaves | 奴隶
 bunch | 一群
+<!--SR:!2026-05-16,3,250-->
 sacrifice | 牺牲
 numb | 麻木
+<!--SR:!2026-05-17,4,270-->
 took test | 测试
+<!--SR:!2026-05-16,3,250-->
 suit | 正装
 I'd 是英语中 I would 或 I had 的缩写 | 我将/会”、“我想要”（表示意愿或假设）或“我曾经”（表示过去）。
 advantages | 优势
 besides | 除了
 squeeze with other people while commuting | 不用逼车
 useless | 没用
+<!--SR:!2026-05-17,4,270-->
 how much longer do you need | 还需要多少时间
 you said that three hours ago | 你已经花3小时了
 teasing | 酸我
 personal charm | 个人魅力
 refuse | reject
-highs-up | 上头 
+<!--SR:!2026-05-17,4,270-->
+highs-up | 上头
+<!--SR:!2026-05-17,4,270-->
 critical | 关键
  blame | 责备
  Among Babies | 婴儿之间
+<!--SR:!2026-05-17,4,270-->
  healthy development | 健康发育
  avoid | 避免
  salons | 沙龙
  bankrupt | 破产
+<!--SR:!2026-05-17,4,270-->
  lifespan | 寿命 
  as random as | 像随机一样 
  obvious way | 显而易见的方式 
  restrict | 限制 
- regulate | 规范 
+ regulate | 规范
+<!--SR:!2026-05-17,4,270-->
  anticipate | 预料 
  led | 引领
 compensation | 补偿
+<!--SR:!2026-05-14,1,230-->
 demotion | 降职
 arbitration | 仲裁
 panel | 小组
+<!--SR:!2026-05-17,4,270-->
 dismissal | 解雇
+<!--SR:!2026-05-14,1,230-->

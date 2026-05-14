@@ -1,36 +1,53 @@
-from flask import Flask , render_template
-# from flask_sqlalchemy import SQLAlchemy
+from flask import Flask, render_template, request, redirect, url_for
+from models import db, User
 
-from datetime import datetime
 app = Flask(__name__)
-
-# 資料庫設定：使用 SQLite（可換成 PostgreSQL, MySQL）
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data.db'
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False # 不要跟踪对象的修改并发送信号
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
-# 稍後我們會導入 models
-from models import User
+db.init_app(app)
 
+# 初始化資料庫與種子資料
+with app.app_context():
+    db.create_all()
+    if not User.query.filter_by(username="geo").first():
+        db.session.add(User(username="geo", password="ge0"))
+        db.session.commit()
+
+# --- CRUD 路由 ---
+
+# 1. Read (讀取全部)
 @app.route('/')
 def index():
-    users = User.query.all()  # 查询全部用户
+    users = User.query.all()
     return render_template('index.html', users=users)
-    
+
+# 2. Create (新增)
+@app.route('/add', methods=['POST'])
+def add_user():
+    username = request.form.get('username')
+    password = request.form.get('password')
+    if username and password:
+        new_user = User(username=username, password=password)
+        db.session.add(new_user)
+        db.session.commit()
+    return redirect(url_for('index'))
+
+# 3. Update (更新資料 - 範例為修改用戶名)
+@app.route('/update/<int:id>', methods=['POST'])
+def update_user(id):
+    user = User.query.get_or_404(id)
+    user.username = request.form.get('username')
+    db.session.commit()
+    return redirect(url_for('index'))
+
+# 4. Delete (刪除)
+@app.route('/delete/<int:id>')
+def delete_user(id):
+    user = User.query.get_or_404(id)
+    db.session.delete(user)
+    db.session.commit()
+    return redirect(url_for('index'))
+
 if __name__ == '__main__':
-
-    from models import db
-
-    # 初始化資料庫
-    db.init_app(app)
-
-    with app.app_context():
-        db.create_all()  # 建立所有模型對應的資料表 
-
-        existing_user = User.query.filter_by(username="geo").first() 
-        if not existing_user: 
-            db.session.add(User("geo", "geo0"))
-            db.session.commit() 
-            print("新用户 geo 已创建！") 
-        else: print("用户 geo 已存在，跳过创建步骤。")
-
-    app.run(debug=True, port=8000)
+    app.run(debug=True)

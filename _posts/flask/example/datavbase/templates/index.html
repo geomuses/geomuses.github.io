@@ -1,21 +1,45 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-Hant">
 
 <head>
-    <title>Flask + SQLAlchemy</title>
+    <meta charset="UTF-8">
+    <title>Flask CRUD 範例</title>
 </head>
 
 <body>
-    <h1>歡迎使用 Flask-SQLAlchemy！</h1>
+    <h1>用戶管理系統</h1>
 
-    <tbody>
+    <!-- 新增用戶表單 -->
+    <form action="/add" method="POST">
+        <input type="text" name="username" placeholder="用戶名" required>
+        <input type="password" name="password" placeholder="密碼" required>
+        <button type="submit">新增用戶</button>
+    </form>
+
+    <hr>
+
+    <!-- 用戶列表與刪除/更新功能 -->
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <th>用戶名</th>
+            <th>操作</th>
+        </tr>
         {% for user in users %}
         <tr>
             <td>{{ user.id }}</td>
-            <td>{{ user.username }}</td>
+            <td>
+                <form action="/update/{{ user.id }}" method="POST" style="display:inline;">
+                    <input type="text" name="username" value="{{ user.username }}">
+                    <button type="submit">修改名稱</button>
+                </form>
+            </td>
+            <td>
+                <a href="/delete/{{ user.id }}" onclick="return confirm('確定刪除嗎？')">刪除</a>
+            </td>
         </tr>
         {% endfor %}
-    </tbody>
+    </table>
 </body>
 
 </html>
