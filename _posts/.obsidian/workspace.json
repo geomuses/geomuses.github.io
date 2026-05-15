@@ -8,45 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9f6d04dc27dfcdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quant/2026-04-28-quant.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-28-quant"
-            }
-          },
-          {
             "id": "a622dfb5b453fd1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flask/2026-05-12-flask.md",
+                "file": "flask/2025-08-13-flask.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-12-flask"
+              "title": "2025-08-13-flask"
             }
           },
           {
-            "id": "161416aacedc795a",
+            "id": "5b10ef108f4f3bc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flask/2026-05-13-flask.md",
+                "file": "linux/old/2026-05-14-linux.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-13-flask"
+              "title": "2026-05-14-linux"
             }
           }
         ],
@@ -221,44 +207,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "5b10ef108f4f3bc7",
   "lastOpenFiles": [
-    "flask/2026-05-12-flask.md",
-    "flask/2026-05-14-flask.md",
-    "flask/2026-05-13-flask.md",
-    "flask/2025-12-01-flask.md",
-    "znbox/daily.md",
-    "language/05/may.md",
-    "language/05/2026-05-15-language.md",
-    "language/05/2026-05-14-language.md",
-    "finance/2026-04-24-finance.md",
-    "finance/portfolio/example.py",
-    "finance/2026-04-23-finance.md",
-    "finance/2026-04-25-finance.md",
-    "finance/2026-04-26-finance.md",
-    "finance/2026-04-27-finance.md",
-    "finance/2026-04-28-finance.md",
-    "finance/2026-04-29-finance.md",
-    "finance/2026-04-30-finance.md",
-    "language/05/2026-05-13-language.md",
-    "flask/old/2025-11-16-flask.md",
-    "flask/2025-08-13-flask.md",
-    "quant/2026-04-28-quant.md",
-    "quant/2026-04-22-quant.md",
-    "finance/2026-05-13-finance.md",
     "linux/old/2026-05-13-linux.md",
-    "linux/old",
     "linux/old/2026-05-14-linux.md",
-    "flask/2025-08-03-flask.md",
-    "mining/2025-11-07-text_mining.md",
+    "web/2025-08-08-web.md",
+    "web/2025-08-07-web.md",
+    "web/2025-08-10-web.md",
+    "web/2025-09-17-web.md",
+    "web/2025-12-11-web.md",
+    "web/2026-04-17-web.md",
+    "web/2026-04-16-web.md",
+    "web/2026-04-15-web.md",
+    "web/2025-12-23-web.md",
+    "web/2025-12-10-web.md",
+    "web/2025-12-09-web.md",
+    "web/2025-09-16-web.md",
+    "web/2025-08-09-web.md",
+    "finance/2026-05-02-finance.md",
+    "finance/2026-05-01-finance.md",
+    "finance/2026-05-03-finance.md",
+    "finance/2026-05-04-finance.md",
+    "finance/2026-05-05-finance.md",
+    "finance/2026-05-08-finance.md",
+    "finance/2026-05-10-finance.md",
+    "finance/2026-05-11-finance.md",
+    "finance/2026-05-12-finance.md",
+    "finance/2026-05-13-finance.md",
+    "zther/课纲.md",
+    "flask/example/error/templates/404.html",
+    "flask/example/error/templates",
+    "flask/example/error/app.py",
+    "flask/example/error",
     "flask/instance/data.db",
     "flask/instance",
+    "finance/portfolio/example.py",
+    "linux/old",
     "flask/example/datavbase/__pycache__/models.cpython-313.pyc",
     "flask/example/datavbase/__pycache__",
-    "flask/example/datavbase/models.py",
-    "flask/example/datavbase/templates/index.html",
-    "flask/example/datavbase/templates",
-    "flask/example/datavbase/app.py",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
