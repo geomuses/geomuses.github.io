@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/old/2026-05-14-linux.md",
-                "mode": "preview",
+                "file": "linux/old/2026-05-16-linux.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-14-linux"
+              "title": "2026-05-16-linux"
             }
           }
         ],
@@ -209,8 +209,14 @@
   },
   "active": "5b10ef108f4f3bc7",
   "lastOpenFiles": [
-    "linux/old/2026-05-13-linux.md",
+    "linux/old/2026-05-15-linux.md",
+    "linux/old/2026-05-16-linux.md",
     "linux/old/2026-05-14-linux.md",
+    "linux/README.md",
+    "znbox/Untitled 1.md",
+    "znbox/Untitled.md",
+    "linux/old/2026-05-13-linux.md",
+    "flask/2025-08-13-flask.md",
     "web/2025-08-08-web.md",
     "web/2025-08-07-web.md",
     "web/2025-08-10-web.md",
@@ -229,12 +235,6 @@
     "finance/2026-05-03-finance.md",
     "finance/2026-05-04-finance.md",
     "finance/2026-05-05-finance.md",
-    "finance/2026-05-08-finance.md",
-    "finance/2026-05-10-finance.md",
-    "finance/2026-05-11-finance.md",
-    "finance/2026-05-12-finance.md",
-    "finance/2026-05-13-finance.md",
-    "zther/课纲.md",
     "flask/example/error/templates/404.html",
     "flask/example/error/templates",
     "flask/example/error/app.py",
