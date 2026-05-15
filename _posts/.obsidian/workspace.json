@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "znbox/daily.md",
+                "file": "flask/2026-05-12-flask.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "2026-05-12-flask"
             }
           },
           {
@@ -205,11 +205,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,15 +221,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a622dfb5b453fd1d",
+  "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
-    "language/05/2026-05-14-language.md",
-    "language/05/2026-05-13-language.md",
-    "flask/2026-05-13-flask.md",
+    "flask/2026-05-12-flask.md",
     "flask/2026-05-14-flask.md",
+    "flask/2026-05-13-flask.md",
+    "flask/2025-12-01-flask.md",
+    "znbox/daily.md",
+    "language/05/may.md",
+    "language/05/2026-05-15-language.md",
+    "language/05/2026-05-14-language.md",
+    "finance/2026-04-24-finance.md",
+    "finance/portfolio/example.py",
+    "finance/2026-04-23-finance.md",
+    "finance/2026-04-25-finance.md",
+    "finance/2026-04-26-finance.md",
+    "finance/2026-04-27-finance.md",
+    "finance/2026-04-28-finance.md",
+    "finance/2026-04-29-finance.md",
+    "finance/2026-04-30-finance.md",
+    "language/05/2026-05-13-language.md",
     "flask/old/2025-11-16-flask.md",
     "flask/2025-08-13-flask.md",
-    "znbox/daily.md",
     "quant/2026-04-28-quant.md",
     "quant/2026-04-22-quant.md",
     "finance/2026-05-13-finance.md",
@@ -237,12 +251,6 @@
     "linux/old/2026-05-14-linux.md",
     "flask/2025-08-03-flask.md",
     "mining/2025-11-07-text_mining.md",
-    "linux/README.md",
-    "language/05/may.md",
-    "language/05/2026-05-11-language.md",
-    "language/05/2026-05-12-language.md",
-    "flask/2025-12-01-flask.md",
-    "flask/2026-05-12-flask.md",
     "flask/instance/data.db",
     "flask/instance",
     "flask/example/datavbase/__pycache__/models.cpython-313.pyc",
@@ -251,13 +259,6 @@
     "flask/example/datavbase/templates/index.html",
     "flask/example/datavbase/templates",
     "flask/example/datavbase/app.py",
-    "flask/example/datavbase",
-    "flask/old/2025-08-11-flask.md",
-    "flask/old/2025-08-10-flask.md",
-    "flask/old/2025-08-12-flask.md",
-    "flask/README.md",
-    "flask/2025-11-15-flask.md",
-    "flask/2025-11-02-flask.md",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
