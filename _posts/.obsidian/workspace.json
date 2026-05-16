@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "22acd8a3b7466176",
+        "id": "26f9114e2fcf8110",
         "type": "tabs",
         "children": [
           {
-            "id": "a622dfb5b453fd1d",
+            "id": "91c68e46e88dcdd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flask/2025-08-13-flask.md",
+                "file": "linux/2026-05-16-linux.md",
                 "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-13-flask"
-            }
-          },
-          {
-            "id": "5b10ef108f4f3bc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/old/2026-05-16-linux.md",
-                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "2026-05-16-linux"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,15 +192,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5b10ef108f4f3bc7",
+  "active": "91c68e46e88dcdd3",
   "lastOpenFiles": [
-    "linux/old/2026-05-15-linux.md",
-    "linux/old/2026-05-16-linux.md",
-    "linux/old/2026-05-14-linux.md",
+    "linux/2026-05-15-linux.md",
+    "linux/2026-05-14-linux.md",
+    "linux/2026-05-13-linux.md",
+    "linux/2026-05-16-linux.md",
     "linux/README.md",
+    "znbox/daily.md",
+    "language/05/2026-05-13-language.md",
+    "language/05/2026-05-14-language.md",
+    "language/05/2026-05-15-language.md",
     "znbox/Untitled 1.md",
     "znbox/Untitled.md",
-    "linux/old/2026-05-13-linux.md",
     "flask/2025-08-13-flask.md",
     "web/2025-08-08-web.md",
     "web/2025-08-07-web.md",
@@ -230,11 +219,6 @@
     "web/2025-12-09-web.md",
     "web/2025-09-16-web.md",
     "web/2025-08-09-web.md",
-    "finance/2026-05-02-finance.md",
-    "finance/2026-05-01-finance.md",
-    "finance/2026-05-03-finance.md",
-    "finance/2026-05-04-finance.md",
-    "finance/2026-05-05-finance.md",
     "flask/example/error/templates/404.html",
     "flask/example/error/templates",
     "flask/example/error/app.py",
