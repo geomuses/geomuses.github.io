@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/daily-life.md",
+                "file": "zther/daily-life.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/2026-05-16-review.md",
+                "file": "linux/2026-05-16-linux.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-16-review"
+              "title": "2026-05-16-linux"
             }
           }
         ],
@@ -209,9 +209,17 @@
   },
   "active": "1fda2f78aaaa7492",
   "lastOpenFiles": [
-    "books/2026-04-30-review.md",
+    "znbox/finance学习.md",
+    "znbox/daily.md",
     "books/2026-05-16-review.md",
-    "life/daily-life.md",
+    "books/2026-04-30-review.md",
+    "books/2026-04-29-review.md",
+    "books/2026-04-26-review.md",
+    "books/2026-04-23-review.md",
+    "books/2026-04-22-review.md",
+    "books/2026-04-19-review.md",
+    "books/2026-04-16-review.md",
+    "zther/daily-life.md",
     "life/2026-04-26-life.md",
     "life/2026-03-03-life.md",
     "linux/README.md",
@@ -219,7 +227,6 @@
     "linux/2026-05-15-linux.md",
     "linux/2026-05-14-linux.md",
     "linux/2026-05-13-linux.md",
-    "znbox/daily.md",
     "language/05/2026-05-13-language.md",
     "language/05/2026-05-14-language.md",
     "language/05/2026-05-15-language.md",
@@ -228,13 +235,6 @@
     "web/2025-08-08-web.md",
     "web/2025-08-07-web.md",
     "web/2025-08-10-web.md",
-    "web/2025-09-17-web.md",
-    "web/2025-12-11-web.md",
-    "web/2026-04-17-web.md",
-    "web/2026-04-16-web.md",
-    "web/2026-04-15-web.md",
-    "web/2025-12-23-web.md",
-    "web/2025-12-10-web.md",
     "flask/example/error/templates/404.html",
     "flask/example/error/templates",
     "flask/example/error/app.py",
