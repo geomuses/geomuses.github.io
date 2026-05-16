@@ -39,7 +39,7 @@ allergy | 过敏
 asthma symptoms worse | 气喘加重
 <!--SR:!2026-05-17,2,230-->
 freight | 货运
-<!--SR:!2026-05-16,1,222-->
+<!--SR:!2026-05-18,2,222-->
 exhaustion |  疲惫
 dust mites | 尘螨
 <!--SR:!2026-05-16,1,222-->
