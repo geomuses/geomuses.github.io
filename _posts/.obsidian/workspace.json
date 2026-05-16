@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "daily-life"
             }
+          },
+          {
+            "id": "1fda2f78aaaa7492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/2026-05-16-review.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-16-review"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,8 +207,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "1fda2f78aaaa7492",
   "lastOpenFiles": [
+    "books/2026-04-30-review.md",
+    "books/2026-05-16-review.md",
     "life/daily-life.md",
     "life/2026-04-26-life.md",
     "life/2026-03-03-life.md",
@@ -218,8 +235,6 @@
     "web/2026-04-15-web.md",
     "web/2025-12-23-web.md",
     "web/2025-12-10-web.md",
-    "web/2025-12-09-web.md",
-    "web/2025-09-16-web.md",
     "flask/example/error/templates/404.html",
     "flask/example/error/templates",
     "flask/example/error/app.py",
