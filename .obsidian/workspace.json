@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "676af142abc57b01",
+        "id": "168b943c97e9c4da",
         "type": "tabs",
         "children": [
           {
-            "id": "54c2e59bcff36e0f",
+            "id": "d246bc1862d6ed1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/zther/课纲.md",
-                "mode": "preview",
-                "source": false
+                "file": "images/23.jpg"
               },
-              "icon": "lucide-file",
-              "title": "课纲"
-            }
-          },
-          {
-            "id": "3cb4008da2a4fc38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/flask/2026-05-14-flask.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-14-flask"
-            }
-          },
-          {
-            "id": "c343f10114943fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/game/2025-08-04-snake.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-04-snake"
-            }
-          },
-          {
-            "id": "a081293295c61fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/flask/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "23"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "right": {
     "id": "dacf40ffcf1f0680",
@@ -226,14 +181,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "3cb4008da2a4fc38",
+  "active": "d246bc1862d6ed1f",
   "lastOpenFiles": [
-    "_posts/flask/2026-05-13-flask.md",
+    "images/15.jpg",
+    "_posts/zther/课纲.md",
+    "_posts/flask/README.md",
+    "_posts/game/2025-08-04-snake.md",
+    "_posts/zther/future.md",
     "_posts/flask/2026-05-14-flask.md",
+    "_posts/flask/2026-05-13-flask.md",
     "_posts/flask/old/2025-11-16-flask.md",
     "_posts/flask/2025-11-15-flask.md",
     "_posts/flask/2026-05-12-flask.md",
-    "_posts/game/2025-08-04-snake.md",
     "instance/data_.db-journal",
     "instance/data_.db",
     "_posts/flask/example/database/__pycache__/models.cpython-313.pyc",
@@ -255,8 +214,6 @@
     "_posts/game/2025-08-02-snake.md",
     "_posts/game/2025-08-02-pygame.md",
     "_posts/game/dino/app.py",
-    "_posts/zther/课纲.md",
-    "_posts/flask/README.md",
     "search.json",
     "images/7.png",
     "images/6.png",
@@ -271,8 +228,6 @@
     "_posts/zther/购物 + 订阅.md",
     "_posts/zther/未来计划.md",
     "_posts/znbox/finance学习.md",
-    "_posts/web/README.md",
-    "_posts/web/2026-04-22-web.md",
-    "_posts/web/2026-04-21-web.md"
+    "_posts/web/README.md"
   ]
 }
