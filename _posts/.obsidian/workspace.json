@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb7831de15e7dc08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zther/daily-life.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "daily-life"
-            }
-          },
-          {
             "id": "1fda2f78aaaa7492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/2026-05-16-linux.md",
+                "file": "zther/购物 + 订阅.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-16-linux"
+              "title": "购物 + 订阅"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +194,19 @@
   },
   "active": "1fda2f78aaaa7492",
   "lastOpenFiles": [
+    "books/2026-03-29-review.md",
     "znbox/finance学习.md",
     "znbox/daily.md",
+    "books/2026-04-09-review.md",
+    "books/2026-04-10-review.md",
+    "books/2026-04-11-review.md",
+    "books/2026-04-14-review.md",
+    "books/2026-04-15-review.md",
+    "books/2026-04-16-review.md",
+    "life/2026-03-03-life.md",
+    "life/2026-04-26-life.md",
+    "zther/daily-life.md",
+    "linux/2026-05-16-linux.md",
     "books/2026-05-16-review.md",
     "books/2026-04-30-review.md",
     "books/2026-04-29-review.md",
@@ -218,23 +214,12 @@
     "books/2026-04-23-review.md",
     "books/2026-04-22-review.md",
     "books/2026-04-19-review.md",
-    "books/2026-04-16-review.md",
-    "zther/daily-life.md",
-    "life/2026-04-26-life.md",
-    "life/2026-03-03-life.md",
     "linux/README.md",
-    "linux/2026-05-16-linux.md",
     "linux/2026-05-15-linux.md",
     "linux/2026-05-14-linux.md",
     "linux/2026-05-13-linux.md",
     "language/05/2026-05-13-language.md",
     "language/05/2026-05-14-language.md",
-    "language/05/2026-05-15-language.md",
-    "znbox/Untitled 1.md",
-    "flask/2025-08-13-flask.md",
-    "web/2025-08-08-web.md",
-    "web/2025-08-07-web.md",
-    "web/2025-08-10-web.md",
     "flask/example/error/templates/404.html",
     "flask/example/error/templates",
     "flask/example/error/app.py",

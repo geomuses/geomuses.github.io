@@ -1,8 +1,0 @@
-- [ ] english Engoo 阅读
-- [ ] english Engoo 听力
-- [ ] english Duolings 学习语法
-- [ ] english 背单子
-- [ ] 看书
-- [ ] 课程编写
-- [ ] 课程录制
-- [ ] 冥想
