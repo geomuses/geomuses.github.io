@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fa31de7a42595535",
+        "id": "f6938beb354a02be",
         "type": "tabs",
         "children": [
           {
-            "id": "5893595a3572f195",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/2026-04-09-review.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-09-review"
-            }
-          },
-          {
-            "id": "71fd90c46a47b8ce",
+            "id": "3ce2dea74ec8c64c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "life/2026-05-19-life.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2026-05-19-life"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,19 +192,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "71fd90c46a47b8ce",
+  "active": "3ce2dea74ec8c64c",
   "lastOpenFiles": [
-    "books/2026-04-09-review.md",
-    "life/2026-05-19-life.md",
+    "books/2026-04-23-review.md",
+    "books/2026-04-22-review.md",
+    "books/2026-04-26-review.md",
+    "books/2026-04-16-review.md",
     "books/2026-04-15-review.md",
     "books/2026-04-11-review.md",
     "books/2026-04-10-review.md",
     "books/2026-03-29-review.md",
     "books/2026-03-22-review.md",
-    "books/2026-04-16-review.md",
-    "books/2026-04-19-review.md",
-    "books/2026-04-22-review.md",
+    "life/2026-05-19-life.md",
     "books/2026-04-14-review.md",
+    "books/2026-04-09-review.md",
+    "life/2026-04-26-life.md",
+    "life/2026-03-03-life.md",
+    "books/2026-04-19-review.md",
     "books/2026-02-15-review.md",
     "books/2026-02-05-review.md",
     "books/2026-01-29-review.md",
@@ -231,10 +220,6 @@
     "books/2026-01-15-review.md",
     "books/2025-12-19-review.md",
     "books/2026-01-11-review.md",
-    "books/2026-04-23-review.md",
-    "books/2026-04-26-review.md",
-    "life/2026-04-26-life.md",
-    "books/2026-04-29-review.md",
     "znbox",
     "language/05/2026-05-18-language",
     "flask/example/error/templates/404.html",
