@@ -5,24 +5,24 @@ tags:
 ---
 
 trait | 特征
-<!--SR:!2026-05-17,4,272-->
+<!--SR:!2026-06-02,15,292-->
 outgoing | 外向
 unconsciously | 不知不觉
-<!--SR:!2026-05-16,1,236-->
+<!--SR:!2026-05-19,1,216-->
 offset | 抵消
-<!--SR:!2026-05-17,4,272-->
+<!--SR:!2026-06-02,15,292-->
 disruptive | 扰人
 pedestrian | 行人
 anniversary | 周年纪念日
 Apple unveiled a range of budget-friendly models, including a cheaper iPhone and an entry-level MacBook, at events in New York, London and Shanghai on March 4. | Apple在纽约、伦敦和上海举办了活动，推出了包括更便宜的iPhone和入门级MacBook在内的各种预算友好型产品，这些活动于3月4日举行。
 <!--SR:!2026-05-17,4,272-->
 unveiled | 揭幕
-<!--SR:!2026-05-16,1,212-->
+<!--SR:!2026-05-19,1,192-->
 started off | 开头
-<!--SR:!2026-05-17,2,232-->
+<!--SR:!2026-05-19,1,212-->
 chip | 芯片
 slightly | 稍微
-<!--SR:!2026-05-16,3,252-->
+<!--SR:!2026-05-28,10,272-->
 announced | 宣布
 <!--SR:!2026-05-16,3,252-->
 silent | 沉默
@@ -34,23 +34,23 @@ abstract | 抽象
 experiment | 实验
 <!--SR:!2026-05-17,4,272-->
 gradually | 逐步地
-<!--SR:!2026-05-16,1,236-->
+<!--SR:!2026-05-19,1,216-->
 regardless  | 不管
 rely | 依靠
 Impulse Buys | 冲动消费
-<!--SR:!2026-05-17,4,272-->
+<!--SR:!2026-06-03,16,292-->
 Purchases | 购物
-<!--SR:!2026-05-16,3,252-->
+<!--SR:!2026-05-30,12,272-->
 duty-free | 免税 
 departure lounge | 候机室
-<!--SR:!2026-05-17,4,272-->
+<!--SR:!2026-06-02,15,292-->
 lounge | 休息室
 <!--SR:!2026-05-16,1,236-->
 vaccination | 疫苗
 partly | 部分
 <!--SR:!2026-05-16,1,236-->
 historic sights | 历史古迹
-<!--SR:!2026-05-17,4,272-->
+<!--SR:!2026-06-01,14,292-->
 Australia equals the UK in offering the most parental leave in the world | 澳大利亚与英国并列全球育儿假最长的国家
 Pajamas | 睡衣
 <!--SR:!2026-05-28,15,290-->
@@ -72,18 +72,18 @@ spike | 激增
 crave | 渴望,想要
 awkward | 尴尬
 carbon footprint | 碳足迹
-<!--SR:!2026-05-17,4,272-->
+<!--SR:!2026-06-02,15,292-->
 produce | 产生
-<!--SR:!2026-05-17,4,272-->
+<!--SR:!2026-05-29,11,272-->
 diligent | 勤奋
 easy-going | 随和
-<!--SR:!2026-05-16,1,212-->
+<!--SR:!2026-05-21,3,232-->
 diversity | 多样性
 Voluntold | 自愿
 <!--SR:!2026-05-16,1,236-->
 sincere | 真诚
 chopping board | 砧板
-<!--SR:!2026-05-17,4,272-->
+<!--SR:!2026-06-03,16,292-->
 whisk | 打蛋机
 <!--SR:!2026-05-16,1,236-->
 elegant | 优雅
@@ -92,7 +92,7 @@ welfare | 福利
 society | 社会
 <!--SR:!2026-05-18,3,256-->
 for the ninth year in a row | 连续第九年
-<!--SR:!2026-05-17,4,272-->
+<!--SR:!2026-06-01,14,292-->
 has just been | 刚刚
 <!--SR:!2026-05-16,1,236-->
 Nordic | 北欧
@@ -110,4 +110,4 @@ went | 去了
 brief | 简短
 <!--SR:!2026-05-16,1,236-->
 preserve | 保存
-<!--SR:!2026-05-16,1,212-->
+<!--SR:!2026-05-19,1,192-->
