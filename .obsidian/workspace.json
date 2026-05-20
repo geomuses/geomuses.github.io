@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "168b943c97e9c4da",
+        "id": "56f39432ad659f87",
         "type": "tabs",
         "children": [
           {
-            "id": "d246bc1862d6ed1f",
+            "id": "e3bfdd047110d643",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/23.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "23"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -32,19 +30,6 @@
         "id": "97f90202d258e193",
         "type": "tabs",
         "children": [
-          {
-            "id": "4c0c967ff9365856",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "31b3357e526c8752",
             "type": "leaf",
@@ -72,7 +57,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,9 +167,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "d246bc1862d6ed1f",
+  "active": "e3bfdd047110d643",
   "lastOpenFiles": [
+    "2026-05-20.md",
     "images/15.jpg",
+    "images/23.jpg",
     "_posts/zther/课纲.md",
     "_posts/flask/README.md",
     "_posts/game/2025-08-04-snake.md",
@@ -220,11 +208,9 @@
     "images/5.png",
     "images/4.png",
     "images/3.png",
-    "images/23.jpg",
     "images/22.jpg",
     "images/21.jpg",
     "images/20.jpg",
-    "images/2.png",
     "_posts/zther/购物 + 订阅.md",
     "_posts/zther/未来计划.md",
     "_posts/znbox/finance学习.md",

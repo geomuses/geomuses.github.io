@@ -95,3 +95,10 @@ dismissal | 解雇
  aspect | 方面
  struggling | 很难
  funeral | 葬礼
+ obese | 肥胖
+olive oil  | 橄榄油
+some less wealthy countries. | 一些不太富裕的国家。
+certain foods like apples and berries, and drinks like coffee and tea, contain compounds called polyphenols  | 某些食物如苹果和浆果，以及咖啡和茶等饮料，含有被称为多酚的化合物
+cellular level | 细胞层面
+studying their telomeres | 研究端粒
+may be one piece of the puzzle in supporting healthier cellular aging. | 这或许是促进细胞健康衰老的关键因素之一

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/2026-05-19-life.md",
-                "mode": "preview",
+                "file": "language/05/2026-05-21-language.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-19-life"
+              "title": "2026-05-21-language"
             }
           }
         ]
@@ -161,12 +161,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
             "id": "03cdf6059f5ad9b0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "5c10d5ec16c1a35f",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -176,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -194,6 +204,15 @@
   },
   "active": "3ce2dea74ec8c64c",
   "lastOpenFiles": [
+    "language/05/2026-05-20-second-language.md",
+    "language/05/2026-05-21-language.md",
+    "language/05/may.md",
+    "language/05/2026-05-19-language.md",
+    "language/05/2026-05-20-language.md",
+    "language/05/2026-05-18-language.md",
+    "znbox",
+    "life/2026-05-19-life.md",
+    "books/2026-01-27-review.md",
     "books/2026-04-23-review.md",
     "books/2026-04-22-review.md",
     "books/2026-04-26-review.md",
@@ -203,7 +222,6 @@
     "books/2026-04-10-review.md",
     "books/2026-03-29-review.md",
     "books/2026-03-22-review.md",
-    "life/2026-05-19-life.md",
     "books/2026-04-14-review.md",
     "books/2026-04-09-review.md",
     "life/2026-04-26-life.md",
@@ -212,14 +230,7 @@
     "books/2026-02-15-review.md",
     "books/2026-02-05-review.md",
     "books/2026-01-29-review.md",
-    "books/2026-01-27-review.md",
     "books/2026-01-23-review.md",
-    "books/2026-01-21-review.md",
-    "books/2026-01-20-review.md",
-    "books/2026-01-19-review.md",
-    "books/2026-01-15-review.md",
-    "books/2025-12-19-review.md",
-    "books/2026-01-11-review.md",
     "znbox",
     "language/05/2026-05-18-language",
     "flask/example/error/templates/404.html",
@@ -229,7 +240,6 @@
     "flask/instance/data.db",
     "flask/instance",
     "finance/portfolio/example.py",
-    "linux/old",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
