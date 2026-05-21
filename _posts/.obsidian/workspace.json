@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "02a24dfb489bc095",
+        "id": "9b53012c78bff432",
         "type": "tabs",
         "children": [
           {
-            "id": "d4bd1626581eb933",
+            "id": "c60525072595d2d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "life/2026-05-20-life.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-05-20-life"
+              "title": "New tab"
             }
           }
         ]
@@ -190,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,35 +197,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d4bd1626581eb933",
+  "active": "c60525072595d2d7",
   "lastOpenFiles": [
-    "life/2026-05-19-life.md",
+    "language/05/2026-05-22-second-language.md",
+    "language/05/may.md",
+    "language/05/2026-05-21-language.md",
+    "language/05/2026-05-20-second-language.md",
     "life/2026-05-20-life.md",
+    "life/2026-05-19-life.md",
+    "zther/课纲.md",
+    "zther/购物 + 订阅.md",
+    "zther/线上课程 + 电子书制作.md",
+    "zther/未来计划.md",
+    "zther/future.md",
+    "flask/2025-11-28-flask.md",
+    "flask/2025-11-29-flask.md",
+    "flask/2025-12-01-flask.md",
+    "flask/2026-05-12-flask.md",
+    "flask/2026-05-13-flask.md",
+    "flask/2026-05-14-flask.md",
+    "Untitled Kanban.md",
+    "znbox",
+    "language/05/2026-05-20-language.md",
+    "books/2026-05-20-review.md",
     "books/2026-05-16-review.md",
     "books/2026-04-30-review.md",
     "books/2026-04-29-review.md",
     "books/2026-04-26-review.md",
     "books/2026-04-23-review.md",
     "books/2026-04-22-review.md",
-    "books/2026-04-19-review.md",
-    "books/2026-04-16-review.md",
-    "books/2026-04-15-review.md",
-    "books/2026-04-14-review.md",
-    "books/2026-04-11-review.md",
-    "books/2026-04-10-review.md",
-    "books/2026-04-09-review.md",
-    "books/2026-03-22-review.md",
-    "books/2026-03-29-review.md",
-    "life/2026-03-03-life.md",
-    "language/05/2026-05-21-language.md",
-    "language/05/2026-05-20-second-language.md",
-    "language/05/may.md",
-    "language/05/2026-05-19-language.md",
-    "language/05/2026-05-20-language.md",
-    "language/05/2026-05-18-language.md",
     "znbox",
-    "books/2026-01-27-review.md",
-    "life/2026-04-26-life.md",
     "znbox",
     "language/05/2026-05-18-language",
     "flask/example/error/templates/404.html",
@@ -239,7 +235,6 @@
     "flask/example/error",
     "flask/instance/data.db",
     "flask/instance",
-    "finance/portfolio/example.py",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
