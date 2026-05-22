@@ -11,13 +11,32 @@
             "id": "c60525072595d2d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "language/05/2026-05-21-second-language.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-05-21-second-language"
+            }
+          },
+          {
+            "id": "da5814be17dac872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flask/old/2025-11-15-flask.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-15-flask"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,9 +218,14 @@
   },
   "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
+    "flask/old",
+    "flask/2025-11-21-flask.md",
+    "flask/2025-11-29-flask.md",
     "language/05/2026-05-22-second-language.md",
-    "language/05/may.md",
+    "language/05/2026-05-22-language.md",
+    "language/05/2026-05-21-second-language.md",
     "language/05/2026-05-21-language.md",
+    "language/05/may.md",
     "language/05/2026-05-20-second-language.md",
     "life/2026-05-20-life.md",
     "life/2026-05-19-life.md",
@@ -211,7 +235,6 @@
     "zther/未来计划.md",
     "zther/future.md",
     "flask/2025-11-28-flask.md",
-    "flask/2025-11-29-flask.md",
     "flask/2025-12-01-flask.md",
     "flask/2026-05-12-flask.md",
     "flask/2026-05-13-flask.md",
@@ -222,10 +245,6 @@
     "books/2026-05-20-review.md",
     "books/2026-05-16-review.md",
     "books/2026-04-30-review.md",
-    "books/2026-04-29-review.md",
-    "books/2026-04-26-review.md",
-    "books/2026-04-23-review.md",
-    "books/2026-04-22-review.md",
     "znbox",
     "znbox",
     "language/05/2026-05-18-language",
