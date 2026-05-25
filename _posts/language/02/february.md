@@ -43,7 +43,7 @@ take into account | 考虑
 The study did not take income into account. | 该研究没有将收入因素考虑在内
 <!--SR:!2026-05-23,3,258-->
 negotiation | 谈判
-<!--SR:!2026-05-22,2,238-->
+<!--SR:!2026-05-27,5,238-->
 allergy | 过敏
 <!--SR:!2026-05-30,9,250-->
 asthma symptoms worse | 气喘加重

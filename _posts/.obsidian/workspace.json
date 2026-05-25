@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c60525072595d2d7",
+            "id": "781825a16b3b6563",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/05/2026-05-21-second-language.md",
+                "file": "language/05/may.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-21-second-language"
-            }
-          },
-          {
-            "id": "da5814be17dac872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flask/old/2025-11-15-flask.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-15-flask"
+              "title": "may"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "znbox/daily.md",
+                "file": "language/05/may.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of daily"
+              "title": "Outline of may"
             }
           },
           {
@@ -186,8 +171,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -216,17 +201,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "781825a16b3b6563",
   "lastOpenFiles": [
+    "language/05/2026-05-25-second-language.md",
+    "language/05/2026-05-21-second-language.md",
+    "language/05/2026-05-22-second-language.md",
+    "language/05/2026-05-25-language.md",
+    "language/05/2026-05-20-second-language.md",
+    "language/05/2026-05-21-language.md",
+    "language/05/2026-05-22-language.md",
+    "language/05/2026-05-13-language.md",
+    "language/05/2026-05-14-language.md",
+    "language/05/2026-05-15-language.md",
+    "language/05/2026-05-18-language.md",
+    "language/05/2026-05-19-language.md",
+    "language/05/2026-05-20-language.md",
+    "language/05/may.md",
+    "flask/old/2025-11-15-flask.md",
     "flask/old",
     "flask/2025-11-21-flask.md",
     "flask/2025-11-29-flask.md",
-    "language/05/2026-05-22-second-language.md",
-    "language/05/2026-05-22-language.md",
-    "language/05/2026-05-21-second-language.md",
-    "language/05/2026-05-21-language.md",
-    "language/05/may.md",
-    "language/05/2026-05-20-second-language.md",
     "life/2026-05-20-life.md",
     "life/2026-05-19-life.md",
     "zther/课纲.md",
@@ -236,15 +230,7 @@
     "zther/future.md",
     "flask/2025-11-28-flask.md",
     "flask/2025-12-01-flask.md",
-    "flask/2026-05-12-flask.md",
-    "flask/2026-05-13-flask.md",
-    "flask/2026-05-14-flask.md",
-    "Untitled Kanban.md",
     "znbox",
-    "language/05/2026-05-20-language.md",
-    "books/2026-05-20-review.md",
-    "books/2026-05-16-review.md",
-    "books/2026-04-30-review.md",
     "znbox",
     "znbox",
     "language/05/2026-05-18-language",
@@ -253,7 +239,6 @@
     "flask/example/error/app.py",
     "flask/example/error",
     "flask/instance/data.db",
-    "flask/instance",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",

@@ -149,3 +149,10 @@ This is especially true in the countryside | 移动销售车辆
 This decline is not new.  | 这种下滑并非始于今日
 also been falling for decades | 也已持续数十年
 Meanwhile, |  与此同时，
+this may happen because people become emotionally attached to a game's world, |  这可能是因为人们对游戏世界产生了情感依恋，
+it was found that while most players did not lose interest in other forms of entertainment |  研究发现，虽然大多数玩家并没有对其他娱乐形式失去兴趣，
+ This could be at a desk while we work or study, on a couch in front of the TV or behind the wheel of a car | 这可能发生在我们工作或学习时坐在书桌前，也可能发生在我们看电视时的沙发上，或者发生在我们开车时
+ Many of us spend a large part of our day sitting down. | 我们很多人一天中大部分时间都是坐着的
+ There is evidence | 有证据表明
+ you can also get up and move around during commercials | 你也可以在广告时间起身走动。
+ But now this exemption is being abolished. | 但现在这项豁免将被取消。
