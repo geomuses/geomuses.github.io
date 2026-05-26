@@ -34,5 +34,6 @@ Travelers who have already entered Thailand before the rules take effect will be
 english      | chinese 
  ------------ | -------
  But now this exemption is being abolished. | 但现在这项豁免将被取消。
+ bilateral agreements | 双边协议
  
 [https://engoo.com/app/daily-news/article/thailand-cuts-visa-free-stays-for-93-countries/TrbTmlUmEfGKer_C18ncfA](https://engoo.com/app/daily-news/article/thailand-cuts-visa-free-stays-for-93-countries/TrbTmlUmEfGKer_C18ncfA)

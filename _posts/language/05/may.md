@@ -156,3 +156,5 @@ it was found that while most players did not lose interest in other forms of ent
  There is evidence | 有证据表明
  you can also get up and move around during commercials | 你也可以在广告时间起身走动。
  But now this exemption is being abolished. | 但现在这项豁免将被取消。
+ A change of scene can give you a new perspective | 换个环境或许能让你看到新的视角
+ All these notifications that keep popping up are just so distracting | .
