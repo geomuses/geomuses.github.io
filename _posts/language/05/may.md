@@ -158,3 +158,16 @@ it was found that while most players did not lose interest in other forms of ent
  But now this exemption is being abolished. | 但现在这项豁免将被取消。
  A change of scene can give you a new perspective | 换个环境或许能让你看到新的视角
  All these notifications that keep popping up are just so distracting | .
+ those leftovers taste better the next day | 剩菜隔夜更美味 
+ Even after cooking stops |即使烹饪停止后 
+ Certain spices can be quite harsh  | 某些香料味道可能比较浓烈
+ become less bitter | 苦味会减轻 
+ while proteins in meat can break down over time, making the meat softer and giving it more umami | 而肉类中的蛋白质会随着时间推移分解，使肉质更软嫩，鲜味更浓郁 
+ Flavors from different foods also keep mixing with each other. Spices, for example, might spread through a sauce and give it more flavor. | 不同食物的味道也会不断混合。例如，香料可能会扩散到酱汁中，使其味道更浓郁。
+ Other flavors might mix with the fat in a dish.| 其他味道可能会与菜肴中的油脂混合。 
+ Fat helps carry these flavors and keeps them on your tongue for longer, so the food tastes better | 油脂有助于承载这些味道，并使其在舌尖停留更长时间，从而使食物更美味 
+ These Phrases Will Improve Your English 'In No Time' | 这些短语能让你“迅速”提高英语水平
+that time is running out to do something. | 现在的时间已经不多了，必须赶紧完成某事
+no traffic jams | 没有交通堵塞
+sometimes it's even better to get there early — or "ahead of time | 有时候提前到达反而更好——也就是“提前到会”
+If we get there ahead of time, we can make sure we have everything we need. | 如果我们能提前到会，就能确保拿到我们所需的一切东西。

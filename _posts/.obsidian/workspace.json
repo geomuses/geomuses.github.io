@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/05/2026-05-27-second-language.md",
+                "file": "language/05/2026-05-28-second-language.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-27-second-language"
+              "title": "2026-05-28-second-language"
             }
           }
         ]
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tiktok/2026-04-13-tiktok.md",
+                "file": "language/05/2026-05-28-second-language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-04-13-tiktok"
+              "title": "Backlinks for 2026-05-28-second-language"
             }
           },
           {
@@ -185,8 +185,7 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,12 +202,14 @@
   },
   "active": "781825a16b3b6563",
   "lastOpenFiles": [
+    "language/05/may.md",
+    "language/05/2026-05-28-second-language.md",
     "language/05/2026-05-28-language.md",
     "language/05/2026-05-27-second-language.md",
+    "life/2026-03-03-life.md",
     "language/05/2026-05-27-language.md",
     "language/05/2026-05-26-second-language.md",
     "language/05/2026-05-26-language.md",
-    "language/05/may.md",
     "language/05/2026-05-25-second-language.md",
     "language/05/2026-05-25-language.md",
     "language/05/2026-05-21-second-language.md",
@@ -228,8 +229,6 @@
     "flask/2025-11-29-flask.md",
     "life/2026-05-20-life.md",
     "life/2026-05-19-life.md",
-    "zther/课纲.md",
-    "zther/购物 + 订阅.md",
     "znbox",
     "znbox",
     "znbox",
