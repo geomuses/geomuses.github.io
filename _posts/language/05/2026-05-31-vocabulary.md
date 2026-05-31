@@ -21,3 +21,8 @@ what is this fucking shit | ...
 pause labor | ...
 turn mind to task | 专心做事 
 linens | 床单
+wound is yet fresh | 伤口还很新
+one man's misfortune often falls to another's opportunity | 一个人不幸是另一个人的机遇
+a decision conjured upon the moment | 一时兴起的决定
+we stray from point | 我们离题了
+she is of a form | 身材苗条
