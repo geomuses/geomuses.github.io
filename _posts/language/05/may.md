@@ -57,7 +57,7 @@ useless | 没用
 how much longer do you need | 还需要多少时间
 <!--SR:!2026-05-24,4,274-->
 you said that three hours ago | 你已经花3小时了
-<!--SR:!2026-05-24,4,274-->
+<!--SR:!2026-06-15,15,294-->
 teasing | 酸我
 <!--SR:!2026-05-24,4,274-->
 personal charm | 个人魅力
@@ -115,7 +115,7 @@ dismissal | 解雇
  commercial | 商业的/与商业相关的
 <!--SR:!2026-05-22,1,214-->
  wholesaler  | 批发商
-<!--SR:!2026-05-24,3,254-->
+<!--SR:!2026-06-02,2,234-->
  inventory |  库存/存货
 <!--SR:!2026-05-22,1,214-->
  ethical  | 道德的/合乎伦理的

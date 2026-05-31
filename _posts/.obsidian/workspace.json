@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/life.md",
+                "file": "language/06/june.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "life"
+              "title": "june"
             }
           }
         ]
@@ -201,15 +201,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "8009b9cd72f1ebe3",
   "lastOpenFiles": [
+    "language/05/2026-05-31-vocabulary.md",
+    "language/06/june.md",
     "language/05/may.md",
+    "language/05/2026-05-07-vocabulary.md",
+    "language/05/2026-05-08-language.md",
+    "life/life.md",
     "language/05/2026-05-31-language.md",
     "language/05/2026-05-31-second-language.md",
     "language/05/2026-05-29-second-language.md",
-    "life/life.md",
     "language/05/2026-05-01-language.md",
-    "language/06/june.md",
     "language/06",
     "life/2026-05-20-life.md",
     "language/05/2026-05-29-language.md",
@@ -227,8 +230,6 @@
     "language/05/2026-05-20-second-language.md",
     "language/05/2026-05-21-language.md",
     "language/05/2026-05-22-language.md",
-    "language/05/2026-05-13-language.md",
-    "language/05/2026-05-14-language.md",
     "flask/old",
     "znbox",
     "znbox",

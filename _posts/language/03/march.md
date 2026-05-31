@@ -19,7 +19,7 @@ pedestrian | 行人
 anniversary | 周年纪念日
 <!--SR:!2026-05-24,4,274-->
 Apple unveiled a range of budget-friendly models, including a cheaper iPhone and an entry-level MacBook, at events in New York, London and Shanghai on March 4. | Apple在纽约、伦敦和上海举办了活动，推出了包括更便宜的iPhone和入门级MacBook在内的各种预算友好型产品，这些活动于3月4日举行。
-<!--SR:!2026-05-22,2,252-->
+<!--SR:!2026-06-07,7,272-->
 unveiled | 揭幕
 <!--SR:!2026-05-23,2,192-->
 started off | 开头
@@ -47,7 +47,7 @@ rely | 依靠
 Impulse Buys | 冲动消费
 <!--SR:!2026-06-03,16,292-->
 Purchases | 购物
-<!--SR:!2026-05-30,12,272-->
+<!--SR:!2026-07-16,46,292-->
 duty-free | 免税
 <!--SR:!2026-05-24,4,274-->
 departure lounge | 候机室
@@ -136,7 +136,7 @@ Voluntold | 自愿
 cadence | 语调
 <!--SR:!2026-05-21,1,234-->
 Unsurprisingly | 毫不意外
-<!--SR:!2026-05-22,7,252-->
+<!--SR:!2026-06-25,25,272-->
 My pets didn't like each other at first, but they've learned to live in harmony with one another.| 我的宠物起初不喜欢彼此，但它们已经学会了和谐共处
 <!--SR:!2026-05-24,3,254-->
 went | 去了
@@ -144,4 +144,4 @@ went | 去了
 brief | 简短
 <!--SR:!2026-05-22,1,196-->
 preserve | 保存
-<!--SR:!2026-05-22,1,152-->
+<!--SR:!2026-06-02,2,152-->

@@ -21,17 +21,17 @@ rival | 对手
 relief | a feeling of happiness following the removal of worry, stress, etc.; a cause of or occasion for the removal of worry, stress, etc. 消除忧虑、压力等后带来的幸福感;消除忧虑、压力等的原因或理由。
 <!--SR:!2026-05-22,1,185-->
 experiment | 实验
-<!--SR:!2026-05-25,7,265-->
+<!--SR:!2026-06-26,26,285-->
 hypothetical | 假设性
 <!--SR:!2026-06-01,12,270-->
 consistent | 一致性
-<!--SR:!2026-05-23,3,266-->
+<!--SR:!2026-06-10,10,286-->
 abundant | 丰盛
 <!--SR:!2026-05-27,7,250-->
 prevent | 预防
 <!--SR:!2026-05-22,1,206-->
 aging | 衰老
-<!--SR:!2026-05-31,11,285-->
+<!--SR:!2026-07-14,44,305-->
 described | 描述
 <!--SR:!2026-05-31,11,270-->
 possibly for other reasons | 或许还有其他原因
@@ -87,7 +87,7 @@ insincere | 不真诚
 chronotype | 生物钟类型
 <!--SR:!2026-05-23,3,266-->
  regularly | 经常
-<!--SR:!2026-05-23,3,266-->
+<!--SR:!2026-06-11,11,286-->
  regular | 正常
 <!--SR:!2026-05-23,3,266-->
  consistency | 一致性
