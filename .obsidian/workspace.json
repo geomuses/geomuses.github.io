@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56f39432ad659f87",
+        "id": "96c2c77724f95448",
         "type": "tabs",
         "children": [
           {
-            "id": "e3bfdd047110d643",
+            "id": "5eee70142c68dbf4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -55,6 +55,19 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e13f5034efc97cd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -167,7 +180,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "e3bfdd047110d643",
+  "active": "5eee70142c68dbf4",
   "lastOpenFiles": [
     "2026-05-20.md",
     "images/15.jpg",

@@ -17,17 +17,6 @@ image: 01.webp
 
 ---
 
-#### 南开大学 工商管理研究生(MBA)
-<small>2027 - 2029</small>
-
-期待能在中国拿下一个硕士学位
-
-专攻营销和决策
-
-希望在南开大学享受生活
-
----
-
 #### WY MACHINERY SDN BHD 市场行销 (marketing)
 <small>2026 - 2026</small>
 
