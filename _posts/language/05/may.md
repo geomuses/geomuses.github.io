@@ -171,3 +171,5 @@ that time is running out to do something. | 现在的时间已经不多了，必
 no traffic jams | 没有交通堵塞
 sometimes it's even better to get there early — or "ahead of time | 有时候提前到达反而更好——也就是“提前到会”
 If we get there ahead of time, we can make sure we have everything we need. | 如果我们能提前到会，就能确保拿到我们所需的一切东西。
+consistently | 始终
+many countries are struggling with unemployment | 许多国家正面临失业困境。
