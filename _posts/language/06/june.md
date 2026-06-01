@@ -14,3 +14,6 @@ what is this fucking shit | ...
 pause labor | ...
 turn mind to task | 专心做事 
 linens | 床单
+ 49% said it motivated them | 49%的人表示这激励了他们
+ study aid | 学习辅助工具
+Safety Equipment|安全设备

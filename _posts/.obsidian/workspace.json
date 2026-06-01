@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/05/2026-05-31-vocabulary.md",
-                "mode": "source",
+                "file": "language/06/june.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-31-vocabulary"
+              "title": "june"
             }
           }
         ]
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life/life.md",
+                "file": "language/06/june.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of life"
+              "title": "Outline of june"
             }
           },
           {
@@ -203,13 +203,19 @@
   },
   "active": "2ce37697f7a5a101",
   "lastOpenFiles": [
+    "language/06/2026-06-01-second-language.md",
+    "language/06/2026-06-01-language.md",
     "language/06/june.md",
     "language/05/2026-05-31-vocabulary.md",
+    "language/06/2026-06-01-vocabulary.md",
+    "language/05/2026-05-31-language.md",
+    "books/2026-05-16-review.md",
+    "books/2026-04-29-review.md",
+    "books/2026-04-30-review.md",
     "language/05/may.md",
     "language/05/2026-05-07-vocabulary.md",
     "language/05/2026-05-08-language.md",
     "life/life.md",
-    "language/05/2026-05-31-language.md",
     "language/05/2026-05-31-second-language.md",
     "language/05/2026-05-29-second-language.md",
     "language/05/2026-05-01-language.md",
@@ -224,12 +230,6 @@
     "language/05/2026-05-26-second-language.md",
     "language/05/2026-05-26-language.md",
     "language/05/2026-05-25-second-language.md",
-    "language/05/2026-05-25-language.md",
-    "language/05/2026-05-21-second-language.md",
-    "language/05/2026-05-22-second-language.md",
-    "language/05/2026-05-20-second-language.md",
-    "language/05/2026-05-21-language.md",
-    "language/05/2026-05-22-language.md",
     "flask/old",
     "znbox",
     "znbox",
