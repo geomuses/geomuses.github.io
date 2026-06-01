@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/06/june.md",
-                "mode": "preview",
+                "file": "language/06/2026-06-01-second-language.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "june"
+              "title": "2026-06-01-second-language"
             }
           }
         ]
@@ -201,12 +201,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2ce37697f7a5a101",
+  "active": "8009b9cd72f1ebe3",
   "lastOpenFiles": [
+    "2026-06-01-vocabulary.md",
     "language/06/2026-06-01-second-language.md",
+    "language/05/2026-05-31-vocabulary.md",
+    "language/05/2026-05-01-language.md",
+    "life/life.md",
+    "language/06/2026-06-01-wrtiting.md",
     "language/06/2026-06-01-language.md",
     "language/06/june.md",
-    "language/05/2026-05-31-vocabulary.md",
     "language/06/2026-06-01-vocabulary.md",
     "language/05/2026-05-31-language.md",
     "books/2026-05-16-review.md",
@@ -215,10 +219,8 @@
     "language/05/may.md",
     "language/05/2026-05-07-vocabulary.md",
     "language/05/2026-05-08-language.md",
-    "life/life.md",
     "language/05/2026-05-31-second-language.md",
     "language/05/2026-05-29-second-language.md",
-    "language/05/2026-05-01-language.md",
     "language/06",
     "life/2026-05-20-life.md",
     "language/05/2026-05-29-language.md",
@@ -228,8 +230,6 @@
     "life/2026-03-03-life.md",
     "language/05/2026-05-27-language.md",
     "language/05/2026-05-26-second-language.md",
-    "language/05/2026-05-26-language.md",
-    "language/05/2026-05-25-second-language.md",
     "flask/old",
     "znbox",
     "znbox",
