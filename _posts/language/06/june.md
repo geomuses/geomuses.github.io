@@ -17,3 +17,4 @@ linens | 床单
  49% said it motivated them | 49%的人表示这激励了他们
  study aid | 学习辅助工具
 Safety Equipment|安全设备
+delegate jobs to other people | 把工作委派給其他人
