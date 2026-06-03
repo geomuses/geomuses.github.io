@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/06/2026-06-02-language.md",
+                "file": "language/06/2026-06-03-second-language.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-02-language"
+              "title": "2026-06-03-second-language"
             }
           }
         ]
@@ -204,6 +204,8 @@
   "active": "8009b9cd72f1ebe3",
   "lastOpenFiles": [
     "language/06/2026-06-02-second-language.md",
+    "language/06/2026-06-03-second-language.md",
+    "language/06/2026-06-03-language.md",
     "language/06/june.md",
     "language/06/2026-06-02-language.md",
     "language/06/2026-06-01-second-language.md",
@@ -228,8 +230,6 @@
     "language/05/2026-05-29-language.md",
     "language/05/2026-05-28-second-language.md",
     "language/05/2026-05-28-language.md",
-    "language/05/2026-05-27-second-language.md",
-    "life/2026-03-03-life.md",
     "flask/old",
     "znbox",
     "znbox",
