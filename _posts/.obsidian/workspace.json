@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a9cfa4d67b9ffc97",
+        "id": "297dec96f65a7d26",
         "type": "tabs",
         "children": [
           {
-            "id": "8009b9cd72f1ebe3",
+            "id": "026c28bd03da022f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/06/2026-06-03-second-language.md",
-                "mode": "source",
+                "file": "finance/2026-05-13-finance.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-03-second-language"
+              "title": "2026-05-13-finance"
             }
           }
         ]
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,15 +202,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8009b9cd72f1ebe3",
+  "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
+    "finance/2026-05-13-finance.md",
+    "finance/2026-06-03-finance.md",
+    "finance/2026-05-07-finance.md",
+    "finance/2026-05-04-finance.md",
+    "finance/2026-05-08-finance.md",
+    "finance/2026-05-12-finance.md",
+    "finance/README.md",
+    "language/06/june.md",
+    "language/06/2026-06-01-language.md",
+    "language/06/2026-06-01-second-language.md",
+    "language/06/2026-06-02-language.md",
     "language/06/2026-06-02-second-language.md",
     "language/06/2026-06-03-second-language.md",
     "language/06/2026-06-03-language.md",
-    "language/06/june.md",
-    "language/06/2026-06-02-language.md",
-    "language/06/2026-06-01-second-language.md",
-    "language/06/2026-06-01-language.md",
     "language/05/2026-05-31-language.md",
     "language/05/2026-05-31-vocabulary.md",
     "2026-06-01-vocabulary.md",
@@ -222,14 +230,7 @@
     "books/2026-04-30-review.md",
     "language/05/may.md",
     "language/05/2026-05-07-vocabulary.md",
-    "language/05/2026-05-08-language.md",
-    "language/05/2026-05-31-second-language.md",
-    "language/05/2026-05-29-second-language.md",
     "language/06",
-    "life/2026-05-20-life.md",
-    "language/05/2026-05-29-language.md",
-    "language/05/2026-05-28-second-language.md",
-    "language/05/2026-05-28-language.md",
     "flask/old",
     "znbox",
     "znbox",

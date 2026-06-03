@@ -35,4 +35,6 @@ english      | chinese
 ------------ | ------- 
 Digital Nomad | 数位游牧
 volunteering | 义工
-even jail time | 判入獄
+jail time | 判入獄
+
+[https://engoo.com/app/daily-news/article/influencer-work-on-tourist-visas-banned-in-bali/NiHN4lt3EfG85-tm6spHSg](https://engoo.com/app/daily-news/article/influencer-work-on-tourist-visas-banned-in-bali/NiHN4lt3EfG85-tm6spHSg)

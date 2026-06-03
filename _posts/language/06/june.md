@@ -18,3 +18,6 @@ linens | 床单
  study aid | 学习辅助工具
 Safety Equipment|安全设备
 delegate jobs to other people | 把工作委派給其他人
+Digital Nomad | 数位游牧
+volunteering | 义工
+jail time | 判入獄
