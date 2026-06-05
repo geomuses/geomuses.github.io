@@ -7,7 +7,7 @@ tags:
 raise | 增加
 <!--SR:!2026-06-03,14,296-->
 It estimated that the average annual cost of raising a child in the US is a little over $16,800.   | 它估计在美国抚养一个孩子的平均年成本略高于 16,800 美元。
-<!--SR:!2026-05-21,1,234-->
+<!--SR:!2026-06-06,2,234-->
 overpass  | 桥梁
 <!--SR:!2026-05-23,3,254-->
 metro | 地铁
@@ -19,11 +19,11 @@ cobbled |  鹅卵石铺成的
 prizes | 奖品
 <!--SR:!2026-05-24,4,274-->
 character | 角色
-<!--SR:!2026-06-04,15,290-->
+<!--SR:!2026-07-18,44,290-->
 encounter | 遭遇
-<!--SR:!2026-05-22,1,170-->
+<!--SR:!2026-06-05,1,150-->
 bizarre | 怪异的
-<!--SR:!2026-05-22,1,214-->
+<!--SR:!2026-06-04,1,194-->
 willing | 愿意 We're not sure if your ideas for the website will work, but we're **willing** to experiment.
 <!--SR:!2026-05-22,1,214-->
  assign  | 分配
@@ -71,9 +71,9 @@ critical | 关键
  blame | 责备
 <!--SR:!2026-06-08,5,234-->
  Among Babies | 婴儿之间
-<!--SR:!2026-06-02,15,290-->
+<!--SR:!2026-08-03,60,310-->
  healthy development | 健康发育
-<!--SR:!2026-05-30,10,276-->
+<!--SR:!2026-07-02,28,276-->
  avoid | 避免
 <!--SR:!2026-05-24,4,274-->
  salons | 沙龙
@@ -83,9 +83,9 @@ critical | 关键
  lifespan | 寿命
 <!--SR:!2026-06-18,15,294-->
  as random as | 像随机一样
-<!--SR:!2026-05-30,10,276-->
+<!--SR:!2026-07-12,38,296-->
  obvious way | 显而易见的方式
-<!--SR:!2026-05-22,1,214-->
+<!--SR:!2026-06-04,1,194-->
  restrict | 限制
 <!--SR:!2026-05-21,1,234-->
  regulate | 规范
@@ -97,7 +97,7 @@ critical | 关键
 compensation | 补偿
 <!--SR:!2026-05-22,1,150-->
 demotion | 降职
-<!--SR:!2026-05-22,1,196-->
+<!--SR:!2026-06-06,2,196-->
 arbitration | 仲裁
 <!--SR:!2026-05-22,1,176-->
 panel | 小组

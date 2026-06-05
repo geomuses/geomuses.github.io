@@ -21,3 +21,6 @@ delegate jobs to other people | 把工作委派給其他人
 Digital Nomad | 数位游牧
 volunteering | 义工
 jail time | 判入獄
+then uses a gas called ethylene to ripen the fruit | 然後利用一種叫做乙烯的氣體來催熟果實 
+this is affecting various industries | 這正在影響各個產業。
+pilot projects | 試點計畫

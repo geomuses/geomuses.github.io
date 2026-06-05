@@ -15,7 +15,7 @@ bottleneck | 瓶颈
 horrified | 震惊
 <!--SR:!2026-05-23,1,186-->
 surge | to increase suddenly and greatly 飙升
-<!--SR:!2026-05-22,1,206-->
+<!--SR:!2026-06-07,3,226-->
 rival | 对手
 <!--SR:!2026-05-23,3,266-->
 relief | a feeling of happiness following the removal of worry, stress, etc.; a cause of or occasion for the removal of worry, stress, etc. 消除忧虑、压力等后带来的幸福感;消除忧虑、压力等的原因或理由。
@@ -29,15 +29,15 @@ consistent | 一致性
 abundant | 丰盛
 <!--SR:!2026-05-27,7,250-->
 prevent | 预防
-<!--SR:!2026-05-22,1,206-->
+<!--SR:!2026-06-05,1,186-->
 aging | 衰老
 <!--SR:!2026-07-14,44,305-->
 described | 描述
-<!--SR:!2026-05-31,11,270-->
+<!--SR:!2026-07-15,41,290-->
 possibly for other reasons | 或许还有其他原因
 <!--SR:!2026-06-04,15,290-->
 influencers | 影响者
-<!--SR:!2026-05-25,7,250-->
+<!--SR:!2026-06-29,25,270-->
 but they don't need to be about work | 但它们不一定与工作有关。
 <!--SR:!2026-05-23,3,245-->
 situated | 位于
@@ -59,7 +59,7 @@ fluctuate | 波动/起伏
 repetitive | 重复的/反复的
 <!--SR:!2026-06-05,16,290-->
 dietary | 饮食
-<!--SR:!2026-05-31,11,270-->
+<!--SR:!2026-07-04,30,270-->
 attraction | 景点
 <!--SR:!2026-05-23,2,226-->
 trap | 陷阱
@@ -85,7 +85,7 @@ toddlers |  幼儿
 insincere | 不真诚
 <!--SR:!2026-05-21,1,190-->
 chronotype | 生物钟类型
-<!--SR:!2026-05-23,3,266-->
+<!--SR:!2026-06-15,11,286-->
  regularly | 经常
 <!--SR:!2026-06-11,11,286-->
  regular | 正常
@@ -101,15 +101,15 @@ chronotype | 生物钟类型
 Routines may not work for all of us, and some people like life to be unpredictable. But for others, a "boring" routine is just what they need!  | 例行公事可能并不适用于所有人，有些人喜欢生活充满不确定性。但对另一些人来说，“无聊”的例行公事正是他们所需要的！
 <!--SR:!2026-05-23,2,226-->
 Night Moves | 夜行者
-<!--SR:!2026-05-23,3,266-->
+<!--SR:!2026-06-14,10,286-->
 mystery | 神秘
-<!--SR:!2026-05-23,3,266-->
+<!--SR:!2026-06-16,12,286-->
 distract  |  分心
-<!--SR:!2026-05-22,2,230-->
+<!--SR:!2026-06-11,7,250-->
 retro | 复古
 <!--SR:!2026-05-23,3,245-->
 Sales of MP3 players fell as phones began to be able to play music. | 随着手机开始能够播放音乐，MP3 播放器的销量下降了
-<!--SR:!2026-05-26,6,245-->
+<!--SR:!2026-06-24,20,265-->
 influential | 有影响力
 <!--SR:!2026-05-29,11,285-->
 in honor of  | 为纪念
@@ -123,11 +123,11 @@ distant |  远的
 mild | 温和的
 <!--SR:!2026-06-03,16,290-->
 wondered | 想知道
-<!--SR:!2026-06-01,14,290-->
+<!--SR:!2026-07-17,43,290-->
 boomer | 流行词
 <!--SR:!2026-05-31,11,270-->
  explosion | 爆炸性的成长
-<!--SR:!2026-05-21,1,205-->
+<!--SR:!2026-06-06,2,205-->
  opinions | 意见
 <!--SR:!2026-05-27,7,265-->
  illegal | 非法
