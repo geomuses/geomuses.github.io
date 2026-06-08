@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "439407b59d273424",
+        "id": "22babf99ab267280",
         "type": "tabs",
         "children": [
           {
-            "id": "fda189a6d5d2105c",
+            "id": "43fb5653131202bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/06/june.md",
+                "file": "flask/2026-05-14-flask.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "june"
+              "title": "2026-05-14-flask"
             }
           }
         ]
@@ -202,34 +202,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fda189a6d5d2105c",
+  "active": "2ce37697f7a5a101",
   "lastOpenFiles": [
-    "language/06/2026-06-05-language.md",
+    "flask/2025-08-07-flask.md",
+    "flask/2025-08-08-flask.md",
+    "flask/2025-08-13-flask.md",
+    "flask/2026-05-14-flask.md",
+    "flask/2026-05-13-flask.md",
+    "flask/2026-05-12-flask.md",
+    "flask/2025-12-01-flask.md",
+    "flask/2025-11-29-flask.md",
+    "flask/2025-11-28-flask.md",
+    "flask/2025-11-21-flask.md",
+    "flask/2025-08-09-flask.md",
+    "flask/2025-11-02-flask.md",
+    "time.md",
+    "Untitled Kanban.md",
     "language/06/june.md",
+    "language/06/2026-06-08-second-language.md",
     "language/06/2026-06-05-second-language.md",
+    "language/06/2026-06-08-language.md",
+    "language/06/2026-06-05-language.md",
+    "idea/陪伴系统.md",
+    "idea/透明募捐系统.md",
+    "idea/AI 饮食建议.md",
+    "idea",
     "language/06/2026-06-04-language.md",
     "language/06/2026-06-04-second-language.md",
     "finance/finance.md",
     "finance/2026-05-13-finance.md",
-    "language/06/2026-06-02-language.md",
-    "language/06/2026-06-01-second-language.md",
-    "language/06/2026-06-01-language.md",
-    "language/06/2026-06-02-second-language.md",
-    "language/06/2026-06-03-language.md",
-    "language/06/2026-06-03-second-language.md",
-    "life/life.md",
-    "finance/2026-05-12-finance.md",
-    "finance/2026-05-11-finance.md",
-    "finance/2026-05-10-finance.md",
-    "finance/2026-05-08-finance.md",
-    "finance/2026-05-07-finance.md",
-    "finance/2026-05-05-finance.md",
-    "finance/2026-05-04-finance.md",
-    "finance/2026-05-03-finance.md",
-    "finance/2026-05-02-finance.md",
-    "finance/2026-05-01-finance.md",
-    "finance/2026-04-30-finance.md",
-    "finance/2026-04-29-finance.md",
     "language/06",
     "flask/old",
     "znbox",
@@ -239,7 +240,6 @@
     "flask/example/error/templates/404.html",
     "flask/example/error/templates",
     "flask/example/error/app.py",
-    "flask/example/error",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
