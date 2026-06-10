@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/2026-06-10-review.md",
+                "file": "quant/2026-05-08-quant.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-10-review"
+              "title": "2026-05-08-quant"
             }
           }
         ],
@@ -220,14 +220,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "books/2026-06-10-review.md"
+                "file": "quant/2026-05-08-quant.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026-06-10-review"
+              "title": "File properties for 2026-05-08-quant"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -244,12 +244,16 @@
   },
   "active": "d2db8772786c4a6c",
   "lastOpenFiles": [
-    "books/2026-05-16-review.md",
+    "quant/2026-05-05-quant.md",
+    "quant/2026-05-02-quant.md",
+    "quant/2026-05-04-quant.md",
+    "quant/2026-05-08-quant.md",
+    "quant/2026-05-13-quant.md",
     "books/2026-06-10-review.md",
+    "books/2026-05-16-review.md",
     "language/06/2026-06-10-second-language.md",
     "2026-06-10-third-language.md",
     "language/06/june.md",
-    "quant/2026-05-13-quant.md",
     "quant.zip",
     "quant/2026-06-10-quant.md",
     "quant/pf/blume_vasicek_beta.py",
@@ -262,12 +266,8 @@
     "time.md",
     "quant/2026-05-12-quant.md",
     "quant/2026-05-11-quant.md",
-    "quant/2026-05-08-quant.md",
     "quant/2026-05-07-quant.md",
-    "quant/2026-05-05-quant.md",
-    "quant/2026-05-04-quant.md",
     "quant/2026-05-03-quant.md",
-    "quant/2026-05-02-quant.md",
     "quant/2026-05-01-quant.md",
     "quant/2026-04-30-quant.md",
     "quant/2026-04-29-quant.md",
