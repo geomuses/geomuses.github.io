@@ -1,3 +1,4 @@
+#%%
 import numpy as np
 import pandas as pd
 import yfinance as yf
@@ -12,7 +13,7 @@ def get_market_data(tickers, market_ticker="^GSPC", start_date="2021-01-01", end
     获取个股和市场（默认标普500）的收盘价，并计算日收益率
     """
     all_tickers = tickers + [market_ticker]
-    data = yf.download(all_tickers, start=start_date, end=end_date, progress=False)['Adj Close']
+    data = yf.download(all_tickers, start=start_date, end=end_date, progress=False)['Close']
     
     # 计算日收益率并剔除缺失值
     returns = data.pct_change().dropna()
@@ -118,3 +119,4 @@ if __name__ == "__main__":
     plt.grid(axis='y', linestyle=':', alpha=0.6)
     plt.xticks(rotation=0)
     plt.show()
+# %%

@@ -1,3 +1,4 @@
+#%%
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -173,3 +174,4 @@ if __name__ == "__main__":
     print(f"组合总体 Beta 敞口: {summary['Portfolio_Beta']:.3f}")
     print(f"组合 CAPM 理论年化收益率: {summary['Portfolio_CAPM_Expected_Return_Annual']:.2%}")
     print(f"组合 实际历史年化收益率: {summary['Portfolio_Historical_Return_Annual']:.2%}")
+# %%
