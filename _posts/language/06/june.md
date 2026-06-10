@@ -46,3 +46,6 @@ pilot projects | 試點計畫
 <!--SR:!2026-06-08,1,239-->
 Would that ruin your evening | 破坏你的晚上
 adults-only dining to some extent | 部分情況僅限成人用餐 (extent 情况)
+50,000 bear sightings in Japan | 日本已記錄5萬起熊目擊事件
+leave garbage or garden waste lying around | 請勿隨意丟棄垃圾或園林廢棄物
+escaping | 逃脫
