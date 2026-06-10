@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "books/2026-06-10-review.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -213,14 +213,25 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "53bf87208c9fff79",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "books/2026-06-10-review.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 2026-06-10-review"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
