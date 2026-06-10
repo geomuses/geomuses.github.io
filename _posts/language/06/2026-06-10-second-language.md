@@ -34,3 +34,5 @@ However, if a quick check often turns into an hour of scrolling, it may be a goo
 english      | chinese 
 ------------ | ------- 
 I'm trying to spend less time mindlessly scrolling on social media | 我试图减少在社交媒体上无目的地浏览时间
+saw unpleasant or upsetting content | 看到令人不快或不安的內容
+if a quick check often turns into an hour of scrolling | 如果一次簡單的瀏覽往往演變成一個小時的刷屏 
