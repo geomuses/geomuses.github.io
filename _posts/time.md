@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] 英文 duolings
 - [ ] 创业计划书
 - [ ] 做投资组合研究
+- [ ] 课程设计
 - [ ] 强化学习
 
 
@@ -27,7 +28,6 @@ kanban-plugin: board
 ## 处理完了
 
 - [ ] cv
-- [ ] 课程设计
 - [ ] 美股研究
 
 
