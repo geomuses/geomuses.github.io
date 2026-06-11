@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] 创业计划书
 - [ ] AI 学习
 - [ ] Mongodb 学习
+- [ ] 美股研究
 
 
 ## 重要且紧急(赶紧处理)
