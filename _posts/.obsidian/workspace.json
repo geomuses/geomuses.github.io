@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant/2026-06-21-投资组合研究.md",
+                "file": "quant/2026-05-13-quant_贝塔值的预测与调整.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-21-投资组合研究"
+              "title": "2026-05-13-quant_贝塔值的预测与调整"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flask 13",
+                "query": "有效边界",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 413.5
   },
   "right": {
     "id": "8f11d7d3900d8ee9",
@@ -246,35 +246,35 @@
   },
   "active": "9702df5bcf903c7a",
   "lastOpenFiles": [
+    "quant/2026-05-12-quant_资本市场线.md",
+    "quant/2026-05-11-quant_无异曲线.md",
+    "quant/2026-05-08-quant_portfolio_optimization_a_review.md",
+    "quant/2026-05-07-quant_ black_litterman_model.md",
+    "quant/2026-05-04-quant_以CVaR最小化为目标的投资组合.md",
+    "quant/2026-05-05-quant_业绩评价与归因分析.md",
+    "quant/2026-05-03-quant_CVaR.md",
+    "quant/2026-05-02-quant_VaR.md",
+    "quant/2026-05-01-quant_滚动Alpha.md",
+    "quant/2026-04-30-quant_capm.md",
+    "quant/2026-04-29-quant_相关性分析.md",
+    "quant/2026-04-28-quant_nelson-siegel-svensson_model.md",
+    "quant/2026-04-23-quant_有效边界.md",
+    "quant/2026-04-22-quant_bayesian_optimization.md",
+    "quant/投资组合研究.md",
     "zportfolio/portfolio.md",
     "time.md",
-    "quant/2026-06-21-投资组合研究.md",
     "quant/2026-06-14-投资组合研究-1.md",
     "zttachment/qq_plots.png",
     "zttachment/hist.png",
     "zttachment",
     "finance/2026-04-30-finance.md",
     "finance/2026-04-27-finance.md",
-    "quant/2026-05-12-quant.md",
-    "quant/2026-05-13-quant.md",
-    "quant/2026-05-11-quant.md",
-    "quant/2026-05-08-quant.md",
-    "quant/2026-05-07-quant.md",
-    "quant/2026-05-04-quant.md",
-    "quant/2026-04-23-quant.md",
-    "quant/2026-04-28-quant.md",
-    "quant/2026-04-29-quant.md",
-    "quant/2026-05-01-quant.md",
-    "quant/2026-05-02-quant.md",
-    "quant/2026-05-05-quant.md",
+    "quant/2026-05-13-quant_贝塔值的预测与调整.md",
     "game/2026-05-09-dino.md",
     "game/2026-06-14-ml.md",
     "game/2025-11-29-pygame.md",
     "game/2025-11-26-pygame.md",
     "game/2025-08-04-snake.md",
-    "game/2025-08-02-pygame.md",
-    "game/2025-08-02-snake.md",
-    "game/2025-08-03-snake.md",
     "Untitled.base",
     "zportfolio",
     "quant/main_pipeline.py",
