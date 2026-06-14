@@ -5,7 +5,7 @@ date:   2025-12-26 09:01:00 +0800
 image: 11.jpg
 tags: 
     - python
-    - sklearn
+    - ml
 ---
 
 ```py

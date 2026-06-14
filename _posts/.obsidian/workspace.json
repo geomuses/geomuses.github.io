@@ -11,37 +11,17 @@
             "id": "c52bead575588bca",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "zportfolio/portfolio.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "portfolio"
-            }
-          },
-          {
-            "id": "9702df5bcf903c7a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "quant/2026-05-13-quant_贝塔值的预测与调整.md",
-                "mode": "preview",
-                "source": true
+                "file": "quant/投资组合研究.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-13-quant_贝塔值的预测与调整"
+              "title": "投资组合研究"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,8 +224,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9702df5bcf903c7a",
+  "active": "c52bead575588bca",
   "lastOpenFiles": [
+    "zportfolio/portfolio.md",
+    "quant/2026-04-30-quant_capm.md",
+    "sklearn/2025-12-26-ml_pipeline.md",
+    "sklearn/2025-12-25-ml_关联规则与异常检测.md",
+    "sklearn/2025-12-24-ml_线性回归.md",
+    "sklearn/2025-12-23-ml_特征选择.md",
+    "sklearn/2025-12-22-ml_数值特征处理.md",
+    "sklearn/2025-12-21-ml_类别特征处理.md",
+    "sklearn/2025-12-20-ml_数据清洗与特征工程.md",
+    "sklearn/2025-12-18-ml_模型优化与超参数调优.md",
+    "sklearn/2025-12-19-ml_模型构建与集成.md",
+    "sklearn/2025-12-17-ml_模型评估与性能度量.md",
+    "sklearn/2025-12-16-ml_数据集划分.md",
+    "sklearn/2025-12-15-ml_前页.md",
+    "sklearn/2026-06-14-ml_强化学习.md",
+    "sklearn/2025-12-29-ml_不平衡黑白数据.md",
+    "quant/2026-05-13-quant_贝塔值的预测与调整.md",
     "quant/2026-05-12-quant_资本市场线.md",
     "quant/2026-05-11-quant_无异曲线.md",
     "quant/2026-05-08-quant_portfolio_optimization_a_review.md",
@@ -255,26 +252,9 @@
     "quant/2026-05-03-quant_CVaR.md",
     "quant/2026-05-02-quant_VaR.md",
     "quant/2026-05-01-quant_滚动Alpha.md",
-    "quant/2026-04-30-quant_capm.md",
-    "quant/2026-04-29-quant_相关性分析.md",
-    "quant/2026-04-28-quant_nelson-siegel-svensson_model.md",
-    "quant/2026-04-23-quant_有效边界.md",
-    "quant/2026-04-22-quant_bayesian_optimization.md",
-    "quant/投资组合研究.md",
-    "zportfolio/portfolio.md",
-    "time.md",
-    "quant/2026-06-14-投资组合研究-1.md",
     "zttachment/qq_plots.png",
     "zttachment/hist.png",
     "zttachment",
-    "finance/2026-04-30-finance.md",
-    "finance/2026-04-27-finance.md",
-    "quant/2026-05-13-quant_贝塔值的预测与调整.md",
-    "game/2026-05-09-dino.md",
-    "game/2026-06-14-ml.md",
-    "game/2025-11-29-pygame.md",
-    "game/2025-11-26-pygame.md",
-    "game/2025-08-04-snake.md",
     "Untitled.base",
     "zportfolio",
     "quant/main_pipeline.py",
