@@ -4,24 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "741d7e5e78ece1c9",
+        "id": "8e237980a6faa58c",
         "type": "tabs",
         "children": [
           {
-            "id": "3ddf35a4bdee1293",
+            "id": "c52bead575588bca",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "zportfolio/portfolio.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "portfolio"
+            }
+          },
+          {
+            "id": "9702df5bcf903c7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant/2026-06-14-投资组合研究.md",
-                "mode": "source",
-                "source": false
+                "file": "quant/2026-06-21-投资组合研究.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-14-投资组合研究"
+              "title": "2026-06-21-投资组合研究"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,13 +244,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3ddf35a4bdee1293",
+  "active": "9702df5bcf903c7a",
   "lastOpenFiles": [
+    "zportfolio/portfolio.md",
+    "time.md",
+    "quant/2026-06-21-投资组合研究.md",
+    "quant/2026-06-14-投资组合研究-1.md",
     "zttachment/qq_plots.png",
     "zttachment/hist.png",
     "zttachment",
-    "zportfolio/portfolio.md",
-    "time.md",
     "finance/2026-04-30-finance.md",
     "finance/2026-04-27-finance.md",
     "quant/2026-05-12-quant.md",
@@ -245,7 +267,6 @@
     "quant/2026-05-01-quant.md",
     "quant/2026-05-02-quant.md",
     "quant/2026-05-05-quant.md",
-    "quant/2026-06-14-投资组合研究.md",
     "game/2026-05-09-dino.md",
     "game/2026-06-14-ml.md",
     "game/2025-11-29-pygame.md",
