@@ -103,7 +103,7 @@ arbitration | 仲裁
 panel | 小组
 <!--SR:!2026-07-30,54,310-->
 dismissal | 解雇
-<!--SR:!2026-06-12,7,250-->
+<!--SR:!2026-06-18,4,230-->
  reliable | 可靠的
 <!--SR:!2026-06-12,1,130-->
  decline  | 下降
@@ -177,7 +177,7 @@ it was found that while most players did not lose interest in other forms of ent
  All these notifications that keep popping up are just so distracting | .
 <!--SR:!2026-06-26,15,303-->
  those leftovers taste better the next day | 剩菜隔夜更美味
-<!--SR:!2026-06-14,3,263-->
+<!--SR:!2026-06-24,10,283-->
  Even after cooking stops |即使烹饪停止后
 <!--SR:!2026-06-14,3,263-->
  Certain spices can be quite harsh  | 某些香料味道可能比较浓烈

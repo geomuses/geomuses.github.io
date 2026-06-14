@@ -61,7 +61,7 @@ partly | 部分
 historic sights | 历史古迹
 <!--SR:!2026-07-13,39,292-->
 Australia equals the UK in offering the most parental leave in the world | 澳大利亚与英国并列全球育儿假最长的国家
-<!--SR:!2026-06-12,7,254-->
+<!--SR:!2026-07-09,25,274-->
 Pajamas | 睡衣
 <!--SR:!2026-08-04,60,310-->
 sweater | 毛衣
@@ -89,7 +89,7 @@ conscious | 有意识
 contradictory | 矛盾
 <!--SR:!2026-06-16,5,194-->
 spike | 激增
-<!--SR:!2026-06-14,7,234-->
+<!--SR:!2026-07-07,23,254-->
 crave | 渴望,想要
 <!--SR:!2026-06-12,1,154-->
 awkward | 尴尬
@@ -139,7 +139,7 @@ rhythmic | 节奏感
 <!--SR:!2026-06-15,4,172-->
 Voluntold | 自愿
 cadence | 语调
-<!--SR:!2026-06-12,1,134-->
+<!--SR:!2026-06-15,1,130-->
 Unsurprisingly | 毫不意外
 <!--SR:!2026-06-25,25,272-->
 My pets didn't like each other at first, but they've learned to live in harmony with one another.| 我的宠物起初不喜欢彼此，但它们已经学会了和谐共处

@@ -53,7 +53,7 @@ advocacy | 倡导/宣传/倡导活动
 urge |  催促/敦促
 <!--SR:!2026-06-16,11,286-->
 intake | 摄入量/摄取量
-<!--SR:!2026-06-12,6,226-->
+<!--SR:!2026-07-04,20,246-->
 fluctuate | 波动/起伏
 <!--SR:!2026-06-12,1,130-->
 repetitive | 重复的/反复的
@@ -93,7 +93,7 @@ chronotype | 生物钟类型
  consistency | 一致性
 <!--SR:!2026-06-23,17,266-->
  necessarily | 必然性
-<!--SR:!2026-06-14,9,266-->
+<!--SR:!2026-06-19,5,246-->
  And over time | 随着时间的推移
 <!--SR:!2026-06-13,7,266-->
  Of course, life can be unpredictable. But if we have a routine for many things, it gives us something calm we can go back to after something unpredictable happens.   | 当然，生活可能无法预测。但如果我们对许多事情都有规律，那么在发生不可预测的事情后，我们就有了一种可以回归的平静。
