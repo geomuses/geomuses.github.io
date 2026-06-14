@@ -10,7 +10,6 @@ kanban-plugin: board
 - [ ] black litterman model
 - [ ] 压力测试
 - [ ] MST
-- [ ] 肥尾检验(QQ-Plot/JB检验/超额峰度)
 - [ ] 组合优化(Standard Portfolio / BL / HRP)
 
 
@@ -19,6 +18,7 @@ kanban-plugin: board
 - [ ] pearson correlation
 - [ ] 典型的投资组合
 - [ ] 典型投资组合绘图
+- [ ] 肥尾检验(QQ-Plot/JB检验/超额峰度)
 
 
 
