@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2cfd2fe6f0f858e1",
+        "id": "d28b3de1a651b04b",
         "type": "tabs",
         "children": [
           {
-            "id": "e0087e475e22bc03",
+            "id": "c06925074d8f29ee",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -25,23 +25,8 @@
               "icon": "lucide-trello",
               "title": "portfolio"
             }
-          },
-          {
-            "id": "5269676d6dae43ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zther/购物 + 订阅.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "购物 + 订阅"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,23 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "time.md",
+                "file": "zportfolio/portfolio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of time"
-            }
-          },
-          {
-            "id": "2ce37697f7a5a101",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "Outline of portfolio"
             }
           },
           {
@@ -206,19 +181,29 @@
             }
           },
           {
+            "id": "2ce37697f7a5a101",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
             "id": "53bf87208c9fff79",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "quant/2026-05-08-quant.md"
+                "file": "zportfolio/portfolio.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026-05-08-quant"
+              "title": "File properties for portfolio"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -233,20 +218,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5269676d6dae43ec",
+  "active": "c06925074d8f29ee",
   "lastOpenFiles": [
-    "zportfolio/portfolio.md",
     "zportfolio/大纲.md",
+    "zther/future.md",
+    "time.md",
+    "language/06/2026-06-13-language.md",
+    "看医生.md",
+    "zportfolio/portfolio.md",
+    "zther/未来计划.md",
+    "zther/线上课程 + 电子书制作.md",
+    "zther/课纲.md",
+    "zther/购物 + 订阅.md",
+    "Untitled.base",
+    "language/06/2026-06-11-second-language.md",
+    "language/06/june.md",
+    "language/06/2026-06-11-language.md",
+    "zportfolio/AI.md",
     "linux/2026-05-13-linux.md",
     "linux/2026-06-11-claude.md",
-    "time.md",
-    "zther/购物 + 订阅.md",
-    "zportfolio/AI.md",
-    "language/06/june.md",
-    "zther/课纲.md",
-    "zther/线上课程 + 电子书制作.md",
-    "zther/未来计划.md",
-    "zther/future.md",
     "zportfolio",
     "quant/main_pipeline.py",
     "quant/app.py",
@@ -256,7 +246,6 @@
     "quant/fe",
     "quant/pf/fe",
     "quant/pf",
-    "quant/portfolio/fe",
     "linux/2026-05-16-linux.md",
     "quant/2026-04-22-quant.md",
     "quant/pf/zeview.md",
@@ -267,10 +256,6 @@
     "quant/pf/frame work.md",
     "quant/pf/fat-tailed distribution.md",
     "quant/pf/correlation.md",
-    "quant/pf/capm.md",
-    "quant/pf/black litterman model.md",
-    "quant/2026-04-28-quant.md",
-    "quant/2026-04-23-quant.md",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",

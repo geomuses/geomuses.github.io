@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## 未完成
 
-- [ ] 典型投资组合绘图
 - [ ] 过滤的方法
 - [ ] black litterman model
 - [ ] 压力测试
@@ -19,6 +18,7 @@ kanban-plugin: board
 
 - [ ] pearson correlation
 - [ ] 典型的投资组合
+- [ ] 典型投资组合绘图
 
 
 
