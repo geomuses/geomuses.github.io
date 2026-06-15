@@ -41,39 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/06/2026-06-15-third-language.md",
+                "file": "language/06/2026-06-16-second-language.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-15-third-language"
-            }
-          },
-          {
-            "id": "21e443f3c2fedf0e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "time.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "time"
+              "title": "2026-06-16-second-language"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -276,16 +253,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "21e443f3c2fedf0e",
+  "active": "cfe01c47d73428ef",
   "lastOpenFiles": [
-    "language/06/2026-06-15-third-language.md",
+    "language/06/2026-06-16-language.md",
+    "language/06/2026-06-16-second-language.md",
     "language/06/2026-06-15-language.md",
-    "language/06/2026-06-15-second-language.md",
-    "language/06/2026-06-13-language.md",
-    "language/06/2026-06-01-language.md",
     "language/06/june.md",
+    "language/06/2026-06-13-language.md",
     "books/2026-06-15-review_nlp成长蜕变营.md",
     "time.md",
+    "language/06/2026-06-01-language.md",
     "books/2025-12-19-review_疯潮行销.md",
     "books/2026-01-11-review_富爸爸穷爸爸.md",
     "books/2026-01-15-review_富爸爸穷爸爸2.md",

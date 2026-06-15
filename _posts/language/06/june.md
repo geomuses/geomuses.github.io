@@ -66,3 +66,6 @@ tribe | 部落
 <!--SR:!2026-06-15,4,282-->
 baristas | 咖啡师
 <!--SR:!2026-06-15,4,282-->
+you get to the crust  |  弄到饼皮
+not dough | 不是面团
+fried seaweed | 炸海苔
