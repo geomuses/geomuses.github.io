@@ -1,0 +1,32 @@
+---
+layout: post
+title: 英文文章 Algorithms May Be Making Your Media Consumption Boring
+date: 2026-06-15 09:01:00 +0800
+image: 14.jpg
+tags:
+  - language
+---
+
+# Algorithms May Be Making Your Media Consumption Boring
+
+When you finish a show or a film, your streaming platform will offer you something similar to watch. Music services do the same, bringing you media the algorithm thinks you will like based on previous activity.
+
+But could those automatic recommendations be making things boring?
+
+That's a question that researcher Samsun Knight from the University of Toronto explored in an article in the _Journal of Cultural Economics_.
+
+Knight noted that our tastes in art and music usually evolve over 10 or 20 years, while recommendation algorithms generally test content over just a few weeks or months.
+
+And he wondered, for example, if Spotify had been around in the 1990s, would a new genre like electronic dance music ever have become popular? Or would algorithms have kept those new sounds off people's playlists?
+
+So Knight designed mathematical models to test what would happen if computers controlled all human exposure to music — or any art.
+
+First, he built a model to simulate how our appreciation of art and media rises and falls over time with repeated exposure. Something starts unknown, slowly becomes popular, and then peaks, after which people begin to lose interest.
+
+Next, Knight built models to simulate the effects of two different types of "curators" — basically, algorithms — that would choose what people would be exposed to.
+
+One model simulated a curator focused on short-term popularity — if something wasn't popular right away, it de-emphasized it. The other model simulated a curator that considered a much longer time period, but heavily favored things that had been popular in the past, without accounting for the way growing familiarity with something new can change people's tastes.
+
+It was found that both models did not explore new content enough — showing that algorithms based on similar models can become entirely closed off to new possibilities, repeatedly recommending familiar content until users just get bored.
+
+Knight suggested that algorithms could be improved by perhaps tracking how often a user is exposed to a specific style over several years, and taking this data into account in recommendations.
