@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sklearn/2026-06-14-ml_强化学习.md",
+                "file": "quant/投资组合研究.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-14-ml_强化学习"
+              "title": "投资组合研究"
             }
           }
         ]
@@ -224,10 +224,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "c52bead575588bca",
   "lastOpenFiles": [
-    "quant/投资组合研究.md",
     "sklearn/2026-06-14-ml_强化学习.md",
+    "quant/投资组合研究.md",
     "solidity/2026-02-08-solidity_变量类型.md",
     "solidity/2026-02-07-solidity_入门.md",
     "zportfolio/portfolio.md",
