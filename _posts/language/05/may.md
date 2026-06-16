@@ -9,7 +9,7 @@ raise | 增加
 It estimated that the average annual cost of raising a child in the US is a little over $16,800.   | 它估计在美国抚养一个孩子的平均年成本略高于 16,800 美元。
 <!--SR:!2026-06-13,7,254-->
 overpass  | 桥梁
-<!--SR:!2026-06-16,10,274-->
+<!--SR:!2026-07-24,38,294-->
 metro | 地铁
 <!--SR:!2026-07-13,37,290-->
 an old highway overpass that the city turned into a public park and walkway | 这座城市将一座旧的高速公路高架桥改造成了一个公共公园和步行道。
@@ -31,7 +31,7 @@ willing | 愿意 We're not sure if your ideas for the website will work, but we'
  discussion | 讨论
 <!--SR:!2026-06-19,14,294-->
  compared with 12% of people who have four-year | 拥有四年制学位的人中只有 12%的人这样认为
-<!--SR:!2026-06-13,7,254-->
+<!--SR:!2026-07-10,24,274-->
  slaves | 奴隶
 <!--SR:!2026-08-06,62,316-->
 bunch | 一群
@@ -77,7 +77,7 @@ critical | 关键
  avoid | 避免
 <!--SR:!2026-06-19,14,294-->
  salons | 沙龙
-<!--SR:!2026-06-12,7,254-->
+<!--SR:!2026-07-12,26,274-->
  bankrupt | 破产
 <!--SR:!2026-08-04,60,310-->
  lifespan | 寿命
@@ -113,9 +113,9 @@ dismissal | 解雇
  profitably | 有利可图地/能带来利润地
 <!--SR:!2026-06-21,10,254-->
  commercial | 商业的/与商业相关的
-<!--SR:!2026-06-16,5,194-->
+<!--SR:!2026-06-30,14,214-->
  wholesaler  | 批发商
-<!--SR:!2026-06-12,7,254-->
+<!--SR:!2026-07-11,25,274-->
  inventory |  库存/存货
 <!--SR:!2026-06-16,5,194-->
  ethical  | 道德的/合乎伦理的
@@ -167,7 +167,7 @@ it was found that while most players did not lose interest in other forms of ent
  Many of us spend a large part of our day sitting down. | 我们很多人一天中大部分时间都是坐着的
 <!--SR:!2026-06-13,2,243-->
  There is evidence | 有证据表明
-<!--SR:!2026-06-12,1,223-->
+<!--SR:!2026-06-17,1,203-->
  you can also get up and move around during commercials | 你也可以在广告时间起身走动。
 <!--SR:!2026-06-27,16,303-->
  But now this exemption is being abolished. | 但现在这项豁免将被取消。
@@ -179,9 +179,9 @@ it was found that while most players did not lose interest in other forms of ent
  those leftovers taste better the next day | 剩菜隔夜更美味
 <!--SR:!2026-06-24,10,283-->
  Even after cooking stops |即使烹饪停止后
-<!--SR:!2026-06-14,3,263-->
+<!--SR:!2026-06-27,11,283-->
  Certain spices can be quite harsh  | 某些香料味道可能比较浓烈
-<!--SR:!2026-06-12,1,223-->
+<!--SR:!2026-06-19,3,243-->
  become less bitter | 苦味会减轻
 <!--SR:!2026-06-28,17,303-->
  while proteins in meat can break down over time, making the meat softer and giving it more umami | 而肉类中的蛋白质会随着时间推移分解，使肉质更软嫩，鲜味更浓郁

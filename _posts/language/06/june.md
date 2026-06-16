@@ -31,7 +31,7 @@ linens | 床单
 Safety Equipment|安全设备
 <!--SR:!2026-06-25,14,292-->
 delegate jobs to other people | 把工作委派給其他人
-<!--SR:!2026-06-14,3,259-->
+<!--SR:!2026-06-28,12,279-->
 Digital Nomad | 数位游牧
 <!--SR:!2026-06-25,14,292-->
 volunteering | 义工
@@ -49,7 +49,7 @@ Would that ruin your evening | 破坏你的晚上
 adults-only dining to some extent | 部分情況僅限成人用餐 (extent 情况)
 <!--SR:!2026-06-15,4,282-->
 50,000 bear sightings in Japan | 日本已記錄5萬起熊目擊事件
-<!--SR:!2026-06-15,4,282-->
+<!--SR:!2026-07-02,16,302-->
 leave garbage or garden waste lying around | 請勿隨意丟棄垃圾或園林廢棄物
 <!--SR:!2026-06-16,2,242-->
 escaping | 逃脫
@@ -59,7 +59,7 @@ morale | 士气 (moral ; 道德)
 you also don't want the staff to throw you out! | 你也不想被工作人員趕出去吧！
 <!--SR:!2026-06-15,4,282-->
 I'm fed up with doing all the housework while you sit around all day  | 我厌倦了做所有的家务，而你却整天无所事事。  fed up (厌倦)
-<!--SR:!2026-06-15,4,282-->
+<!--SR:!2026-06-18,2,262-->
 break even |  盈亏平衡
 <!--SR:!2026-06-12,1,242-->
 tribe | 部落

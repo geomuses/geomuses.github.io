@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 英文文章 US Adults Say Being Informed Matters, Few Say They Are
+title: 英文文章 US Adults Say Being Informed Matters, Few Say They Are[可以去复习]
 date: 2026-06-16 09:01:00 +0800
 image: 14.jpg
 tags:
   - language
+  - difficult
 ---
 
 # US Adults Say Being Informed Matters, Few Say They Are
