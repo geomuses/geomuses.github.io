@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flask/2025-08-08-flask_表单处理.md",
+                "file": "quant/2026-06-18-quant_review_article.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-08-flask_表单处理"
-            }
-          },
-          {
-            "id": "5edc88adb0abe5c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quant/2026-06-17-quant_ledoit-wolf_收缩技术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-17-quant_ledoit-wolf_收缩技术"
+              "title": "2026-06-18-quant_review_article"
             }
           }
         ]
@@ -240,6 +226,8 @@
   },
   "active": "755a376b346e005a",
   "lastOpenFiles": [
+    "flask/2025-08-08-flask_表单处理.md",
+    "quant/2026-06-17-quant_ledoit-wolf_收缩技术.md",
     "flask/2025-08-09-flask_静态文件管理.md",
     "flask/2025-08-13-flask_错误处理.md",
     "flask/2025-11-02-flask_RESTful.md",
@@ -255,7 +243,6 @@
     "flask/2025-08-04-flask_入门.md",
     "flask/2025-08-03-flask_前言.md",
     "quant/2026-06-18-quant_review_article.md",
-    "quant/2026-06-17-quant_ledoit-wolf_收缩技术.md",
     "quant/2026-06-16-quant_hrp.md",
     "game/2026-05-09-dino_基于gym.md",
     "quant/2026-06-18-quant_mst.md",
@@ -265,7 +252,6 @@
     "quant/README.md",
     "quant/2026-06-19-quant_投资组合review_article.md",
     "zportfolio/portfolio.md",
-    "language/06/2026-06-16-second-language.md",
     "algorithm",
     "zttachment/qq_plots.png",
     "zttachment/hist.png",
