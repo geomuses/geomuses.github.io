@@ -8,44 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e2bc1ec92756b38",
+            "id": "755a376b346e005a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game/2026-05-09-dino_基于gym.md",
+                "file": "flask/2025-08-08-flask_表单处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-09-dino_基于gym"
+              "title": "2025-08-08-flask_表单处理"
             }
           },
           {
-            "id": "755a376b346e005a",
+            "id": "5edc88adb0abe5c8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "time.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "quant/2026-06-17-quant_ledoit-wolf_收缩技术.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "time"
+              "icon": "lucide-file",
+              "title": "2026-06-17-quant_ledoit-wolf_收缩技术"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,34 +238,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "03cdf6059f5ad9b0",
+  "active": "755a376b346e005a",
   "lastOpenFiles": [
-    "game/2026-06-16-dino_基于gym.md",
-    "game/2026-06-17-dino_reinforcement.md",
+    "flask/2025-08-09-flask_静态文件管理.md",
+    "flask/2025-08-13-flask_错误处理.md",
+    "flask/2025-11-02-flask_RESTful.md",
+    "flask/2025-11-29-flask_登入表单3.md",
+    "flask/2025-11-28-flask_登入表单2.md",
+    "flask/2025-11-21-flask_登入表单.md",
+    "flask/2026-05-13-flask_ 数据库crud.md",
+    "flask/2026-05-12-flask_数据库.md",
+    "flask/2026-05-14-flask_蓝图.md",
+    "flask/2025-08-07-flask_模板基础.md",
+    "flask/2025-08-06-flask_重定向.md",
+    "flask/2025-08-05-flask_路由和视图.md",
+    "flask/2025-08-04-flask_入门.md",
+    "flask/2025-08-03-flask_前言.md",
+    "quant/2026-06-18-quant_review_article.md",
+    "quant/2026-06-17-quant_ledoit-wolf_收缩技术.md",
+    "quant/2026-06-16-quant_hrp.md",
     "game/2026-05-09-dino_基于gym.md",
     "quant/2026-06-18-quant_mst.md",
+    "time.md",
+    "game/2026-06-16-dino_基于gym.md",
+    "game/2026-06-17-dino_reinforcement.md",
     "quant/README.md",
     "quant/2026-06-19-quant_投资组合review_article.md",
-    "quant/投资组合研究.md",
-    "quant/2026-06-16-quant_hrp.md",
-    "quant/2026-06-17-quant_ledoit-wolf_收缩技术.md",
     "zportfolio/portfolio.md",
     "language/06/2026-06-16-second-language.md",
-    "language/06/2026-06-16-language.md",
-    "books/2026-06-16-review_大人的11堂写作课.md",
-    "flutter/2026-02-14-flutter_重构.md",
-    "flutter/2026-02-13-flutter_字体和风格.md",
-    "flutter/2026-02-12-flutter_入门.md",
-    "books/2026-06-17-reivew_大人的11堂写作课2.md",
-    "life/2026-06-16-life_反思过去.md",
-    "books/2026-05-16-review_10倍写作术.md",
-    "books/2026-06-10-review_逆思维.md",
-    "books/2026-04-26-review_打造超人大脑.md",
-    "life/2026-05-31-life_活下去.md",
-    "books/2026-04-22-review_写作高手速成手册.md",
-    "books/2026-04-19-review_如何学会语言5个步骤.md",
-    "life/2026-03-03-life_第一天上班准则.md",
-    "life/2026-04-26-life_学习英文.md",
     "algorithm",
     "zttachment/qq_plots.png",
     "zttachment/hist.png",

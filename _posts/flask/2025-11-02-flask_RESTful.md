@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  python flask-RESTful
-date:   2025-11-02 11:24:29 +0800
-tags: 
-    - python 
-    - flask
+title: python flask RESTful
+date: 2025-11-02 11:24:29 +0800
+tags:
+  - python
+  - flask
 image: 07.jpg
 ---
 
