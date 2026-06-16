@@ -5,7 +5,7 @@ date: 2026-06-16 09:01:00 +0800
 image: 14.jpg
 tags:
   - language
-  - difficult
+  - hard
 ---
 
 # US Adults Say Being Informed Matters, Few Say They Are
