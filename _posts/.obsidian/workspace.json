@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7a175ed608f22189",
+        "id": "d88572163c5e5ab3",
         "type": "tabs",
         "children": [
           {
-            "id": "755a376b346e005a",
+            "id": "11368ce30ee13cd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant/2026-06-18-quant_review_article.md",
+                "file": "algorithm/README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-18-quant_review_article"
+              "title": "README"
             }
           }
         ]
@@ -224,8 +224,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "755a376b346e005a",
+  "active": "11368ce30ee13cd3",
   "lastOpenFiles": [
+    "quant/2026-06-18-quant_review_article.md",
+    "algorithm/README.md",
+    "algorithm",
+    "zportfolio/AI.md",
+    "zportfolio/portfolio.md",
     "flask/2025-08-08-flask_表单处理.md",
     "quant/2026-06-17-quant_ledoit-wolf_收缩技术.md",
     "flask/2025-08-09-flask_静态文件管理.md",
@@ -242,17 +247,12 @@
     "flask/2025-08-05-flask_路由和视图.md",
     "flask/2025-08-04-flask_入门.md",
     "flask/2025-08-03-flask_前言.md",
-    "quant/2026-06-18-quant_review_article.md",
     "quant/2026-06-16-quant_hrp.md",
     "game/2026-05-09-dino_基于gym.md",
     "quant/2026-06-18-quant_mst.md",
     "time.md",
     "game/2026-06-16-dino_基于gym.md",
     "game/2026-06-17-dino_reinforcement.md",
-    "quant/README.md",
-    "quant/2026-06-19-quant_投资组合review_article.md",
-    "zportfolio/portfolio.md",
-    "algorithm",
     "zttachment/qq_plots.png",
     "zttachment/hist.png",
     "zttachment",
