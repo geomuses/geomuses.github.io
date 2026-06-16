@@ -103,7 +103,7 @@ Routines may not work for all of us, and some people like life to be unpredictab
 Night Moves | 夜行者
 <!--SR:!2026-06-14,10,286-->
 mystery | 神秘
-<!--SR:!2026-06-16,12,286-->
+<!--SR:!2026-08-03,48,306-->
 distract  |  分心
 <!--SR:!2026-07-07,26,270-->
 retro | 复古

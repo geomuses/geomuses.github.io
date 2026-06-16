@@ -7,7 +7,7 @@ tags:
 raise | 增加
 <!--SR:!2026-07-31,56,316-->
 It estimated that the average annual cost of raising a child in the US is a little over $16,800.   | 它估计在美国抚养一个孩子的平均年成本略高于 16,800 美元。
-<!--SR:!2026-06-13,7,254-->
+<!--SR:!2026-07-11,25,274-->
 overpass  | 桥梁
 <!--SR:!2026-07-24,38,294-->
 metro | 地铁
@@ -21,7 +21,7 @@ prizes | 奖品
 character | 角色
 <!--SR:!2026-07-18,44,290-->
 encounter | 遭遇
-<!--SR:!2026-06-16,5,190-->
+<!--SR:!2026-06-30,14,210-->
 bizarre | 怪异的
 <!--SR:!2026-06-19,8,234-->
 willing | 愿意 We're not sure if your ideas for the website will work, but we're **willing** to experiment.
@@ -95,7 +95,7 @@ critical | 关键
  led | 引领
 <!--SR:!2026-06-20,9,254-->
 compensation | 补偿
-<!--SR:!2026-06-12,1,130-->
+<!--SR:!2026-06-17,1,130-->
 demotion | 降职
 <!--SR:!2026-06-12,6,216-->
 arbitration | 仲裁
@@ -119,7 +119,7 @@ dismissal | 解雇
  inventory |  库存/存货
 <!--SR:!2026-06-16,5,194-->
  ethical  | 道德的/合乎伦理的
-<!--SR:!2026-06-12,1,134-->
+<!--SR:!2026-06-17,1,130-->
  aspect | 方面
 <!--SR:!2026-06-16,11,274-->
  struggling | 很难

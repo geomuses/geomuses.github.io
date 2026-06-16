@@ -1,4 +1,4 @@
-import time
+import time , os 
 import numpy as np
 import gymnasium as gym
 from gymnasium import spaces
@@ -9,6 +9,10 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
 from webdriver_manager.firefox import GeckoDriverManager
+
+# 强制将 Selenium 和浏览器的临时目录指定到当前用户的家目录下
+os.environ["TMPDIR"] = os.path.expanduser("~/tmp")
+os.makedirs(os.environ["TMPDIR"], exist_ok=True)
 
 class ChromeDinoEnv(gym.Env):
     """
@@ -32,9 +36,14 @@ class ChromeDinoEnv(gym.Env):
 
         # Selenium 配置
         options = Options()
+        # Firefox 静音首选项（你之前注释掉的，如果是 Firefox 需要用 set_preference）
+        options.set_preference("media.volume_scale", "0.0")
+
+        #if headless:
+         #   options.add_argument("-headless")
         if headless:
-            ...
-            # options.add_argument("--headless")
+            # ...
+            options.add_argument("--headless")
         # options.set_preference("media.volume_scale", "0.0")
         
         service = Service(GeckoDriverManager().install())
@@ -111,8 +120,8 @@ class ChromeDinoEnv(gym.Env):
         reward = 0.1 if not terminated else -10.0
         
         truncated = False
-        info = {"score": self.driver.execute_script("return Runner.instance_.distanceMeter.digits").join("")}
-        
+        # info = {"score": self.driver.execute_script("return Runner.instance_.distanceMeter.digits").join("")}
+        info = {"score": "".join(self.driver.execute_script("return Runner.instance_.distanceMeter.digits"))}
         return obs, reward, terminated, truncated, info
 
     def render(self):

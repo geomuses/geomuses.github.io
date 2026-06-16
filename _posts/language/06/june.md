@@ -57,7 +57,7 @@ escaping | 逃脫
 morale | 士气 (moral ; 道德)
 <!--SR:!2026-06-15,4,282-->
 you also don't want the staff to throw you out! | 你也不想被工作人員趕出去吧！
-<!--SR:!2026-06-15,4,282-->
+<!--SR:!2026-07-01,15,302-->
 I'm fed up with doing all the housework while you sit around all day  | 我厌倦了做所有的家务，而你却整天无所事事。  fed up (厌倦)
 <!--SR:!2026-06-18,2,262-->
 break even |  盈亏平衡
