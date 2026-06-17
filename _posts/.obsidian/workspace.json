@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8d17d4f3a14605e5",
+        "id": "cb9008cecdde5191",
         "type": "tabs",
         "children": [
           {
-            "id": "39d6f1aca9c4bdfe",
+            "id": "8c5747d1a43b01d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/2026-06-17-reivew_周末的快乐效益.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-06-17-reivew_周末的快乐效益"
-            }
-          },
-          {
-            "id": "ffa808b56b65c82e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/2026-06-16-review_大人的11堂写作课.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-16-review_大人的11堂写作课"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,47 +220,47 @@
       "decks:Decks": false
     }
   },
-  "active": "ffa808b56b65c82e",
+  "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
-    "books/2026-06-16-review_大人的11堂写作课.md",
-    "books/2026-06-16-review_大人的11堂写作课.md",
+    "mining/2025-11-09-nlp_分词.md",
+    "mining/2025-11-07-nlp_简介.md",
+    "mining/2025-11-08-nlp_字符编码与文本清理基础.md",
+    "language/06/reading/2026-06-16-language.md",
+    "zttachment/hist.png",
+    "language/06/reading",
+    "language/06/reading/2026-06-17-language.md",
+    "language/06/reading/2026-06-17-second-language.md",
+    "language/06/june.md",
+    "language/06/reading/2026-06-16-second-language.md",
     "books/2026-06-17-reivew_周末的快乐效益.md",
-    "life/2026-05-31-life_活下去.md",
-    "life/2026-06-16-life_反思过去.md",
+    "algorithm/2026-06-18-algo_时间复杂度.md",
+    "algorithm/2026-06-19-algo_空间复杂度.md",
     "time.md",
+    "algorithm/2026-06-17-algo_入门.md",
+    "books/2025-12-19-review_疯潮行销.md",
+    "zther/flashcards使用方法.md",
+    "algorithm/README.md",
+    "life/2026-06-16-life_如何写一篇文章.md",
+    "books/2026-06-16-review_大人的11堂写作课.md",
+    "books/2026-06-16-review_大人的11堂写作课.md",
+    "life/2026-05-31-life_活下去.md",
     "zther/未来计划.md",
     "zther/课纲.md",
     "zther/购物 + 订阅.md",
-    "zther/flashcards使用方法.md",
     "quant/2026-06-18-quant_review_article.md",
     "quant/README.md",
     "language/06/2026-06-15-language.md",
-    "language/06/2026-06-16-second-language.md",
-    "language/06/2026-06-16-language.md",
-    "quant/2026-05-12-quant_资本市场线.md",
-    "quant/quant_投资组合前沿题目.md",
-    "quant/2026-05-11-quant_无异曲线.md",
-    "quant/2026-06-16-quant_hrp.md",
-    "quant/2026-06-17-quant_ledoit-wolf_收缩技术.md",
-    "quant/2026-06-15-quant_t分布.md",
-    "quant/2026-06-18-quant_mst.md",
-    "books/2026-06-17-reivew_大人的11堂写作课2.md",
-    "Untitled Kanban.md",
-    "Untitled Kanban 2.md",
-    "Untitled Kanban 1.md",
     "lin-b2ac9f0fbbe6.deckssynclog",
     "Canvas decks/Decks — Canvas getting started.canvas",
     "Canvas decks",
     "algorithm",
     "zttachment/qq_plots.png",
-    "zttachment/hist.png",
     "zttachment",
     "Untitled.base",
     "zportfolio",
     "quant/main_pipeline.py",
     "quant/app.py",
     "quant/pf/app.py",
-    "quant/fe/example.py",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",

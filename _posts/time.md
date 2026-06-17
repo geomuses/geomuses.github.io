@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] 英文阅读 2篇
 - [ ] 英文 duolings
 - [ ] 英文单子
+- [ ] 演算法
 
 
 ## 星期六处理
