@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/06/2026-06-15-language.md",
+                "file": "zther/未来计划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-15-language"
+              "title": "未来计划"
             }
           }
         ]
@@ -226,6 +226,12 @@
   },
   "active": "39d6f1aca9c4bdfe",
   "lastOpenFiles": [
+    "zther/课纲.md",
+    "zther/购物 + 订阅.md",
+    "zther/flashcards使用方法.md",
+    "quant/2026-06-18-quant_review_article.md",
+    "quant/README.md",
+    "language/06/2026-06-15-language.md",
     "language/06/2026-06-16-second-language.md",
     "language/06/2026-06-16-language.md",
     "time.md",
@@ -235,13 +241,10 @@
     "quant/2026-06-16-quant_hrp.md",
     "quant/2026-06-17-quant_ledoit-wolf_收缩技术.md",
     "quant/2026-06-15-quant_t分布.md",
-    "quant/2026-06-18-quant_review_article.md",
     "quant/2026-06-18-quant_mst.md",
-    "quant/README.md",
     "books/2026-06-16-review_大人的11堂写作课.md",
     "books/2026-06-17-reivew_周末的快乐效益.md",
     "books/2026-06-17-reivew_大人的11堂写作课2.md",
-    "zther/flashcards使用方法.md",
     "Untitled Kanban.md",
     "Untitled.md",
     "Untitled Kanban 2.md",
@@ -252,9 +255,6 @@
     "Canvas decks",
     "nodejs/example/node_modules/side-channel-list/README.md",
     "language/06/2026-06-04-second-language.md",
-    "language/06/2026-06-04-language.md",
-    "language/05/2026-05-07-language.md",
-    "language/05/2026-05-06-language.md",
     "algorithm",
     "zttachment/qq_plots.png",
     "zttachment/hist.png",
