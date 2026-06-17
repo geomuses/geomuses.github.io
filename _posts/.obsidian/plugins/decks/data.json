@@ -1,0 +1,59 @@
+{
+  "review": {
+    "showProgress": true,
+    "enableKeyboardShortcuts": false,
+    "sessionDuration": 25,
+    "nextDayStartsAt": 4,
+    "leechThreshold": 8,
+    "denseCardCharThreshold": 500
+  },
+  "parsing": {
+    "folderSearchPath": "",
+    "deckTag": "#decks"
+  },
+  "canvasDecks": {
+    "folderPath": "/",
+    "tagName": "#decks/canvas"
+  },
+  "ui": {
+    "enableBackgroundRefresh": true,
+    "backgroundRefreshInterval": 120,
+    "enableNotices": false,
+    "reviewDisplayMode": "modal",
+    "flashcardManagerDisplayMode": "modal",
+    "aiGeneratorDisplayMode": "modal",
+    "pinnedDeckIds": [],
+    "deckListSort": "name-asc",
+    "minDeckCardCount": 0,
+    "managerColumnWidths": {}
+  },
+  "backup": {
+    "enableAutoBackup": true,
+    "maxBackups": 5
+  },
+  "debug": {
+    "enableLogging": false,
+    "performanceLogs": false
+  },
+  "paths": {
+    "dbFolder": "",
+    "backupFolder": "",
+    "syncLogFolder": ""
+  },
+  "i18n": {
+    "language": "auto"
+  },
+  "ai": {
+    "enabled": false,
+    "provider": "openai",
+    "models": {
+      "gemini": "gemini-3.5-flash",
+      "openai": "gpt-5.4-mini",
+      "claude": "claude-haiku-4-5-20251001",
+      "openai-compatible": "gemma3"
+    },
+    "localBaseUrl": "http://localhost:11434/v1"
+  },
+  "hasCreatedTestDeck": true,
+  "hasCreatedCanvasTestDeck": true
+}

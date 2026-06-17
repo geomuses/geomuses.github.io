@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d88572163c5e5ab3",
+        "id": "8d17d4f3a14605e5",
         "type": "tabs",
         "children": [
           {
-            "id": "11368ce30ee13cd3",
+            "id": "39d6f1aca9c4bdfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm/README.md",
+                "file": "language/06/2026-06-15-language.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-06-15-language"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "influencer work",
+                "query": "tag:#flashcards",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,12 +103,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "znbox/2026-05-07-finance.md",
+                "file": "1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-05-07-finance"
+              "title": "Outgoing links from 1"
             }
           },
           {
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/2026-05-16-linux_tmux.md",
+                "file": "time.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-16-linux_tmux"
+              "title": "Outline of time"
             }
           },
           {
@@ -171,8 +171,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -181,8 +181,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -191,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "quant/2026-06-14-投资组合研究.md"
+                "file": "1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026-06-14-投资组合研究"
+              "title": "File properties for 1"
             }
           },
           {
@@ -212,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,38 +220,42 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "decks:Decks": false
     }
   },
-  "active": "11368ce30ee13cd3",
+  "active": "39d6f1aca9c4bdfe",
   "lastOpenFiles": [
-    "quant/2026-06-18-quant_review_article.md",
-    "algorithm/README.md",
-    "algorithm",
-    "zportfolio/AI.md",
-    "zportfolio/portfolio.md",
-    "flask/2025-08-08-flask_表单处理.md",
-    "quant/2026-06-17-quant_ledoit-wolf_收缩技术.md",
-    "flask/2025-08-09-flask_静态文件管理.md",
-    "flask/2025-08-13-flask_错误处理.md",
-    "flask/2025-11-02-flask_RESTful.md",
-    "flask/2025-11-29-flask_登入表单3.md",
-    "flask/2025-11-28-flask_登入表单2.md",
-    "flask/2025-11-21-flask_登入表单.md",
-    "flask/2026-05-13-flask_ 数据库crud.md",
-    "flask/2026-05-12-flask_数据库.md",
-    "flask/2026-05-14-flask_蓝图.md",
-    "flask/2025-08-07-flask_模板基础.md",
-    "flask/2025-08-06-flask_重定向.md",
-    "flask/2025-08-05-flask_路由和视图.md",
-    "flask/2025-08-04-flask_入门.md",
-    "flask/2025-08-03-flask_前言.md",
-    "quant/2026-06-16-quant_hrp.md",
-    "game/2026-05-09-dino_基于gym.md",
-    "quant/2026-06-18-quant_mst.md",
+    "language/06/2026-06-16-second-language.md",
+    "language/06/2026-06-16-language.md",
     "time.md",
-    "game/2026-06-16-dino_基于gym.md",
-    "game/2026-06-17-dino_reinforcement.md",
+    "quant/2026-05-12-quant_资本市场线.md",
+    "quant/quant_投资组合前沿题目.md",
+    "quant/2026-05-11-quant_无异曲线.md",
+    "quant/2026-06-16-quant_hrp.md",
+    "quant/2026-06-17-quant_ledoit-wolf_收缩技术.md",
+    "quant/2026-06-15-quant_t分布.md",
+    "quant/2026-06-18-quant_review_article.md",
+    "quant/2026-06-18-quant_mst.md",
+    "quant/README.md",
+    "books/2026-06-16-review_大人的11堂写作课.md",
+    "books/2026-06-17-reivew_周末的快乐效益.md",
+    "books/2026-06-17-reivew_大人的11堂写作课2.md",
+    "zther/flashcards使用方法.md",
+    "Untitled Kanban.md",
+    "Untitled.md",
+    "Untitled Kanban 2.md",
+    "Untitled Kanban 1.md",
+    "Decks — Getting started.md",
+    "lin-b2ac9f0fbbe6.deckssynclog",
+    "Canvas decks/Decks — Canvas getting started.canvas",
+    "Canvas decks",
+    "nodejs/example/node_modules/side-channel-list/README.md",
+    "language/06/2026-06-04-second-language.md",
+    "language/06/2026-06-04-language.md",
+    "language/05/2026-05-07-language.md",
+    "language/05/2026-05-06-language.md",
+    "algorithm",
     "zttachment/qq_plots.png",
     "zttachment/hist.png",
     "zttachment",
@@ -262,8 +265,6 @@
     "quant/app.py",
     "quant/pf/app.py",
     "quant/fe/example.py",
-    "quant/fe/example_.py",
-    "quant/fe",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
