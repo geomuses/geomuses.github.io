@@ -45,13 +45,13 @@ this is affecting various industries | 這正在影響各個產業。
 pilot projects | 試點計畫
 <!--SR:!2026-06-25,11,279-->
 Would that ruin your evening | 破坏你的晚上
-<!--SR:!2026-06-15,4,282-->
+<!--SR:!2026-07-04,17,302-->
 adults-only dining to some extent | 部分情況僅限成人用餐 (extent 情况)
 <!--SR:!2026-06-15,4,282-->
 50,000 bear sightings in Japan | 日本已記錄5萬起熊目擊事件
 <!--SR:!2026-07-02,16,302-->
 leave garbage or garden waste lying around | 請勿隨意丟棄垃圾或園林廢棄物
-<!--SR:!2026-06-16,2,242-->
+<!--SR:!2026-06-18,1,222-->
 escaping | 逃脫
 <!--SR:!2026-06-15,4,282-->
 morale | 士气 (moral ; 道德)

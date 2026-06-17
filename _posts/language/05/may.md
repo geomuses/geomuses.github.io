@@ -97,7 +97,7 @@ critical | 关键
 compensation | 补偿
 <!--SR:!2026-06-17,1,130-->
 demotion | 降职
-<!--SR:!2026-06-12,6,216-->
+<!--SR:!2026-07-05,18,236-->
 arbitration | 仲裁
 <!--SR:!2026-06-12,1,130-->
 panel | 小组
@@ -147,7 +147,7 @@ earthquakes, typhoons, floods and landslides | 地震、台风、洪水和山体
 to provide essential services during a time of emergency | 在紧急情况下提供基本服务
 <!--SR:!2026-06-27,16,303-->
 renovated a store | 翻新了商店
-<!--SR:!2026-06-14,3,263-->
+<!--SR:!2026-06-29,12,283-->
 mobile sales vehicles | 移动销售车辆
 <!--SR:!2026-06-23,12,283-->
 This is especially true in the countryside | 這種情況在農村地區尤其如此。

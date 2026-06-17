@@ -11,10 +11,14 @@
             "id": "8c5747d1a43b01d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "algorithm/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards",
+                "query": "2026-06-17",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "time.md",
+                "file": "algorithm/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of time"
+              "title": "Outline of README"
             }
           },
           {
@@ -204,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -215,28 +219,31 @@
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "decks:Decks": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "8c5747d1a43b01d8",
   "lastOpenFiles": [
+    "time.md",
+    "Untitled Kanban.md",
+    "algorithm/2026-06-17-algo_入门.md",
+    "language/06/reading/2026-06-17-language.md",
+    "quant/2026-06-17-quant_ledoit-wolf_收缩技术.md",
+    "books/2026-06-17-reivew_周末的快乐效益.md",
+    "language/06/reading/2026-06-17-second-language.md",
+    "mining/2026-02-25-nlp_链式表达式.md",
     "mining/2025-11-09-nlp_分词.md",
     "mining/2025-11-07-nlp_简介.md",
     "mining/2025-11-08-nlp_字符编码与文本清理基础.md",
     "language/06/reading/2026-06-16-language.md",
     "zttachment/hist.png",
     "language/06/reading",
-    "language/06/reading/2026-06-17-language.md",
-    "language/06/reading/2026-06-17-second-language.md",
     "language/06/june.md",
     "language/06/reading/2026-06-16-second-language.md",
-    "books/2026-06-17-reivew_周末的快乐效益.md",
     "algorithm/2026-06-18-algo_时间复杂度.md",
     "algorithm/2026-06-19-algo_空间复杂度.md",
-    "time.md",
-    "algorithm/2026-06-17-algo_入门.md",
     "books/2025-12-19-review_疯潮行销.md",
     "zther/flashcards使用方法.md",
     "algorithm/README.md",
@@ -247,9 +254,6 @@
     "zther/未来计划.md",
     "zther/课纲.md",
     "zther/购物 + 订阅.md",
-    "quant/2026-06-18-quant_review_article.md",
-    "quant/README.md",
-    "language/06/2026-06-15-language.md",
     "lin-b2ac9f0fbbe6.deckssynclog",
     "Canvas decks/Decks — Canvas getting started.canvas",
     "Canvas decks",
