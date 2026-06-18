@@ -7,7 +7,7 @@ tags:
 trait | 特征
 <!--SR:!2026-06-14,8,272-->
 outgoing | 外向
-<!--SR:!2026-06-17,12,274-->
+<!--SR:!2026-08-04,47,294-->
 unconsciously | 不知不觉
 <!--SR:!2026-06-21,5,236-->
 offset | 抵消
@@ -130,7 +130,7 @@ society | 社会
 for the ninth year in a row | 连续第九年
 <!--SR:!2026-08-03,58,312-->
 has just been | 刚刚
-<!--SR:!2026-06-17,12,276-->
+<!--SR:!2026-08-02,45,296-->
 Nordic | 北欧
 <!--SR:!2026-06-21,10,254-->
 high levels of trust in society | 高度的社会信任
