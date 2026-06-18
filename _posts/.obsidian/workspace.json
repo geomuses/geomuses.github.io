@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cb9008cecdde5191",
+        "id": "b010ed6b3bfe54d7",
         "type": "tabs",
         "children": [
           {
-            "id": "8c5747d1a43b01d8",
+            "id": "546d52c78700a56c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -208,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,8 +220,26 @@
       "decks:Decks": false
     }
   },
-  "active": "8c5747d1a43b01d8",
+  "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
+    "python/2025-08-01-py_资料结构.md",
+    "python/2025-08-02-py_string.md",
+    "python/2025-08-03-py_ifelse.md",
+    "python/2025-08-04-py_文件操作.md",
+    "python/2025-08-16-py_oop设计者模式.md",
+    "python/2025-08-05-py_函数和异常处理.md",
+    "python/2025-08-09-py_类与对象.md",
+    "python/2025-08-17-py_新特性.md",
+    "python/2025-07-31-py_fstring和数据类型.md",
+    "algorithm/2026-06-18-algo_时间复杂度.md",
+    "algorithm/2026-06-20-algo.md",
+    "algorithm/2026-06-19-algo_空间复杂度.md",
+    "algorithm/README.md",
+    "agent.hyperknow.io/response/4175f13d-b752-4ee4-bf4e-3101e40b3b3f.md",
+    "agent.hyperknow.io/response",
+    "agent.hyperknow.io",
+    "quant/README.md",
+    "quant/2026-06-18-quant_review_article.md",
     "time.md",
     "Untitled Kanban.md",
     "algorithm/2026-06-17-algo_入门.md",
@@ -236,24 +250,8 @@
     "mining/2026-02-25-nlp_链式表达式.md",
     "mining/2025-11-09-nlp_分词.md",
     "mining/2025-11-07-nlp_简介.md",
-    "mining/2025-11-08-nlp_字符编码与文本清理基础.md",
-    "language/06/reading/2026-06-16-language.md",
     "zttachment/hist.png",
     "language/06/reading",
-    "language/06/june.md",
-    "language/06/reading/2026-06-16-second-language.md",
-    "algorithm/2026-06-18-algo_时间复杂度.md",
-    "algorithm/2026-06-19-algo_空间复杂度.md",
-    "books/2025-12-19-review_疯潮行销.md",
-    "zther/flashcards使用方法.md",
-    "algorithm/README.md",
-    "life/2026-06-16-life_如何写一篇文章.md",
-    "books/2026-06-16-review_大人的11堂写作课.md",
-    "books/2026-06-16-review_大人的11堂写作课.md",
-    "life/2026-05-31-life_活下去.md",
-    "zther/未来计划.md",
-    "zther/课纲.md",
-    "zther/购物 + 订阅.md",
     "lin-b2ac9f0fbbe6.deckssynclog",
     "Canvas decks/Decks — Canvas getting started.canvas",
     "Canvas decks",
@@ -263,8 +261,6 @@
     "Untitled.base",
     "zportfolio",
     "quant/main_pipeline.py",
-    "quant/app.py",
-    "quant/pf/app.py",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",
