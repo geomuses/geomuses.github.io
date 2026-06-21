@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## 未完成
 
-- [ ] 压力测试
 
 
 ## 已解决
@@ -19,6 +18,7 @@ kanban-plugin: board
 - [ ] 组合优化(Standard Portfolio / BL / HRP)
 - [ ] MST
 - [ ] 肥尾检验(QQ-Plot/JB检验/超额峰度)
+- [ ] 压力测试
 
 
 
