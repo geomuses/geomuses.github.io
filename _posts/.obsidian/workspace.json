@@ -206,10 +206,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.md"
+                "file": "life/life_.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1"
+              "title": "File properties for life_"
             }
           },
           {
@@ -227,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,6 +243,7 @@
   "lastOpenFiles": [
     "life/2026-06-16-life_如何写一篇文章.md",
     "life/life_.md",
+    "books/2025-12-19-review_疯潮行销.md",
     "quant/2026-06-18-quant_review_article.md",
     "books/2026-06-16-review_大人的11堂写作课.md",
     "books/2026-06-17-reivew_周末的快乐效益.md",
@@ -269,7 +269,6 @@
     "agent.hyperknow.io/response/4175f13d-b752-4ee4-bf4e-3101e40b3b3f.md",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
-    "quant/README.md",
     "zttachment/hist.png",
     "language/06/reading",
     "lin-b2ac9f0fbbe6.deckssynclog",
