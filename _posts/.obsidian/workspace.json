@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/06/reading/2026-06-18-second-language.md",
+                "file": "python/2026-06-21-py_pytest.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-18-second-language"
+              "title": "2026-06-21-py_pytest"
             }
           },
           {
@@ -238,8 +238,11 @@
       "decks:Decks": false
     }
   },
-  "active": "9abd6900addca91e",
+  "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
+    "python/2025-08-17-py_新特性.md",
+    "python/2026-06-21-py_pytest.md",
+    "language/06/reading/2026-06-18-second-language.md",
     "language/06/reading/2026-06-18-language.md",
     "language/06/reading/2026-06-17-second-language.md",
     "language/06/reading/2026-06-17-language.md",
@@ -263,9 +266,6 @@
     "books/2026-06-16-review_大人的11堂写作课.md",
     "books/2026-06-17-reivew_周末的快乐效益.md",
     "algorithm/2026-06-18-algo_时间复杂度.md",
-    "algorithm/2026-06-19-algo_空间复杂度.md",
-    "language/06/reading/2026-06-18-second-language.md",
-    "zther/flashcards使用方法.md",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
     "zttachment/hist.png",
