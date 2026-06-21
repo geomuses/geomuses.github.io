@@ -69,3 +69,5 @@ baristas | 咖啡师
 you get to the crust  |  弄到饼皮
 not dough | 不是面团
 fried seaweed | 炸海苔
+lowly | 卑微
+jetlagged | 时差

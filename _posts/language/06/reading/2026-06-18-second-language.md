@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 英文文章 Workers Spend 6.4 Hours a Week 'Botsitting' AI
+title: 英文文章 Workers Spend 6.4 Hours a Week 'Botsitting' AI[可以去复习]
 date: 2026-06-18 09:01:00 +0800
 image: 14.jpg
 tags:
