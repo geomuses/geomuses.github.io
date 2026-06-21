@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/2026-06-21-py_pytest.md",
+                "file": "life/life_.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-21-py_pytest"
+              "title": "life_"
             }
           },
           {
@@ -238,10 +238,10 @@
       "decks:Decks": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "9abd6900addca91e",
   "lastOpenFiles": [
-    "python/2025-08-17-py_新特性.md",
     "python/2026-06-21-py_pytest.md",
+    "python/2025-08-17-py_新特性.md",
     "language/06/reading/2026-06-18-second-language.md",
     "language/06/reading/2026-06-18-language.md",
     "language/06/reading/2026-06-17-second-language.md",
