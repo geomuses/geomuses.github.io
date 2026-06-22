@@ -13,17 +13,17 @@ overpass  | 桥梁
 metro | 地铁
 <!--SR:!2026-07-13,37,290-->
 an old highway overpass that the city turned into a public park and walkway | 这座城市将一座旧的高速公路高架桥改造成了一个公共公园和步行道。
-<!--SR:!2026-06-18,12,274-->
+<!--SR:!2026-08-08,47,294-->
 cobbled |  鹅卵石铺成的
 <!--SR:!2026-08-01,56,310-->
 prizes | 奖品
-<!--SR:!2026-06-21,16,294-->
+<!--SR:!2026-07-01,9,274-->
 character | 角色
 <!--SR:!2026-07-18,44,290-->
 encounter | 遭遇
 <!--SR:!2026-06-30,14,210-->
 bizarre | 怪异的
-<!--SR:!2026-06-19,8,234-->
+<!--SR:!2026-07-17,25,254-->
 willing | 愿意 We're not sure if your ideas for the website will work, but we're **willing** to experiment.
 <!--SR:!2026-06-22,11,254-->
  assign  | 分配
@@ -51,15 +51,15 @@ advantages | 优势
 besides | 除了
 <!--SR:!2026-06-29,24,276-->
 squeeze with other people while commuting | 不用逼车
-<!--SR:!2026-06-20,15,294-->
+<!--SR:!2026-08-21,60,314-->
 useless | 没用
 <!--SR:!2026-08-08,64,310-->
 how much longer do you need | 还需要多少时间
-<!--SR:!2026-06-22,16,294-->
+<!--SR:!2026-08-24,63,314-->
 you said that three hours ago | 你已经花3小时了
-<!--SR:!2026-06-15,15,294-->
+<!--SR:!2026-08-22,61,314-->
 teasing | 酸我
-<!--SR:!2026-06-20,15,294-->
+<!--SR:!2026-08-20,59,314-->
 personal charm | 个人魅力
 <!--SR:!2026-06-19,14,294-->
 refuse | reject
@@ -75,7 +75,7 @@ critical | 关键
  healthy development | 健康发育
 <!--SR:!2026-07-02,28,276-->
  avoid | 避免
-<!--SR:!2026-06-19,14,294-->
+<!--SR:!2026-08-19,58,314-->
  salons | 沙龙
 <!--SR:!2026-07-12,26,274-->
  bankrupt | 破产
@@ -93,9 +93,9 @@ critical | 关键
  anticipate | 预料
 <!--SR:!2026-06-17,6,216-->
  led | 引领
-<!--SR:!2026-06-20,9,254-->
+<!--SR:!2026-07-25,33,274-->
 compensation | 补偿
-<!--SR:!2026-06-17,1,130-->
+<!--SR:!2026-06-24,2,150-->
 demotion | 降职
 <!--SR:!2026-07-05,18,236-->
 arbitration | 仲裁
@@ -107,7 +107,7 @@ dismissal | 解雇
  reliable | 可靠的
 <!--SR:!2026-06-12,1,130-->
  decline  | 下降
-<!--SR:!2026-06-21,10,254-->
+<!--SR:!2026-07-27,35,274-->
  prefecture | 县
 <!--SR:!2026-07-14,38,296-->
  profitably | 有利可图地/能带来利润地
@@ -117,19 +117,19 @@ dismissal | 解雇
  wholesaler  | 批发商
 <!--SR:!2026-07-11,25,274-->
  inventory |  库存/存货
-<!--SR:!2026-06-16,5,194-->
+<!--SR:!2026-07-06,14,214-->
  ethical  | 道德的/合乎伦理的
 <!--SR:!2026-06-17,1,130-->
  aspect | 方面
-<!--SR:!2026-06-16,11,274-->
+<!--SR:!2026-08-05,44,294-->
  struggling | 很难
 <!--SR:!2026-06-22,16,294-->
  funeral | 葬礼
-<!--SR:!2026-06-16,11,274-->
+<!--SR:!2026-08-01,40,294-->
  obese | 肥胖
-<!--SR:!2026-06-21,16,294-->
+<!--SR:!2026-08-28,67,314-->
 olive oil  | 橄榄油
-<!--SR:!2026-06-22,16,294-->
+<!--SR:!2026-08-25,64,314-->
 some less wealthy countries. | 一些不太富裕的国家。
 <!--SR:!2026-06-20,15,294-->
 certain foods like apples and berries, and drinks like coffee and tea, contain compounds called polyphenols  | 某些食物如苹果和浆果，以及咖啡和茶等饮料，含有被称为多酚的化合物
@@ -137,7 +137,7 @@ certain foods like apples and berries, and drinks like coffee and tea, contain c
 cellular level | 细胞层面
 <!--SR:!2026-06-18,12,274-->
 studying their telomeres | 研究端粒
-<!--SR:!2026-06-12,1,234-->
+<!--SR:!2026-06-23,1,214-->
 may be one piece of the puzzle in supporting healthier cellular aging. | 这或许是促进细胞健康衰老的关键因素之一
 <!--SR:!2026-06-24,13,234-->
 Japan is particularly prone to natural disasters | 日本特别容易遭受自然灾害
@@ -159,7 +159,7 @@ also been falling for decades | 也已持续数十年
 Meanwhile, |  与此同时，
 <!--SR:!2026-06-26,15,303-->
 this may happen because people become emotionally attached to a game's world, |  这可能是因为人们对游戏世界产生了情感依恋，
-<!--SR:!2026-06-14,3,263-->
+<!--SR:!2026-07-03,11,283-->
 it was found that while most players did not lose interest in other forms of entertainment |  研究发现，虽然大多数玩家并没有对其他娱乐形式失去兴趣，
 <!--SR:!2026-06-14,3,263-->
  This could be at a desk while we work or study, on a couch in front of the TV or behind the wheel of a car | 这可能发生在我们工作或学习时坐在书桌前，也可能发生在我们看电视时的沙发上，或者发生在我们开车时
@@ -167,7 +167,7 @@ it was found that while most players did not lose interest in other forms of ent
  Many of us spend a large part of our day sitting down. | 我们很多人一天中大部分时间都是坐着的
 <!--SR:!2026-06-13,2,243-->
  There is evidence | 有证据表明
-<!--SR:!2026-06-17,1,203-->
+<!--SR:!2026-06-23,1,183-->
  you can also get up and move around during commercials | 你也可以在广告时间起身走动。
 <!--SR:!2026-06-27,16,303-->
  But now this exemption is being abolished. | 但现在这项豁免将被取消。
@@ -185,7 +185,7 @@ it was found that while most players did not lose interest in other forms of ent
  become less bitter | 苦味会减轻
 <!--SR:!2026-06-28,17,303-->
  while proteins in meat can break down over time, making the meat softer and giving it more umami | 而肉类中的蛋白质会随着时间推移分解，使肉质更软嫩，鲜味更浓郁
-<!--SR:!2026-06-12,1,223-->
+<!--SR:!2026-06-25,3,243-->
  Flavors from different foods also keep mixing with each other. Spices, for example, might spread through a sauce and give it more flavor. | 不同食物的味道也会不断混合。例如，香料可能会扩散到酱汁中，使其味道更浓郁。
 <!--SR:!2026-06-23,12,283-->
  Other flavors might mix with the fat in a dish.| 其他味道可能会与菜肴中的油脂混合。
