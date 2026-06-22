@@ -9,6 +9,10 @@ tags:
     - postgresql
 ---
 
+```bash
+sudo apt install postgresql
+```
+
 cmd 上输入进入数据库管理
 
 ```bash
