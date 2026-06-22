@@ -11,26 +11,32 @@
             "id": "9abd6900addca91e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "time.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "ml/2026-06-14-ml_强化学习登入月球.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "time"
+              "icon": "lucide-file",
+              "title": "2026-06-14-ml_强化学习登入月球"
+            }
+          },
+          {
+            "id": "8727bd2924b6a085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "database/README.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,34 +240,34 @@
       "decks:Decks": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "8727bd2924b6a085",
   "lastOpenFiles": [
-    "time.md",
-    "Untitled.md",
-    "python/2026-06-21-py_pytest.md",
-    "life/life_.md",
-    "python/2025-08-17-py_新特性.md",
-    "language/06/reading/2026-06-18-second-language.md",
-    "language/06/reading/2026-06-18-language.md",
-    "language/06/reading/2026-06-17-second-language.md",
-    "language/06/reading/2026-06-17-language.md",
-    "language/06/reading/2026-06-16-second-language.md",
-    "language/06/reading/2026-06-16-language.md",
-    "language/06/june.md",
-    "language/06/2026-06-21-vocabulary.md",
-    "language/05/2026-05-07-vocabulary.md",
-    "language/06/2026-06-15-language.md",
-    "zportfolio/AI.md",
-    "zportfolio/portfolio.md",
-    "zportfolio/大纲.md",
-    "quant/2026-06-21-quant_压力测试.md",
-    "quant/2026-06-19-quant_model.md",
-    "quant/2026-05-04-quant_以CVaR最小化为目标的投资组合.md",
-    "quant/2026-05-03-quant_CVaR.md",
-    "quant/2026-06-18-quant_review_article.md",
-    "life/2026-06-16-life_如何写一篇文章.md",
-    "books/2025-12-19-review_疯潮行销.md",
-    "books/2026-06-16-review_大人的11堂写作课.md",
+    "database/2026-02-25-mongodb_crud.md",
+    "database/2026-02-24-mongodb_connnect_with_python.md",
+    "database/2026-02-23-mongodb_join.md",
+    "database/2026-02-22-postgresql_with.md",
+    "database/2026-02-22-mongodb_delete.md",
+    "database/2026-02-21-mongodb_update.md",
+    "database/2026-02-20-mongodb_between_order_by_limit.md",
+    "database/2026-02-19-mongodb_select.md",
+    "database/2026-02-17-postgresql_删除数据库.md",
+    "database/2025-10-09-postgresql_查询数据通过pgadmin.md",
+    "database/2025-10-08-postgresql_查询数据.md",
+    "database/2025-10-07-postgresql_查询数据.md",
+    "database/2025-10-06-postgresql_新增数据.md",
+    "database/2025-10-05-postgresql_上手.md",
+    "ml/ml_强化学习.md",
+    "ml/2026-06-14-ml_强化学习登入月球.md",
+    "ml/2025-12-29-ml_不平衡黑白数据.md",
+    "nodejs/2026-02-15-nodejs_express_static_files.md",
+    "nodejs/2026-02-16-nodejs_express_template_engine.md",
+    "nodejs/2026-02-14-nodejs_express_respone.md",
+    "nodejs/2026-02-13-nodejs_express_query_string.md",
+    "nodejs/2026-02-12-nodejs_express_http_requests.md",
+    "nodejs/2026-02-11-nodejs_express_route.md",
+    "nodejs/2026-02-10-nodejs_express快速入门.md",
+    "nodejs/2026-02-09-nodejs_mongodb 查询数据.md",
+    "nodejs/2026-02-08-nodejs_mongodb删除数据.md",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
     "zttachment/hist.png",
