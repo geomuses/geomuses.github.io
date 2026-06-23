@@ -13,7 +13,7 @@ tags:
 CREATE DATABASE testdb;
 ```
 
-```py
+```python
 import psycopg2
 
 conn = psycopg2.connect(
@@ -29,7 +29,7 @@ cur = conn.cursor()
 
 设定数据库
 
-```py
+```python
 cur.execute("SELECT version();")
 print(cur.fetchone())
 cur.close()
