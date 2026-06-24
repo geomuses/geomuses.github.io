@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ml/2026-06-14-ml_强化学习登入月球.md",
+                "file": "books/2026-06-24-review_原子习惯.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-14-ml_强化学习登入月球"
+              "title": "2026-06-24-review_原子习惯"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2026-06-17",
+                "query": "2026-06-24",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,8 +227,12 @@
   },
   "active": "9abd6900addca91e",
   "lastOpenFiles": [
-    "language/06/june.md",
+    "books/2026-06-17-reivew_周末的快乐效益.md",
+    "books/2026-06-24-review_原子习惯.md",
+    "life/life_.md",
     "language/06/2026-06-24-language.md",
+    "ml/2026-06-14-ml_强化学习登入月球.md",
+    "language/06/june.md",
     "database/2026-06-29-sql_null.md",
     "database/2026-06-28-sql_insert_into.md",
     "database/2026-06-27-sql_not.md",
@@ -245,14 +249,10 @@
     "database/2025-10-06-postgresql_新增数据.md",
     "database/2026-02-25-mongodb_crud.md",
     "language/06/2026-06-22-language.md",
-    "life/life_.md",
     "language/06/2026-06-16-language.md",
     "language/06/2026-06-15-language.md",
     "language/06/2026-06-21-vocabulary.md",
     "time.md",
-    "python/2026-06-22-py_decorator.md",
-    "python/2026-06-21-py_pytest.md",
-    "database/2025-10-09-postgresql_查询数据通过pgadmin.md",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
     "zttachment/hist.png",
