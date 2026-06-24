@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/2026-06-24-sql_where.md",
+                "file": "database/2026-06-28-sql_insert_into.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-24-sql_where"
+              "title": "2026-06-28-sql_insert_into"
+            }
+          },
+          {
+            "id": "ca3f6971d89de79e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language/06/2026-06-24-language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-24-language"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,15 +254,24 @@
       "decks:Decks": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "ca3f6971d89de79e",
   "lastOpenFiles": [
-    "database/2026-06-23-sql_入门.md",
+    "database/2026-06-29-sql_null.md",
+    "database/2026-06-28-sql_insert_into.md",
+    "database/2026-06-27-sql_not.md",
+    "database/2026-06-26-sql_and.md",
+    "language/06/2026-06-24-language.md",
+    "language/06/2026-06-03-second-language.md",
+    "language/06/2026-06-17-second-language.md",
+    "language/06/2026-06-18-second-language.md",
+    "language/06/2026-06-23-language.md",
+    "database/2026-06-25-sql_orderby.md",
     "database/2026-06-24-sql_where.md",
+    "database/2026-06-23-sql_入门.md",
+    "database/2025-10-05-postgresql_上手.md",
     "database/2025-10-07-postgresql_查询数据.md",
     "database/2025-10-06-postgresql_新增数据.md",
-    "database/2025-10-05-postgresql_上手.md",
     "database/2026-02-25-mongodb_crud.md",
-    "language/06/2026-06-23-language.md",
     "language/06/2026-06-22-language.md",
     "life/life_.md",
     "language/06/2026-06-16-language.md",
@@ -259,15 +282,6 @@
     "python/2026-06-22-py_decorator.md",
     "python/2026-06-21-py_pytest.md",
     "database/2025-10-09-postgresql_查询数据通过pgadmin.md",
-    "database/2025-10-08-postgresql_查询数据.md",
-    "database/2026-02-19-mongodb_select.md",
-    "database/2026-02-17-postgresql_删除数据库.md",
-    "database/README.md",
-    "database/2026-02-24-mongodb_connnect_with_python.md",
-    "database/2026-02-23-mongodb_join.md",
-    "database/2026-02-22-postgresql_with.md",
-    "database/2026-02-22-mongodb_delete.md",
-    "database/2026-02-21-mongodb_update.md",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
     "zttachment/hist.png",
