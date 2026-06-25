@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/2026-06-24-review_原子习惯.md",
+                "file": "database/2026-07-01-sql_delete.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-24-review_原子习惯"
+              "title": "2026-07-01-sql_delete"
             }
           }
         ]
@@ -208,12 +208,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,14 +226,21 @@
   },
   "active": "9abd6900addca91e",
   "lastOpenFiles": [
-    "books/2026-06-17-reivew_周末的快乐效益.md",
-    "books/2026-06-24-review_原子习惯.md",
-    "life/life_.md",
-    "language/06/2026-06-24-language.md",
-    "ml/2026-06-14-ml_强化学习登入月球.md",
-    "language/06/june.md",
-    "database/2026-06-29-sql_null.md",
     "database/2026-06-28-sql_insert_into.md",
+    "database/2026-06-30-sql_update.md",
+    "database/2025-10-05-postgresql_上手.md",
+    "database/2025-10-07-postgresql_查询数据.md",
+    "database/2026-07-01-sql_delete.md",
+    "zttachment/hist.png",
+    "database/2026-06-29-sql_null.md",
+    "time.md",
+    "language/06/june.md",
+    "language/06/2026-06-25-language.md",
+    "language/06/2026-06-24-language.md",
+    "books/2026-06-24-review_原子习惯.md",
+    "books/2026-06-17-reivew_周末的快乐效益.md",
+    "life/life_.md",
+    "ml/2026-06-14-ml_强化学习登入月球.md",
     "database/2026-06-27-sql_not.md",
     "database/2026-06-26-sql_and.md",
     "language/06/2026-06-03-second-language.md",
@@ -244,18 +250,11 @@
     "database/2026-06-25-sql_orderby.md",
     "database/2026-06-24-sql_where.md",
     "database/2026-06-23-sql_入门.md",
-    "database/2025-10-05-postgresql_上手.md",
-    "database/2025-10-07-postgresql_查询数据.md",
     "database/2025-10-06-postgresql_新增数据.md",
     "database/2026-02-25-mongodb_crud.md",
     "language/06/2026-06-22-language.md",
-    "language/06/2026-06-16-language.md",
-    "language/06/2026-06-15-language.md",
-    "language/06/2026-06-21-vocabulary.md",
-    "time.md",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
-    "zttachment/hist.png",
     "language/06/reading",
     "lin-b2ac9f0fbbe6.deckssynclog",
     "Canvas decks/Decks — Canvas getting started.canvas",

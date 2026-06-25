@@ -76,3 +76,4 @@ elderly | 老年
 Workers genera lly pay for this insurance by having a premium deducted from their paycheck. | 员工通常通过从工资中扣除保费的方式来支付这项保险。
 deduct  扣除
 premium  保费
+common sight |  常见

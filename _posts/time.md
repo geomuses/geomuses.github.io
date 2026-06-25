@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] 英文阅读 2篇
 - [ ] 英文 duolings
 - [ ] 英文单子
+- [ ] sql
 - [ ] 创业计划书
 
 
@@ -24,7 +25,6 @@ kanban-plugin: board
 - [ ] 做投资组合研究
 - [ ] 玩游戏
 - [ ] 演算法
-- [ ] sql
 
 
 ## 重要且紧急(赶紧处理)
