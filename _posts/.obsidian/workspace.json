@@ -11,10 +11,14 @@
             "id": "7e9041224ef86ad2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "python/py_.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "py_"
             }
           }
         ]
@@ -204,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -220,10 +224,13 @@
       "decks:Decks": false
     }
   },
-  "active": "0059f8ee2753d2c7",
+  "active": "7e9041224ef86ad2",
   "lastOpenFiles": [
-    "books/2026-06-25-review_深度学习力.md",
+    "python/2026-06-22-py_decorator.md",
+    "python/py_.md",
+    "books/2026-06-25-review_原子习惯.md",
     "books/2026-06-24-review_原子习惯.md",
+    "books/2026-06-25-review_深度学习力.md",
     "language/06/june.md",
     "language/06/2026-06-25-vocabulary.md",
     "language/06/2026-06-25-language.md",
@@ -246,9 +253,6 @@
     "language/06/2026-06-17-second-language.md",
     "language/06/2026-06-18-second-language.md",
     "language/06/2026-06-23-language.md",
-    "database/2026-06-25-sql_orderby.md",
-    "database/2026-06-24-sql_where.md",
-    "database/2026-06-23-sql_入门.md",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
     "language/06/reading",
