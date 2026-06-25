@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/2026-07-01-sql_delete.md",
+                "file": "books/深度学习力.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-01-sql_delete"
+              "title": "深度学习力"
             }
           }
         ]
@@ -208,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,20 +224,23 @@
       "decks:Decks": false
     }
   },
-  "active": "9abd6900addca91e",
+  "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
+    "books/2026-06-24-review_原子习惯.md",
+    "books/深度学习力.md",
+    "language/06/june.md",
+    "language/06/2026-06-25-vocabulary.md",
+    "language/06/2026-06-25-language.md",
+    "language/06/2026-06-21-vocabulary.md",
+    "database/2026-07-01-sql_delete.md",
     "database/2026-06-28-sql_insert_into.md",
     "database/2026-06-30-sql_update.md",
     "database/2025-10-05-postgresql_上手.md",
     "database/2025-10-07-postgresql_查询数据.md",
-    "database/2026-07-01-sql_delete.md",
     "zttachment/hist.png",
     "database/2026-06-29-sql_null.md",
     "time.md",
-    "language/06/june.md",
-    "language/06/2026-06-25-language.md",
     "language/06/2026-06-24-language.md",
-    "books/2026-06-24-review_原子习惯.md",
     "books/2026-06-17-reivew_周末的快乐效益.md",
     "life/life_.md",
     "ml/2026-06-14-ml_强化学习登入月球.md",
@@ -250,9 +253,6 @@
     "database/2026-06-25-sql_orderby.md",
     "database/2026-06-24-sql_where.md",
     "database/2026-06-23-sql_入门.md",
-    "database/2025-10-06-postgresql_新增数据.md",
-    "database/2026-02-25-mongodb_crud.md",
-    "language/06/2026-06-22-language.md",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
     "language/06/reading",

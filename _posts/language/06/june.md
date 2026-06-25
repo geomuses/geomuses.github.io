@@ -77,3 +77,8 @@ Workers genera lly pay for this insurance by having a premium deducted from thei
 deduct  扣除
 premium  保费
 common sight |  常见
+we are fine so far | 我们目前都安全
+just in case | 以防万一
+have some before it get cold | 趁还没凉先吃
+uneasy | 不安
+edge | 紧张不安
