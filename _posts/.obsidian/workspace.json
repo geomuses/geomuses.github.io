@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "815dc32e20eec2a2",
+        "id": "563d5e9edf9893a0",
         "type": "tabs",
         "children": [
           {
-            "id": "7e9041224ef86ad2",
+            "id": "2a7c142dffaca98d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/py_.md",
+                "file": "finance/finance.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "py_"
+              "title": "finance"
             }
           }
         ]
@@ -212,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,35 +225,35 @@
       "decks:Decks": false
     }
   },
-  "active": "03cdf6059f5ad9b0",
+  "active": "2a7c142dffaca98d",
   "lastOpenFiles": [
-    "python/2026-06-22-py_decorator.md",
+    "finance/2026-06-27-finance_美股研究.md",
+    "finance/finance.md",
+    "finance/2026-05-10-finance_价格走势图和收益率直方图.md",
+    "finance/2026-04-30-finance_肥尾效应.md",
+    "finance/2026-04-27-finance_经典的金叉死叉策略.md",
+    "finance/2026-04-26-finance_AI发送讯息.md",
+    "finance/2026-04-24-finance_EdgarTools.md",
+    "finance/2026-04-25-finance_telegram发送讯息.md",
+    "finance/2026-04-22-finance_通过futu捉取数据.md",
+    "finance/2026-04-21-finance_vwap.md",
+    "finance/2026-04-20-finance_开发环境安装.md",
+    "finance/2026-04-19-finance_美股市场.md",
+    "finance/2026-04-18-finance_量化金融前言.md",
+    "finance/2026-02-05-finance_购买美股.md",
+    "time.md",
+    "language/06/2026-06-26-language.md",
+    "language/06/2026-06-26-second-language.md",
+    "database/2026-07-03-sql_like_operator.md",
+    "flask/README.md",
+    "database/2026-07-04-sql.md",
+    "database/2026-07-02-sql_select_top.md",
     "python/py_.md",
+    "python/2026-06-22-py_decorator.md",
     "books/2026-06-25-review_原子习惯.md",
     "books/2026-06-24-review_原子习惯.md",
     "books/2026-06-25-review_深度学习力.md",
-    "language/06/june.md",
-    "language/06/2026-06-25-vocabulary.md",
-    "language/06/2026-06-25-language.md",
-    "language/06/2026-06-21-vocabulary.md",
-    "database/2026-07-01-sql_delete.md",
-    "database/2026-06-28-sql_insert_into.md",
-    "database/2026-06-30-sql_update.md",
-    "database/2025-10-05-postgresql_上手.md",
-    "database/2025-10-07-postgresql_查询数据.md",
     "zttachment/hist.png",
-    "database/2026-06-29-sql_null.md",
-    "time.md",
-    "language/06/2026-06-24-language.md",
-    "books/2026-06-17-reivew_周末的快乐效益.md",
-    "life/life_.md",
-    "ml/2026-06-14-ml_强化学习登入月球.md",
-    "database/2026-06-27-sql_not.md",
-    "database/2026-06-26-sql_and.md",
-    "language/06/2026-06-03-second-language.md",
-    "language/06/2026-06-17-second-language.md",
-    "language/06/2026-06-18-second-language.md",
-    "language/06/2026-06-23-language.md",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
     "language/06/reading",
