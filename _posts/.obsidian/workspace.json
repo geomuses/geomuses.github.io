@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/finance.md",
+                "file": "books/2026-06-25-review_原子习惯.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "finance"
+              "title": "2026-06-25-review_原子习惯"
             }
           }
         ]
@@ -227,8 +227,9 @@
   },
   "active": "2a7c142dffaca98d",
   "lastOpenFiles": [
-    "finance/2026-06-27-finance_美股研究.md",
+    "books/2026-06-25-review_深度学习力.md",
     "finance/finance.md",
+    "finance/2026-06-27-finance_美股研究.md",
     "finance/2026-05-10-finance_价格走势图和收益率直方图.md",
     "finance/2026-04-30-finance_肥尾效应.md",
     "finance/2026-04-27-finance_经典的金叉死叉策略.md",
@@ -252,7 +253,6 @@
     "python/2026-06-22-py_decorator.md",
     "books/2026-06-25-review_原子习惯.md",
     "books/2026-06-24-review_原子习惯.md",
-    "books/2026-06-25-review_深度学习力.md",
     "zttachment/hist.png",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
