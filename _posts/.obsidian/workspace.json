@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/2026-06-29-review_原子习惯.md",
+                "file": "books/2026-07-01-review_原子习惯.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-29-review_原子习惯"
+              "title": "2026-07-01-review_原子习惯"
             }
           }
         ]
@@ -227,8 +227,9 @@
   },
   "active": "2a7c142dffaca98d",
   "lastOpenFiles": [
-    "books/2026-06-25-review_原子习惯.md",
     "books/2026-06-29-review_原子习惯.md",
+    "books/2026-07-01-review_原子习惯.md",
+    "books/2026-06-25-review_原子习惯.md",
     "原子习惯.md",
     "books/2026-06-24-review_原子习惯.md",
     "books/2026-06-25-review_深度学习力.md",
@@ -252,7 +253,6 @@
     "database/2026-07-03-sql_like_operator.md",
     "flask/README.md",
     "database/2026-07-04-sql.md",
-    "database/2026-07-02-sql_select_top.md",
     "zttachment/hist.png",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
