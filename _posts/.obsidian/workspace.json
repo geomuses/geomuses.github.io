@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/2026-07-06-review_原子习惯.md",
+                "file": "database/2026-07-04-sql_in.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-06-review_原子习惯"
+              "title": "2026-07-04-sql_in"
             }
           }
         ]
@@ -227,8 +227,10 @@
   },
   "active": "2a7c142dffaca98d",
   "lastOpenFiles": [
-    "books/2026-07-05-review_原子习惯.md",
+    "database/2026-07-03-sql_like_operator.md",
+    "database/2026-07-04-sql_in.md",
     "books/2026-07-06-review_原子习惯.md",
+    "books/2026-07-05-review_原子习惯.md",
     "books/2026-07-04-review_原子习惯.md",
     "time.md",
     "zttachment/Screenshot 2026-07-05 125704.png",
@@ -252,8 +254,6 @@
     "finance/2026-04-19-finance_美股市场.md",
     "finance/2026-04-18-finance_量化金融前言.md",
     "finance/2026-02-05-finance_购买美股.md",
-    "language/06/2026-06-26-language.md",
-    "language/06/2026-06-26-second-language.md",
     "zttachment/hist.png",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
