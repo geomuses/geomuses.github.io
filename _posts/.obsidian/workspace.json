@@ -11,14 +11,23 @@
             "id": "2a7c142dffaca98d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "books/2026-07-04-review_原子习惯.md",
-                "mode": "source",
-                "source": true
+                "file": "time.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-07-04-review_原子习惯"
+              "icon": "lucide-trello",
+              "title": "time"
             }
           }
         ]
@@ -227,11 +236,13 @@
   },
   "active": "2a7c142dffaca98d",
   "lastOpenFiles": [
+    "books/2026-07-05-review_原子习惯.md",
+    "zttachment/Screenshot 2026-07-05 125704.png",
+    "books/2026-06-25-review_原子习惯.md",
+    "books/2026-06-29-review_原子习惯.md",
     "books/2026-07-01-review_原子习惯.md",
     "books/2026-07-04-review_原子习惯.md",
     "books/2026-06-24-review_原子习惯.md",
-    "books/2026-06-25-review_原子习惯.md",
-    "books/2026-06-29-review_原子习惯.md",
     "原子习惯.md",
     "books/2026-06-25-review_深度学习力.md",
     "finance/finance.md",
@@ -251,8 +262,6 @@
     "time.md",
     "language/06/2026-06-26-language.md",
     "language/06/2026-06-26-second-language.md",
-    "database/2026-07-03-sql_like_operator.md",
-    "flask/README.md",
     "zttachment/hist.png",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
