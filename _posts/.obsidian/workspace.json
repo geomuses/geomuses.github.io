@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/2026-07-06-review_原子习惯.md",
+                "file": "books/2026-07-07-review_原子习惯.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-06-review_原子习惯"
+              "title": "2026-07-07-review_原子习惯"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2026-06-24",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,17 +227,22 @@
   },
   "active": "c92e74fc7ffc149c",
   "lastOpenFiles": [
-    "books/2026-07-05-review_原子习惯.md",
     "books/2026-07-06-review_原子习惯.md",
-    "database/2026-07-04-sql_in.md",
+    "books/2026-07-07-review_原子习惯.md",
+    "books/2026-07-05-review_原子习惯.md",
+    "2026-07-06-reiver.md",
+    "life/2026-06-16-life_如何写一篇文章.md",
+    "language/07/2026-07-06-language.md",
+    "language/06/2026-06-25-vocabulary.md",
+    "language/06/2026-06-26-second-language.md",
     "language/07/2026-07-05-language.md",
+    "books/2026-07-04-review_原子习惯.md",
+    "database/2026-07-04-sql_in.md",
+    "time.md",
     "database/2026-07-03-sql_like_operator.md",
     "language/06/2026-06-26-language.md",
-    "language/06/2026-06-26-second-language.md",
     "language/06/june.md",
     "language/07",
-    "books/2026-07-04-review_原子习惯.md",
-    "time.md",
     "zttachment/Screenshot 2026-07-05 125704.png",
     "books/2026-06-25-review_原子习惯.md",
     "books/2026-06-29-review_原子习惯.md",
@@ -250,11 +255,6 @@
     "finance/2026-05-10-finance_价格走势图和收益率直方图.md",
     "finance/2026-04-30-finance_肥尾效应.md",
     "finance/2026-04-27-finance_经典的金叉死叉策略.md",
-    "finance/2026-04-26-finance_AI发送讯息.md",
-    "finance/2026-04-24-finance_EdgarTools.md",
-    "finance/2026-04-25-finance_telegram发送讯息.md",
-    "finance/2026-04-22-finance_通过futu捉取数据.md",
-    "finance/2026-04-21-finance_vwap.md",
     "zttachment/hist.png",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",

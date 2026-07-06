@@ -37,7 +37,7 @@ grass | 草
 bush | 衬套
 <!--SR:!2026-06-20,4,170-->
 greenery | 绿植
-<!--SR:!2026-06-29,18,270-->
+<!--SR:!2026-09-11,68,290-->
 take into account | 考虑
 <!--SR:!2026-07-21,29,278-->
 The study did not take income into account. | 该研究没有将收入因素考虑在内

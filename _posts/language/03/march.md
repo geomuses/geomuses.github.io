@@ -73,7 +73,7 @@ Working Out | 锻炼
 heart disease and diabetes | 心脏病和糖尿病
 <!--SR:!2026-08-22,61,314-->
 strength training | 力量训练
-<!--SR:!2026-06-20,15,294-->
+<!--SR:!2026-09-04,61,314-->
 think critically | 批判性思考
 <!--SR:!2026-06-22,16,294-->
 festival | 节日
@@ -136,12 +136,12 @@ Nordic | 北欧
 high levels of trust in society | 高度的社会信任
 <!--SR:!2026-08-13,68,312-->
 rhythmic | 节奏感
-<!--SR:!2026-06-26,10,192-->
+<!--SR:!2026-08-02,28,212-->
 Voluntold | 自愿
 cadence | 语调
 <!--SR:!2026-06-15,1,130-->
 Unsurprisingly | 毫不意外
-<!--SR:!2026-06-25,25,272-->
+<!--SR:!2026-10-08,95,292-->
 My pets didn't like each other at first, but they've learned to live in harmony with one another.| 我的宠物起初不喜欢彼此，但它们已经学会了和谐共处
 <!--SR:!2026-08-06,45,294-->
 went | 去了

@@ -81,7 +81,7 @@ toddlers |  幼儿
  cooperate | 合作
 <!--SR:!2026-08-05,61,310-->
  tone | 语气
-<!--SR:!2026-06-18,12,286-->
+<!--SR:!2026-08-21,47,306-->
 insincere | 不真诚
 <!--SR:!2026-06-16,5,210-->
 chronotype | 生物钟类型
@@ -97,7 +97,7 @@ chronotype | 生物钟类型
  And over time | 随着时间的推移
 <!--SR:!2026-07-12,26,286-->
  Of course, life can be unpredictable. But if we have a routine for many things, it gives us something calm we can go back to after something unpredictable happens.   | 当然，生活可能无法预测。但如果我们对许多事情都有规律，那么在发生不可预测的事情后，我们就有了一种可以回归的平静。
-<!--SR:!2026-06-13,6,245-->
+<!--SR:!2026-07-26,21,265-->
 Routines may not work for all of us, and some people like life to be unpredictable. But for others, a "boring" routine is just what they need!  | 例行公事可能并不适用于所有人，有些人喜欢生活充满不确定性。但对另一些人来说，“无聊”的例行公事正是他们所需要的！
 <!--SR:!2026-07-06,20,266-->
 Night Moves | 夜行者

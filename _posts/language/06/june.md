@@ -15,9 +15,9 @@ signaling intent | 暴露意图
 i would have fucking words | 我他妈有话说
 <!--SR:!2026-06-27,16,299-->
 we must seize it | 我们必须抓住它
-<!--SR:!2026-06-26,15,290-->
+<!--SR:!2026-09-02,59,310-->
 what is this fucking shit | ...
-<!--SR:!2026-06-27,16,299-->
+<!--SR:!2026-09-09,66,319-->
 pause labor | ...
 <!--SR:!2026-06-29,7,279-->
 turn mind to task | 专心做事
@@ -29,7 +29,7 @@ linens | 床单
  study aid | 学习辅助工具
 <!--SR:!2026-06-28,17,299-->
 Safety Equipment|安全设备
-<!--SR:!2026-06-25,14,292-->
+<!--SR:!2026-08-30,56,312-->
 delegate jobs to other people | 把工作委派給其他人
 <!--SR:!2026-06-28,12,279-->
 Digital Nomad | 数位游牧
@@ -57,7 +57,7 @@ escaping | 逃脫
 morale | 士气 (moral ; 道德)
 <!--SR:!2026-07-05,17,302-->
 you also don't want the staff to throw you out! | 你也不想被工作人員趕出去吧！
-<!--SR:!2026-07-01,15,302-->
+<!--SR:!2026-09-06,63,322-->
 I'm fed up with doing all the housework while you sit around all day  | 我厌倦了做所有的家务，而你却整天无所事事。  fed up (厌倦)
 <!--SR:!2026-06-29,7,282-->
 break even |  盈亏平衡
