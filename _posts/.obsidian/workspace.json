@@ -8,7 +8,83 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c92e74fc7ffc149c",
+            "id": "1ec8fe65ff3dd26a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/2026-07-06-review_原子习惯.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-06-review_原子习惯"
+            }
+          },
+          {
+            "id": "5a8f715d903e951e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/2026-07-04-review_原子习惯.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-04-review_原子习惯"
+            }
+          },
+          {
+            "id": "b71b5ab58109cf12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/2026-07-05-review_原子习惯.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-05-review_原子习惯"
+            }
+          },
+          {
+            "id": "ec6c036835ed06c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/2026-07-07-review_原子习惯.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-07-review_原子习惯"
+            }
+          },
+          {
+            "id": "e5d65c4638f08324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/2026-07-07-review_原子习惯.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-07-review_原子习惯"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e759f70816adc61b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "692b668f9047f63a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -225,18 +301,24 @@
       "decks:Decks": false
     }
   },
-  "active": "c92e74fc7ffc149c",
+  "active": "692b668f9047f63a",
   "lastOpenFiles": [
+    "life/2026-07-06-life_原子习惯笔记.md",
     "books/2026-07-06-review_原子习惯.md",
-    "books/2026-07-07-review_原子习惯.md",
     "books/2026-07-05-review_原子习惯.md",
-    "2026-07-06-reiver.md",
+    "books/2026-07-04-review_原子习惯.md",
+    "books/2026-07-01-review_原子习惯.md",
+    "books/2026-06-29-review_原子习惯.md",
+    "books/2026-06-25-review_原子习惯.md",
+    "books/2026-06-25-review_深度学习力.md",
+    "books/2026-06-24-review_原子习惯.md",
+    "books/2026-07-07-review_原子习惯.md",
     "life/2026-06-16-life_如何写一篇文章.md",
+    "2026-07-06-reiver.md",
     "language/07/2026-07-06-language.md",
     "language/06/2026-06-25-vocabulary.md",
     "language/06/2026-06-26-second-language.md",
     "language/07/2026-07-05-language.md",
-    "books/2026-07-04-review_原子习惯.md",
     "database/2026-07-04-sql_in.md",
     "time.md",
     "database/2026-07-03-sql_like_operator.md",
@@ -244,17 +326,11 @@
     "language/06/june.md",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",
-    "books/2026-06-25-review_原子习惯.md",
-    "books/2026-06-29-review_原子习惯.md",
-    "books/2026-07-01-review_原子习惯.md",
-    "books/2026-06-24-review_原子习惯.md",
     "原子习惯.md",
-    "books/2026-06-25-review_深度学习力.md",
     "finance/finance.md",
     "finance/2026-06-27-finance_美股研究.md",
     "finance/2026-05-10-finance_价格走势图和收益率直方图.md",
     "finance/2026-04-30-finance_肥尾效应.md",
-    "finance/2026-04-27-finance_经典的金叉死叉策略.md",
     "zttachment/hist.png",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",

@@ -139,7 +139,7 @@ rhythmic | 节奏感
 <!--SR:!2026-08-02,28,212-->
 Voluntold | 自愿
 cadence | 语调
-<!--SR:!2026-06-15,1,130-->
+<!--SR:!2026-07-07,1,130-->
 Unsurprisingly | 毫不意外
 <!--SR:!2026-10-08,95,292-->
 My pets didn't like each other at first, but they've learned to live in harmony with one another.| 我的宠物起初不喜欢彼此，但它们已经学会了和谐共处

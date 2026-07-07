@@ -69,7 +69,7 @@ highs-up | 上头
 critical | 关键
 <!--SR:!2026-07-21,46,296-->
  blame | 责备
-<!--SR:!2026-06-24,16,254-->
+<!--SR:!2026-09-01,57,274-->
  Among Babies | 婴儿之间
 <!--SR:!2026-08-03,60,310-->
  healthy development | 健康发育
@@ -91,21 +91,21 @@ critical | 关键
  regulate | 规范
 <!--SR:!2026-07-03,27,290-->
  anticipate | 预料
-<!--SR:!2026-06-17,6,216-->
+<!--SR:!2026-07-24,18,236-->
  led | 引领
 <!--SR:!2026-07-25,33,274-->
 compensation | 补偿
 <!--SR:!2026-06-24,2,150-->
 demotion | 降职
-<!--SR:!2026-07-05,18,236-->
+<!--SR:!2026-09-05,61,256-->
 arbitration | 仲裁
 <!--SR:!2026-06-12,1,130-->
 panel | 小组
 <!--SR:!2026-07-30,54,310-->
 dismissal | 解雇
-<!--SR:!2026-06-18,4,230-->
+<!--SR:!2026-07-20,14,250-->
  reliable | 可靠的
-<!--SR:!2026-06-12,1,130-->
+<!--SR:!2026-07-07,1,130-->
  decline  | 下降
 <!--SR:!2026-07-27,35,274-->
  prefecture | 县
@@ -117,7 +117,7 @@ dismissal | 解雇
  wholesaler  | 批发商
 <!--SR:!2026-07-11,25,274-->
  inventory |  库存/存货
-<!--SR:!2026-07-06,14,214-->
+<!--SR:!2026-08-18,43,234-->
  ethical  | 道德的/合乎伦理的
 <!--SR:!2026-06-17,1,130-->
  aspect | 方面
@@ -139,13 +139,13 @@ cellular level | 细胞层面
 studying their telomeres | 研究端粒
 <!--SR:!2026-06-23,1,214-->
 may be one piece of the puzzle in supporting healthier cellular aging. | 这或许是促进细胞健康衰老的关键因素之一
-<!--SR:!2026-06-24,13,234-->
+<!--SR:!2026-08-16,41,254-->
 Japan is particularly prone to natural disasters | 日本特别容易遭受自然灾害
 <!--SR:!2026-06-23,12,282-->
 earthquakes, typhoons, floods and landslides | 地震、台风、洪水和山体滑坡
 <!--SR:!2026-06-26,15,303-->
 to provide essential services during a time of emergency | 在紧急情况下提供基本服务
-<!--SR:!2026-06-27,16,303-->
+<!--SR:!2026-09-12,68,323-->
 renovated a store | 翻新了商店
 <!--SR:!2026-06-29,12,283-->
 mobile sales vehicles | 移动销售车辆
@@ -157,7 +157,7 @@ This decline is not new.  | 这种下滑并非始于今日
 also been falling for decades | 也已持续数十年
 <!--SR:!2026-06-26,15,302-->
 Meanwhile, |  与此同时，
-<!--SR:!2026-06-26,15,303-->
+<!--SR:!2026-09-07,63,323-->
 this may happen because people become emotionally attached to a game's world, |  这可能是因为人们对游戏世界产生了情感依恋，
 <!--SR:!2026-07-03,11,283-->
 it was found that while most players did not lose interest in other forms of entertainment |  研究发现，虽然大多数玩家并没有对其他娱乐形式失去兴趣，
@@ -189,13 +189,13 @@ it was found that while most players did not lose interest in other forms of ent
  Flavors from different foods also keep mixing with each other. Spices, for example, might spread through a sauce and give it more flavor. | 不同食物的味道也会不断混合。例如，香料可能会扩散到酱汁中，使其味道更浓郁。
 <!--SR:!2026-06-23,12,283-->
  Other flavors might mix with the fat in a dish.| 其他味道可能会与菜肴中的油脂混合。
-<!--SR:!2026-06-23,12,283-->
+<!--SR:!2026-08-20,45,303-->
  Fat helps carry these flavors and keeps them on your tongue for longer, so the food tastes better | 油脂有助于承载这些味道，并使其在舌尖停留更长时间，从而使食物更美味
 <!--SR:!2026-06-28,17,303-->
  These Phrases Will Improve Your English 'In No Time' | 这些短语能让你“迅速”提高英语水平
-<!--SR:!2026-06-28,17,302-->
+<!--SR:!2026-09-15,71,322-->
 that time is running out to do something. | 现在的时间已经不多了，必须赶紧完成某事
-<!--SR:!2026-06-23,12,283-->
+<!--SR:!2026-08-22,47,303-->
 no traffic jams | 没有交通堵塞
 <!--SR:!2026-06-27,16,303-->
 sometimes it's even better to get there early — or "ahead of time | 有时候提前到达反而更好——也就是“提前到会”

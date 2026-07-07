@@ -19,7 +19,7 @@ we must seize it | 我们必须抓住它
 what is this fucking shit | ...
 <!--SR:!2026-09-09,66,319-->
 pause labor | ...
-<!--SR:!2026-06-29,7,279-->
+<!--SR:!2026-08-01,26,299-->
 turn mind to task | 专心做事
 <!--SR:!2026-06-27,16,299-->
 linens | 床单
@@ -27,13 +27,13 @@ linens | 床单
  49% said it motivated them | 49%的人表示这激励了他们
 <!--SR:!2026-06-15,1,239-->
  study aid | 学习辅助工具
-<!--SR:!2026-06-28,17,299-->
+<!--SR:!2026-09-14,70,319-->
 Safety Equipment|安全设备
 <!--SR:!2026-08-30,56,312-->
 delegate jobs to other people | 把工作委派給其他人
-<!--SR:!2026-06-28,12,279-->
+<!--SR:!2026-08-24,49,299-->
 Digital Nomad | 数位游牧
-<!--SR:!2026-06-25,14,292-->
+<!--SR:!2026-09-01,57,312-->
 volunteering | 义工
 <!--SR:!2026-06-26,15,292-->
 jail time | 判入獄
@@ -43,7 +43,7 @@ then uses a gas called ethylene to ripen the fruit | 然後利用一種叫做乙
 this is affecting various industries | 這正在影響各個產業。
 <!--SR:!2026-06-28,17,299-->
 pilot projects | 試點計畫
-<!--SR:!2026-06-25,11,279-->
+<!--SR:!2026-08-17,42,299-->
 Would that ruin your evening | 破坏你的晚上
 <!--SR:!2026-07-04,17,302-->
 adults-only dining to some extent | 部分情況僅限成人用餐 (extent 情况)
