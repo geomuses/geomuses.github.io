@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/07/2026-07-07-language.md",
+                "file": "language/07/2026-07-08-language.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-07-language"
+              "title": "2026-07-08-language"
+            }
+          },
+          {
+            "id": "32ad70f656f73d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language/07/july.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "july"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,9 +254,13 @@
       "decks:Decks": false
     }
   },
-  "active": "254daff95073fd2b",
+  "active": "32ad70f656f73d0e",
   "lastOpenFiles": [
+    "language/07/2026-07-08-language.md",
+    "language/07/july.md",
+    "language/06/june.md",
     "language/07/2026-07-06-language.md",
+    "language/07/2026-07-05-language.md",
     "language/07/2026-07-07-language.md",
     "Untitled.md",
     "life/2026-07-06-life_原子习惯笔记.md",
@@ -259,17 +277,13 @@
     "2026-07-06-reiver.md",
     "language/06/2026-06-25-vocabulary.md",
     "language/06/2026-06-26-second-language.md",
-    "language/07/2026-07-05-language.md",
     "database/2026-07-04-sql_in.md",
     "time.md",
     "database/2026-07-03-sql_like_operator.md",
     "language/06/2026-06-26-language.md",
-    "language/06/june.md",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",
     "原子习惯.md",
-    "finance/finance.md",
-    "finance/2026-06-27-finance_美股研究.md",
     "zttachment/hist.png",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
