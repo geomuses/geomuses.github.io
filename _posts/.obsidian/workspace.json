@@ -8,49 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93bf3cc00ef01470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "language/07/2026-07-06-language.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-06-language"
-            }
-          },
-          {
-            "id": "254daff95073fd2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "language/07/2026-07-08-language.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-08-language"
-            }
-          },
-          {
             "id": "32ad70f656f73d0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "language/07/july.md",
-                "mode": "source",
-                "source": true
+                "file": "eng.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "july"
+              "icon": "lucide-trello",
+              "title": "eng"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,12 +233,13 @@
   "active": "32ad70f656f73d0e",
   "lastOpenFiles": [
     "language/07/2026-07-08-language.md",
-    "language/07/july.md",
-    "language/06/june.md",
     "language/07/2026-07-06-language.md",
-    "language/07/2026-07-05-language.md",
-    "language/07/2026-07-07-language.md",
+    "eng.md",
+    "language/07/july.md",
     "Untitled.md",
+    "language/07/2026-07-07-language.md",
+    "language/06/june.md",
+    "language/07/2026-07-05-language.md",
     "life/2026-07-06-life_原子习惯笔记.md",
     "books/2026-07-07-review_原子习惯.md",
     "books/2026-07-05-review_原子习惯.md",
@@ -283,7 +260,6 @@
     "language/06/2026-06-26-language.md",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",
-    "原子习惯.md",
     "zttachment/hist.png",
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
