@@ -11,19 +11,14 @@
             "id": "32ad70f656f73d0e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "eng.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "life/2026-07-06-life_原子习惯笔记.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "eng"
+              "icon": "lucide-file",
+              "title": "2026-07-06-life_原子习惯笔记"
             }
           }
         ]
@@ -232,9 +227,9 @@
   },
   "active": "32ad70f656f73d0e",
   "lastOpenFiles": [
+    "eng.md",
     "language/07/2026-07-08-language.md",
     "language/07/2026-07-06-language.md",
-    "eng.md",
     "language/07/july.md",
     "Untitled.md",
     "language/07/2026-07-07-language.md",
