@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "515a5f83b2504ea2",
+        "id": "0a656ccd6b4f9b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "32ad70f656f73d0e",
+            "id": "3efc8f562a66dadf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/2026-07-06-life_原子习惯笔记.md",
+                "file": "books/review_欲望的博弈.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-06-life_原子习惯笔记"
+              "title": "review_欲望的博弈"
             }
           }
         ]
@@ -225,8 +225,12 @@
       "decks:Decks": false
     }
   },
-  "active": "32ad70f656f73d0e",
+  "active": "3efc8f562a66dadf",
   "lastOpenFiles": [
+    "books/2026-07-08-review_深度数位大扫除.md",
+    "books/review_欲望的博弈.md",
+    "books/2026-07-07-review_原子习惯.md",
+    "life/2026-07-06-life_原子习惯笔记.md",
     "eng.md",
     "language/07/2026-07-08-language.md",
     "language/07/2026-07-06-language.md",
@@ -235,8 +239,6 @@
     "language/07/2026-07-07-language.md",
     "language/06/june.md",
     "language/07/2026-07-05-language.md",
-    "life/2026-07-06-life_原子习惯笔记.md",
-    "books/2026-07-07-review_原子习惯.md",
     "books/2026-07-05-review_原子习惯.md",
     "books/2026-07-04-review_原子习惯.md",
     "books/2026-07-06-review_原子习惯.md",
@@ -251,8 +253,6 @@
     "language/06/2026-06-26-second-language.md",
     "database/2026-07-04-sql_in.md",
     "time.md",
-    "database/2026-07-03-sql_like_operator.md",
-    "language/06/2026-06-26-language.md",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",
     "zttachment/hist.png",
