@@ -4,17 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "9fba663d3f985762",
+        "id": "484a72ffacb48dd6",
         "type": "tabs",
         "children": [
           {
-            "id": "9022466d88695b31",
+            "id": "270699afd359a29b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "language/07/2026-07-10-language.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-07-10-language"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f410fc5fb139c1e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5177a8ee1af2fa89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/2026-07-10-review_深度工作力.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-10-review_深度工作力"
             }
           }
         ]
@@ -221,21 +245,22 @@
       "decks:Decks": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "270699afd359a29b",
   "lastOpenFiles": [
+    "life/2026-07-10-life_深度工作力笔记.md",
+    "books/2026-07-10-review_深度工作力.md",
+    "life/2026-07-06-life_原子习惯笔记.md",
     "Untitled Kanban.md",
     "eng.md",
     "language/07/2026-07-10-language.md",
     "language/07/2026-07-08-language.md",
     "language/07/2026-07-07-language.md",
-    "books/2026-07-10-review_深度工作力.md",
     "books/2026-07-11-review_欲望的博弈.md",
     "books/2026-07-09-review_深度工作力.md",
     "language/07/july.md",
     "books/2026-07-08-review_深度数位大扫除.md",
     "books/2026-07-07-review_原子习惯.md",
     "books/2026-06-25-review_深度学习力.md",
-    "life/2026-07-06-life_原子习惯笔记.md",
     "language/07/2026-07-06-language.md",
     "Untitled.md",
     "language/06/june.md",
@@ -248,7 +273,6 @@
     "books/2026-06-25-review_原子习惯.md",
     "books/2026-06-24-review_原子习惯.md",
     "life/2026-06-16-life_如何写一篇文章.md",
-    "2026-07-06-reiver.md",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",
     "zttachment/hist.png",
