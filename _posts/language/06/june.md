@@ -9,11 +9,11 @@ what beneath in your feet | 你脚下是什么
 you simple fuck | 你这个笨蛋
 <!--SR:!2026-06-28,17,299-->
 what lies beneath your feet is opportunity | 你脚下的是机遇
-<!--SR:!2026-06-23,12,279-->
+<!--SR:!2026-08-26,47,299-->
 signaling intent | 暴露意图
 <!--SR:!2026-06-23,1,179-->
 i would have fucking words | 我他妈有话说
-<!--SR:!2026-06-27,16,299-->
+<!--SR:!2026-09-13,65,319-->
 we must seize it | 我们必须抓住它
 <!--SR:!2026-09-02,59,310-->
 what is this fucking shit | ...

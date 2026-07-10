@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0a656ccd6b4f9b9a",
+        "id": "9fba663d3f985762",
         "type": "tabs",
         "children": [
           {
-            "id": "3efc8f562a66dadf",
+            "id": "9022466d88695b31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/2026-07-11-review_欲望的博弈.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-07-11-review_欲望的博弈"
+              "title": "New tab"
             }
           }
         ]
@@ -225,21 +221,23 @@
       "decks:Decks": false
     }
   },
-  "active": "3efc8f562a66dadf",
+  "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
-    "books/2026-07-10-review_深度工作力.md",
-    "books/2026-07-09-review_深度工作力.md",
+    "Untitled Kanban.md",
+    "eng.md",
+    "language/07/2026-07-10-language.md",
     "language/07/2026-07-08-language.md",
-    "language/07/july.md",
+    "language/07/2026-07-07-language.md",
+    "books/2026-07-10-review_深度工作力.md",
     "books/2026-07-11-review_欲望的博弈.md",
+    "books/2026-07-09-review_深度工作力.md",
+    "language/07/july.md",
     "books/2026-07-08-review_深度数位大扫除.md",
     "books/2026-07-07-review_原子习惯.md",
     "books/2026-06-25-review_深度学习力.md",
     "life/2026-07-06-life_原子习惯笔记.md",
-    "eng.md",
     "language/07/2026-07-06-language.md",
     "Untitled.md",
-    "language/07/2026-07-07-language.md",
     "language/06/june.md",
     "language/07/2026-07-05-language.md",
     "books/2026-07-05-review_原子习惯.md",
@@ -251,8 +249,6 @@
     "books/2026-06-24-review_原子习惯.md",
     "life/2026-06-16-life_如何写一篇文章.md",
     "2026-07-06-reiver.md",
-    "language/06/2026-06-25-vocabulary.md",
-    "language/06/2026-06-26-second-language.md",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",
     "zttachment/hist.png",
