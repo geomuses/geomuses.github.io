@@ -17,7 +17,7 @@ an old highway overpass that the city turned into a public park and walkway | �
 cobbled |  鹅卵石铺成的
 <!--SR:!2026-08-01,56,310-->
 prizes | 奖品
-<!--SR:!2026-07-01,9,274-->
+<!--SR:!2026-07-17,5,254-->
 character | 角色
 <!--SR:!2026-07-18,44,290-->
 encounter | 遭遇

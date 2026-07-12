@@ -11,7 +11,7 @@ you simple fuck | 你这个笨蛋
 what lies beneath your feet is opportunity | 你脚下的是机遇
 <!--SR:!2026-08-26,47,299-->
 signaling intent | 暴露意图
-<!--SR:!2026-06-23,1,179-->
+<!--SR:!2026-07-15,3,199-->
 i would have fucking words | 我他妈有话说
 <!--SR:!2026-09-13,65,319-->
 we must seize it | 我们必须抓住它

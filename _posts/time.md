@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] 英文阅读 2篇
 - [ ] 英文 duolings
 - [ ] 英文单子
+- [ ] 书籍学习
 
 
 ## 星期六处理
@@ -24,8 +25,8 @@ kanban-plugin: board
 - [ ] 美股研究
 - [ ] sql
 - [ ] 演算法
-- [ ] 强化学习
 - [ ] Mongodb 学习
+- [ ] 强化学习
 
 
 ## 重要且紧急(赶紧处理)
