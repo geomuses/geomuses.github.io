@@ -13,3 +13,5 @@ lens  | 镜头  ( the **lens** of a young soldier. 年轻士兵的视角)
 instinct |  本能/天性
 trigger  | 触发
 curate  | 策展
+infection | 感染
+parliament |  议会

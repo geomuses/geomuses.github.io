@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/2026-07-14-review_断舍离.md",
+                "file": "books/2026-07-15-review_行为设计学.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-14-review_断舍离"
+              "title": "2026-07-15-review_行为设计学"
             }
           }
         ]
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 427.5
   },
   "right": {
     "id": "8f11d7d3900d8ee9",
@@ -225,18 +225,23 @@
       "decks:Decks": false
     }
   },
-  "active": "03cdf6059f5ad9b0",
+  "active": "c0c225d2a2e7b8d4",
   "lastOpenFiles": [
-    "books/2026-07-13-review_杀死一只知更鸟.md",
-    "books/2026-07-14-review_断舍离.md",
-    "language/07/2026-07-13-language.md",
-    "time.md",
-    "language/07/2026-07-12-language.md",
-    "eng.md",
     "language/07/july.md",
+    "language/07/2026-07-13-language.md",
+    "language/07/2026-07-14-language.md",
+    "language/07/2026-07-12-language.md",
+    "books/2026-07-15-review_行为设计学.md",
+    "books/2026-07-14-review_断舍离.md",
+    "books/2026-07-15-review_改变心理学的40项研究.md",
+    "books/2026-07-16-review_塔勒布经济学五部曲.md",
+    "books/2026-06-16-review_大人的11堂写作课.md",
+    "books/2026-07-13-review_杀死一只知更鸟.md",
+    "books/2026-07-12-review_你的情商决定你的人生高度.md",
+    "time.md",
+    "eng.md",
     "language/07/2026-07-11-language.md",
     "language/07/2026-07-10-language.md",
-    "books/2026-07-12-review_你的情商决定你的人生高度.md",
     "books/2026-07-10-review_深度工作力.md",
     "article/2026-07-06-article_原子习惯笔记.md",
     "article/2026-04-26-article_学习英文.md",
@@ -249,11 +254,6 @@
     "2026-07-10.md",
     "books/2026-07-04-review_原子习惯.md",
     "books/2026-07-07-review_原子习惯.md",
-    "books/2026-07-05-review_原子习惯.md",
-    "article/2026-06-16-article_如何写一篇文章.md",
-    "article/2026-05-31-article_活下去.md",
-    "article/2026-05-20-article_纳瓦尔宝典反思.md",
-    "language/07/2026-07-08-language.md",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",
     "zttachment/hist.png",
