@@ -53,7 +53,7 @@ advocacy | 倡导/宣传/倡导活动
 urge |  催促/敦促
 <!--SR:!2026-07-29,43,306-->
 intake | 摄入量/摄取量
-<!--SR:!2026-07-04,20,246-->
+<!--SR:!2026-09-21,69,266-->
 fluctuate | 波动/起伏
 <!--SR:!2026-06-23,1,130-->
 repetitive | 重复的/反复的
@@ -101,7 +101,7 @@ chronotype | 生物钟类型
 Routines may not work for all of us, and some people like life to be unpredictable. But for others, a "boring" routine is just what they need!  | 例行公事可能并不适用于所有人，有些人喜欢生活充满不确定性。但对另一些人来说，“无聊”的例行公事正是他们所需要的！
 <!--SR:!2026-07-06,20,266-->
 Night Moves | 夜行者
-<!--SR:!2026-06-14,10,286-->
+<!--SR:!2026-08-23,40,306-->
 mystery | 神秘
 <!--SR:!2026-08-03,48,306-->
 distract  |  分心

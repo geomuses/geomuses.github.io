@@ -15,3 +15,7 @@ trigger  | 触发
 curate  | 策展
 infection | 感染
 parliament |  议会
+epic | 史诗
+Insect Protein Bars | 昆虫蛋白棒
+rather have | 宁愿
+cinnamon | 肉桂
