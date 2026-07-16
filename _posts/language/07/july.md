@@ -19,3 +19,5 @@ epic | 史诗
 Insect Protein Bars | 昆虫蛋白棒
 rather have | 宁愿
 cinnamon | 肉桂
+smoke pollution | 烟雾污染
+city's racecourses | 城市的赛马场
