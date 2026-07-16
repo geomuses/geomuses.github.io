@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/2026-07-15-review_行为设计学.md",
+                "file": "books/2026-07-16-review_博弈论.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-15-review_行为设计学"
+              "title": "2026-07-16-review_博弈论"
             }
           }
         ]
@@ -225,14 +225,14 @@
       "decks:Decks": false
     }
   },
-  "active": "c0c225d2a2e7b8d4",
+  "active": "1ebc9a346584e92c",
   "lastOpenFiles": [
-    "books/2026-01-20-review_我决定给自己一点时间.md",
     "books/2026-07-15-review_行为设计学.md",
+    "books/2026-01-20-review_我决定给自己一点时间.md",
     "language/07/2026-07-15-language.md",
     "language/07/july.md",
     "language/07/2026-07-14-language.md",
-    "books/review_博弈论.md",
+    "books/2026-07-16-review_博弈论.md",
     "books/2025-12-19-review_疯潮行销.md",
     "language/07/2026-07-13-language.md",
     "language/07/2026-07-12-language.md",
