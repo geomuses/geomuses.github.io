@@ -21,3 +21,6 @@ rather have | 宁愿
 cinnamon | 肉桂
 smoke pollution | 烟雾污染
 city's racecourses | 城市的赛马场
+retailer |  零售商
+disruption  | 中断
+logistics  | 物流
