@@ -4,21 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "a7280912c6589d5d",
+        "id": "5bd9fd7cb798e611",
         "type": "tabs",
         "children": [
           {
-            "id": "d8f5f709c760639c",
+            "id": "67f0d9790bddecbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "books/2026-07-21-review_交涉的艺术.md",
-                "mode": "source",
-                "source": true
+                "file": "time.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-07-21-review_交涉的艺术"
+              "icon": "lucide-trello",
+              "title": "time"
             }
           }
         ]
@@ -225,15 +234,17 @@
       "decks:Decks": false
     }
   },
-  "active": "d8f5f709c760639c",
+  "active": "67f0d9790bddecbc",
   "lastOpenFiles": [
-    "books/2026-07-20-review_投資前最重要的事.md",
+    "language/07/july.md",
+    "language/07/2026-07-22-language.md",
+    "language/07/2026-07-18-language.md",
+    "books/2026-07-22-review_交涉的艺术.md",
     "books/2026-07-21-review_交涉的艺术.md",
+    "books/2026-07-20-review_投資前最重要的事.md",
     "books/2026-07-19-review_投資最重要的3個問題.md",
     "books/2026-07-19-review_麻省理工深度思考法.md",
-    "language/07/2026-07-18-language.md",
     "books/2026-07-18-review_排名诡计.md",
-    "language/07/july.md",
     "language/07/2026-07-17-language.md",
     "books/2026-07-17-review_欲念为什么我们管不住自己.md",
     "language/07/2026-07-16-language.md",
@@ -251,8 +262,6 @@
     "books/2026-07-15-review_改变心理学的40项研究.md",
     "books/2026-07-16-review_塔勒布经济学五部曲.md",
     "books/2026-06-16-review_大人的11堂写作课.md",
-    "books/2026-07-13-review_杀死一只知更鸟.md",
-    "books/2026-07-12-review_你的情商决定你的人生高度.md",
     "英文ai.pdf",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",

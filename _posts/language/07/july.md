@@ -24,3 +24,4 @@ city's racecourses | 城市的赛马场
 retailer |  零售商
 disruption  | 中断
 logistics  | 物流
+itineraries | 行程安排
