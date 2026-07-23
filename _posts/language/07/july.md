@@ -25,3 +25,8 @@ retailer |  零售商
 disruption  | 中断
 logistics  | 物流
 itineraries | 行程安排
+emission |  排放
+obey  | 服从
+fraction | 一个极小或较小的部分
+consumption |  消耗
+fuel | 燃料

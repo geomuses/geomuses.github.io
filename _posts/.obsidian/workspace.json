@@ -4,30 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5bd9fd7cb798e611",
+        "id": "bf4e98d18feb4ae8",
         "type": "tabs",
         "children": [
           {
-            "id": "67f0d9790bddecbc",
+            "id": "d1402e510a1734b3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "time.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "books/2026-07-23-review_交涉的艺术.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-trello",
-              "title": "time"
+              "icon": "lucide-file",
+              "title": "2026-07-23-review_交涉的艺术"
             }
           }
         ]
@@ -234,13 +225,16 @@
       "decks:Decks": false
     }
   },
-  "active": "67f0d9790bddecbc",
+  "active": "d1402e510a1734b3",
   "lastOpenFiles": [
-    "language/07/july.md",
-    "language/07/2026-07-22-language.md",
-    "language/07/2026-07-18-language.md",
     "books/2026-07-22-review_交涉的艺术.md",
     "books/2026-07-21-review_交涉的艺术.md",
+    "books/2026-07-23-review_交涉的艺术.md",
+    "language/07/july.md",
+    "language/07/2026-07-23-language.md",
+    "language/07/2026-07-22-language.md",
+    "time.md",
+    "language/07/2026-07-18-language.md",
     "books/2026-07-20-review_投資前最重要的事.md",
     "books/2026-07-19-review_投資最重要的3個問題.md",
     "books/2026-07-19-review_麻省理工深度思考法.md",
@@ -249,7 +243,6 @@
     "books/2026-07-17-review_欲念为什么我们管不住自己.md",
     "language/07/2026-07-16-language.md",
     "language/07/2026-07-15-language.md",
-    "time.md",
     "books/review_改变心理学的40项研究.md",
     "books/2026-07-16-review_博弈论.md",
     "books/2026-07-15-review_行为设计学.md",
@@ -260,8 +253,6 @@
     "language/07/2026-07-12-language.md",
     "books/2026-07-14-review_断舍离.md",
     "books/2026-07-15-review_改变心理学的40项研究.md",
-    "books/2026-07-16-review_塔勒布经济学五部曲.md",
-    "books/2026-06-16-review_大人的11堂写作课.md",
     "英文ai.pdf",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",
