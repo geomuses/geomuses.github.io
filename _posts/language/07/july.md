@@ -30,3 +30,5 @@ obey  | 服从
 fraction | 一个极小或较小的部分
 consumption |  消耗
 fuel | 燃料
+polite  | 礼貌
+bow | 鞠躬

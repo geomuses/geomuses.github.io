@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4e98d18feb4ae8",
+        "id": "e7b8ebdaec3828e1",
         "type": "tabs",
         "children": [
           {
-            "id": "d1402e510a1734b3",
+            "id": "e30b7098c691fdc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/2026-07-26-review_交涉的艺术.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-07-26-review_交涉的艺术"
-            }
-          },
-          {
-            "id": "da4937cf48240ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "article/article_原子习惯.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "article_原子习惯"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,34 +221,34 @@
       "decks:Decks": false
     }
   },
-  "active": "da4937cf48240ef3",
+  "active": "e30b7098c691fdc4",
   "lastOpenFiles": [
-    "article/article_逃避问题的自己.md",
-    "article/article_原子习惯.md",
+    "language/07/2026-07-29-language.md",
+    "books/2026-07-26-review_交涉的艺术.md",
+    "language/07/2026-07-18-language.md",
+    "language/07/2026-07-17-language.md",
+    "language/07/2026-07-22-language.md",
     "language/07/2026-07-23-language.md",
+    "language/07/2026-07-28-language.md",
+    "books/2026-07-29-review_哲学的40堂公开课.md",
+    "books/2026-07-28-review_交涉的艺术.md",
+    "language/07/july.md",
+    "books/2026-07-27-review_交涉的艺术.md",
+    "article/article_原子习惯.md",
+    "article/article_逃避问题的自己.md",
     "language/07/2026-07-27-language.md",
     "books/2026-07-27-review_10分钟入禅休息法.md",
-    "books/2026-07-27-review_交涉的艺术.md",
-    "books/2026-07-26-review_交涉的艺术.md",
     "article/2026-07-10-article_深度工作力笔记.md",
     "books/2026-07-23-review_交涉的艺术.md",
     "books/2026-07-22-review_交涉的艺术.md",
     "books/2026-07-21-review_交涉的艺术.md",
-    "language/07/july.md",
-    "language/07/2026-07-22-language.md",
     "time.md",
-    "language/07/2026-07-18-language.md",
     "books/2026-07-20-review_投資前最重要的事.md",
     "books/2026-07-19-review_投資最重要的3個問題.md",
     "books/2026-07-19-review_麻省理工深度思考法.md",
     "books/2026-07-18-review_排名诡计.md",
-    "language/07/2026-07-17-language.md",
     "books/2026-07-17-review_欲念为什么我们管不住自己.md",
     "language/07/2026-07-16-language.md",
-    "language/07/2026-07-15-language.md",
-    "books/review_改变心理学的40项研究.md",
-    "books/2026-07-16-review_博弈论.md",
-    "books/2026-07-15-review_行为设计学.md",
     "英文ai.pdf",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",
