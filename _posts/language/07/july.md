@@ -33,3 +33,4 @@ fuel | 燃料
 polite  | 礼貌
 bow | 鞠躬
 retailers | 零售商
+stood out | 脱颖而出

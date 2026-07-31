@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/2026-07-31-review_哲学的40堂公开课.md",
+                "file": "language/07/july.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-31-review_哲学的40堂公开课"
+              "title": "july"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -227,9 +229,10 @@
   },
   "active": "370dc55f606ed937",
   "lastOpenFiles": [
-    "books/2026-07-29-review_哲学的40堂公开课.md",
-    "books/2026-07-31-review_哲学的40堂公开课.md",
+    "language/07/2026-07-31-language.md",
     "language/07/2026-07-30-language.md",
+    "books/2026-07-31-review_哲学的40堂公开课.md",
+    "books/2026-07-29-review_哲学的40堂公开课.md",
     "language/07/2026-07-29-language.md",
     "language/07/2026-07-28-language.md",
     "language/07/july.md",
@@ -252,7 +255,6 @@
     "books/2026-07-20-review_投資前最重要的事.md",
     "books/2026-07-19-review_投資最重要的3個問題.md",
     "books/2026-07-19-review_麻省理工深度思考法.md",
-    "books/2026-07-18-review_排名诡计.md",
     "英文ai.pdf",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",

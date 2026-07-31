@@ -67,7 +67,7 @@ Pajamas | 睡衣
 sweater | 毛衣
 <!--SR:!2026-07-06,25,274-->
 But neither of these bans is real. | 但这两个禁令都不是真的。
-<!--SR:!2026-06-21,10,254-->
+<!--SR:!2026-09-05,36,274-->
 Working Out | 锻炼
 <!--SR:!2026-08-26,65,314-->
 heart disease and diabetes | 心脏病和糖尿病
@@ -85,7 +85,7 @@ appetite | 食欲
 satiate | 满足
 <!--SR:!2026-07-18,26,254-->
 conscious | 有意识
-<!--SR:!2026-06-17,1,130-->
+<!--SR:!2026-08-01,1,130-->
 contradictory | 矛盾
 <!--SR:!2026-07-06,14,214-->
 spike | 激增
