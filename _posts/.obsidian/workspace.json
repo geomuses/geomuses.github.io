@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e7b8ebdaec3828e1",
+        "id": "b6e3602c53d2f61b",
         "type": "tabs",
         "children": [
           {
-            "id": "e30b7098c691fdc4",
+            "id": "370dc55f606ed937",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "books/2026-07-31-review_哲学的40堂公开课.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-07-31-review_哲学的40堂公开课"
             }
           }
         ]
@@ -221,18 +225,20 @@
       "decks:Decks": false
     }
   },
-  "active": "e30b7098c691fdc4",
+  "active": "370dc55f606ed937",
   "lastOpenFiles": [
+    "books/2026-07-29-review_哲学的40堂公开课.md",
+    "books/2026-07-31-review_哲学的40堂公开课.md",
+    "language/07/2026-07-30-language.md",
     "language/07/2026-07-29-language.md",
+    "language/07/2026-07-28-language.md",
+    "language/07/july.md",
     "books/2026-07-26-review_交涉的艺术.md",
     "language/07/2026-07-18-language.md",
     "language/07/2026-07-17-language.md",
     "language/07/2026-07-22-language.md",
     "language/07/2026-07-23-language.md",
-    "language/07/2026-07-28-language.md",
-    "books/2026-07-29-review_哲学的40堂公开课.md",
     "books/2026-07-28-review_交涉的艺术.md",
-    "language/07/july.md",
     "books/2026-07-27-review_交涉的艺术.md",
     "article/article_原子习惯.md",
     "article/article_逃避问题的自己.md",
@@ -247,8 +253,6 @@
     "books/2026-07-19-review_投資最重要的3個問題.md",
     "books/2026-07-19-review_麻省理工深度思考法.md",
     "books/2026-07-18-review_排名诡计.md",
-    "books/2026-07-17-review_欲念为什么我们管不住自己.md",
-    "language/07/2026-07-16-language.md",
     "英文ai.pdf",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",

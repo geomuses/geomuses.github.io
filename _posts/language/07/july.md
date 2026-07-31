@@ -32,3 +32,4 @@ consumption |  消耗
 fuel | 燃料
 polite  | 礼貌
 bow | 鞠躬
+retailers | 零售商
