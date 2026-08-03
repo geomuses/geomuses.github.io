@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/08/2026-08-03-language.md",
+                "file": "books/2026-08-03-review_哲学的40堂公开课.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-08-03-language"
+              "title": "2026-08-03-review_哲学的40堂公开课"
             }
           }
         ]
@@ -229,23 +229,24 @@
   },
   "active": "22c839114582f4e0",
   "lastOpenFiles": [
-    "language/07/july.md",
+    "books/2026-07-31-review_哲学的40堂公开课.md",
+    "books/2026-08-03-review_哲学的40堂公开课.md",
+    "books/2026-08-02-review_交涉的艺术.md",
+    "books/2026-07-29-review_哲学的40堂公开课.md",
     "language/08/2026-08-03-language.md",
+    "language/07/july.md",
     "language/07/2026-07-31-language.md",
     "article/article_逃避现实.md",
     "language/08",
     "article/article_逃避问题的自己.md",
     "books/2026-01-27-review_逆商我们该如何应对坏事件.md",
-    "books/2026-08-02-review_交涉的艺术.md",
     "books/2026-08-03-review_交涉的艺术.md",
     "books/2026-07-22-review_交涉的艺术.md",
     "books/2026-07-21-review_交涉的艺术.md",
     "books/2026-07-26-review_交涉的艺术.md",
     "books/2026-07-28-review_交涉的艺术.md",
     "books/2026-07-27-review_交涉的艺术.md",
-    "books/2026-07-31-review_哲学的40堂公开课.md",
     "language/07/2026-07-30-language.md",
-    "books/2026-07-29-review_哲学的40堂公开课.md",
     "language/07/2026-07-29-language.md",
     "language/07/2026-07-28-language.md",
     "language/07/2026-07-18-language.md",
@@ -255,7 +256,6 @@
     "article/article_原子习惯.md",
     "language/07/2026-07-27-language.md",
     "books/2026-07-27-review_10分钟入禅休息法.md",
-    "article/2026-07-10-article_深度工作力笔记.md",
     "英文ai.pdf",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",
