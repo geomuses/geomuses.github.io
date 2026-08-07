@@ -63,7 +63,7 @@ I'm fed up with doing all the housework while you sit around all day  | 我厌�
 break even |  盈亏平衡
 <!--SR:!2026-06-12,1,242-->
 tribe | 部落
-<!--SR:!2026-06-24,2,262-->
+<!--SR:!2026-08-14,7,282-->
 baristas | 咖啡师
 <!--SR:!2026-06-15,4,282-->
 you get to the crust  |  弄到饼皮

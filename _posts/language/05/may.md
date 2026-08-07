@@ -79,7 +79,7 @@ critical | 关键
  salons | 沙龙
 <!--SR:!2026-07-12,26,274-->
  bankrupt | 破产
-<!--SR:!2026-08-04,60,310-->
+<!--SR:!2027-04-21,257,330-->
  lifespan | 寿命
 <!--SR:!2026-08-18,61,314-->
  as random as | 像随机一样
@@ -151,9 +151,9 @@ renovated a store | 翻新了商店
 mobile sales vehicles | 移动销售车辆
 <!--SR:!2026-06-23,12,283-->
 This is especially true in the countryside | 這種情況在農村地區尤其如此。
-<!--SR:!2026-06-25,14,298-->
+<!--SR:!2026-10-03,57,318-->
 This decline is not new.  | 这种下滑并非始于今日
-<!--SR:!2026-06-25,14,298-->
+<!--SR:!2026-08-14,7,278-->
 also been falling for decades | 也已持续数十年
 <!--SR:!2026-06-26,15,302-->
 Meanwhile, |  与此同时，
@@ -167,11 +167,11 @@ it was found that while most players did not lose interest in other forms of ent
  Many of us spend a large part of our day sitting down. | 我们很多人一天中大部分时间都是坐着的
 <!--SR:!2026-06-13,2,243-->
  There is evidence | 有证据表明
-<!--SR:!2026-06-23,1,183-->
+<!--SR:!2026-08-10,3,203-->
  you can also get up and move around during commercials | 你也可以在广告时间起身走动。
 <!--SR:!2026-06-27,16,303-->
  But now this exemption is being abolished. | 但现在这项豁免将被取消。
-<!--SR:!2026-06-28,17,302-->
+<!--SR:!2026-08-15,8,282-->
  A change of scene can give you a new perspective | 换个环境或许能让你看到新的视角
 <!--SR:!2026-06-23,12,283-->
  All these notifications that keep popping up are just so distracting | .
