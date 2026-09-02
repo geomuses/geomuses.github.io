@@ -19,7 +19,7 @@ surge | to increase suddenly and greatly 飙升
 rival | 对手
 <!--SR:!2026-06-17,11,286-->
 relief | a feeling of happiness following the removal of worry, stress, etc.; a cause of or occasion for the removal of worry, stress, etc. 消除忧虑、压力等后带来的幸福感;消除忧虑、压力等的原因或理由。
-<!--SR:!2026-06-25,3,185-->
+<!--SR:!2026-08-26,2,165-->
 experiment | 实验
 <!--SR:!2026-06-26,26,285-->
 hypothetical | 假设性

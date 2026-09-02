@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22c839114582f4e0",
+            "id": "6ac47607398cc84d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/08/2026-08-07-language.md",
+                "file": "language/09/2026-09-02-language.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-08-07-language"
-            }
-          },
-          {
-            "id": "3df4aa498f1ded19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "language/08/august.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "august"
+              "title": "2026-09-02-language"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,35 +227,35 @@
       "decks:Decks": false
     }
   },
-  "active": "3df4aa498f1ded19",
+  "active": "6ac47607398cc84d",
   "lastOpenFiles": [
+    "language/08/2026-08-10-language.md",
+    "language/09/2026-09-02-language.md",
+    "language/09",
+    "books/2026-09-02-review_爱的艺术.md",
+    "books/2026-08-03-review_哲学的40堂公开课.md",
+    "article/2026-04-26-article_学习英文.md",
+    "article/article_简单的逻辑学.md",
+    "article/artcle_如何学英文.md",
+    "article/article_逃避问题的自己.md",
+    "language/08/august.md",
+    "books/2026-08-02-review_交涉的艺术.md",
+    "article/2026-03-03-article_第一天上班准则.md",
+    "language/07/july.md",
     "language/08/2026-08-07-language.md",
     "language/08/2026-08-03-language.md",
-    "language/08/august.md",
     "language/07/2026-07-31-language.md",
-    "article/article_简单的逻辑学.md",
     "article/2026-07-10-article_深度工作力笔记.md",
-    "books/2026-08-03-review_哲学的40堂公开课.md",
     "books/2026-07-31-review_哲学的40堂公开课.md",
-    "books/2026-08-02-review_交涉的艺术.md",
     "books/2026-07-29-review_哲学的40堂公开课.md",
-    "language/07/july.md",
     "article/article_逃避现实.md",
     "language/08",
-    "article/article_逃避问题的自己.md",
     "books/2026-01-27-review_逆商我们该如何应对坏事件.md",
     "books/2026-08-03-review_交涉的艺术.md",
     "books/2026-07-22-review_交涉的艺术.md",
     "books/2026-07-21-review_交涉的艺术.md",
     "books/2026-07-26-review_交涉的艺术.md",
     "books/2026-07-28-review_交涉的艺术.md",
-    "books/2026-07-27-review_交涉的艺术.md",
-    "language/07/2026-07-30-language.md",
-    "language/07/2026-07-29-language.md",
-    "language/07/2026-07-28-language.md",
-    "language/07/2026-07-18-language.md",
-    "language/07/2026-07-17-language.md",
-    "language/07/2026-07-22-language.md",
     "英文ai.pdf",
     "language/07",
     "zttachment/Screenshot 2026-07-05 125704.png",
@@ -283,7 +268,6 @@
     "Canvas decks",
     "algorithm",
     "zttachment/qq_plots.png",
-    "zttachment",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
     "zttachment/Pasted image 20260414100958.png",

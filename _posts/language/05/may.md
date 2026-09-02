@@ -11,7 +11,7 @@ It estimated that the average annual cost of raising a child in the US is a litt
 overpass  | 桥梁
 <!--SR:!2026-07-24,38,294-->
 metro | 地铁
-<!--SR:!2026-07-13,37,290-->
+<!--SR:!2026-09-12,19,270-->
 an old highway overpass that the city turned into a public park and walkway | 这座城市将一座旧的高速公路高架桥改造成了一个公共公园和步行道。
 <!--SR:!2026-08-08,47,294-->
 cobbled |  鹅卵石铺成的
@@ -139,7 +139,7 @@ cellular level | 细胞层面
 studying their telomeres | 研究端粒
 <!--SR:!2026-06-23,1,214-->
 may be one piece of the puzzle in supporting healthier cellular aging. | 这或许是促进细胞健康衰老的关键因素之一
-<!--SR:!2026-08-16,41,254-->
+<!--SR:!2026-09-14,21,234-->
 Japan is particularly prone to natural disasters | 日本特别容易遭受自然灾害
 <!--SR:!2026-06-23,12,282-->
 earthquakes, typhoons, floods and landslides | 地震、台风、洪水和山体滑坡
