@@ -7,7 +7,7 @@ tags:
   - flask
 image: 07.jpg
 ---
-* **密碼安全性**：目前的範例是存明文（Plain Text），實務上請使用 `werkzeug.security` 的 `generate_password_hash` 進行加密。
+·* **密碼安全性**：目前的範例是存明文（Plain Text），實務上請使用 `werkzeug.security` 的 `generate_password_hash` 進行加密。
 * **路徑檢查**：確保你的專案目錄結構如下：
 ```text
 /app
