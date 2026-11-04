@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flask/2026-10-25-flask-先背知识.md",
+                "file": "books/review_爱的艺术.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-10-25-flask-先背知识"
+              "title": "review_爱的艺术"
             }
           }
         ],
@@ -242,10 +242,12 @@
       "decks:Decks": false
     }
   },
-  "active": "1ebc9a346584e92c",
+  "active": "ef3afc91e5be64df",
   "lastOpenFiles": [
-    "flask/README.md",
+    "python/2026-11-04-py_yield.md",
+    "python/2026-06-22-py_装饰器.md",
     "flask/2026-10-25-flask-先背知识.md",
+    "flask/README.md",
     "flask/old/2025-11-15-flask.md",
     "flask/old/2025-12-01-flask.md",
     "flask/flask_rest/2025-08-03-flask_前言.md",
@@ -257,7 +259,7 @@
     "language/09/2026-09-02-language.md",
     "language/08/2026-08-10-language.md",
     "language/09",
-    "books/2026-09-02-review_爱的艺术.md",
+    "books/review_爱的艺术.md",
     "books/2026-08-03-review_哲学的40堂公开课.md",
     "article/2026-04-26-article_学习英文.md",
     "article/article_简单的逻辑学.md",
@@ -270,8 +272,6 @@
     "language/08/2026-08-07-language.md",
     "language/08/2026-08-03-language.md",
     "language/07/2026-07-31-language.md",
-    "article/2026-07-10-article_深度工作力笔记.md",
-    "books/2026-07-31-review_哲学的40堂公开课.md",
     "language/08",
     "英文ai.pdf",
     "language/07",
