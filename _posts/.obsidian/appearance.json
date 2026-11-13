@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "style"
   ],
-  "theme": "system"
+  "theme": "system",
+  "showRibbon": true
 }

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b1c343dfc09a6ed9",
+        "id": "8610fbccc173bef7",
         "type": "tabs",
         "children": [
           {
-            "id": "6ac47607398cc84d",
+            "id": "4f8fac28289c1fc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flask/README.md",
+                "file": "books/2026-11-13-review_为何爱会伤人.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "ef3afc91e5be64df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/review_爱的艺术.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "review_爱的艺术"
+              "title": "2026-11-13-review_为何爱会伤人"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,12 +227,22 @@
       "decks:Decks": false
     }
   },
-  "active": "ef3afc91e5be64df",
+  "active": "4f8fac28289c1fc9",
   "lastOpenFiles": [
+    "books/2026-08-03-review_哲学的40堂公开课.md",
+    "books/2026-11-13-review_为何爱会伤人.md",
+    "qfin.md",
+    "概率论.md",
+    "数值分析误差分析.md",
+    "数值分析总结.md",
+    "qfin",
+    "fin/2025-08-17-fin.md",
+    "flask/README.md",
     "python/2026-11-04-py_yield.md",
+    "na",
+    "books/review_爱的艺术.md",
     "python/2026-06-22-py_装饰器.md",
     "flask/2026-10-25-flask-先背知识.md",
-    "flask/README.md",
     "flask/old/2025-11-15-flask.md",
     "flask/old/2025-12-01-flask.md",
     "flask/flask_rest/2025-08-03-flask_前言.md",
@@ -259,19 +254,11 @@
     "language/09/2026-09-02-language.md",
     "language/08/2026-08-10-language.md",
     "language/09",
-    "books/review_爱的艺术.md",
-    "books/2026-08-03-review_哲学的40堂公开课.md",
     "article/2026-04-26-article_学习英文.md",
     "article/article_简单的逻辑学.md",
     "article/artcle_如何学英文.md",
     "article/article_逃避问题的自己.md",
     "language/08/august.md",
-    "books/2026-08-02-review_交涉的艺术.md",
-    "article/2026-03-03-article_第一天上班准则.md",
-    "language/07/july.md",
-    "language/08/2026-08-07-language.md",
-    "language/08/2026-08-03-language.md",
-    "language/07/2026-07-31-language.md",
     "language/08",
     "英文ai.pdf",
     "language/07",
@@ -280,9 +267,7 @@
     "agent.hyperknow.io/response",
     "agent.hyperknow.io",
     "language/06/reading",
-    "lin-b2ac9f0fbbe6.deckssynclog",
     "Canvas decks/Decks — Canvas getting started.canvas",
-    "Canvas decks",
     "zttachment/qq_plots.png",
     "Untitled.canvas",
     "zttachment/Pasted image 20260414101013.png",
